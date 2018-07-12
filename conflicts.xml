@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<location place="Barnet" xCoord="-0.199606" yCoord="51.652929">
+		<conflict>War of the Roses</conflict>
+		<year>1471</year>
+		<source>Oman p169, Eggenberger p45, Hooper p144</source>
+		<mouseOverData/>
+	</location>
+	<location place="Blore Heath" xCoord="-0.315106" yCoord="51.719171">
+		<conflict>War of the Roses</conflict>
+		<year>1459</year>
+		<source>Oman p169, Eggenberger p55</source>
+		<mouseOverData>
+			<text>Staffordshire</text>
+		</mouseOverData>
+	</location>
+	<location place="Bosworth" xCoord="-1.401694" yCoord="52.624293">
+		<conflict>War of the Roses</conflict>
+		<year>1485-1487</year>
+		<source>Holmes p52</source>
+		<mouseOverData/>
+	</location>
+	<location place="Bramham Moor" xCoord="-1.355468" yCoord="53.881254">
+		<conflict>War of the Roses</conflict>
+		<year>1487</year>
+		<source>Hooper p144, Eggenberger p59</source>
+		<mouseOverData>
+			<text>Moor is along south coast. Eggenberger: Yorkshire. InfoBrit: near Tadcaster.</text>
+		</mouseOverData>
+	</location>
+	<location place="Brunkeberg" xCoord="8.48687" yCoord="59.437827">
+		<conflict>Danish-Swedish Wars</conflict>
+		<year>1471</year>
+		<source>Eggenberg p63, Hooper p185</source>
+		<mouseOverData/>
+	</location>
+	<location place="Castillon" xCoord="-0.040655" yCoord="44.855689">
+		<conflict>Hundred Years' War</conflict>
+		<year>1453</year>
+		<source>Oman p169, Eggenberger p80</source>
+		<mouseOverData/>
+	</location>
+	<location place="Dornach" xCoord="7.615767" yCoord="47.482128">
+		<conflict>Swiss-Swabian War</conflict>
+		<year>1499</year>
+		<source>Oman p169, Eggenberger p123</source>
+		<mouseOverData/>
+	</location>
+	<location place="Dunstable" xCoord="-0.523129" yCoord="51.887615">
+		<conflict>War of the Roses</conflict>
+		<year>1461</year>
+		<source>Hooper p142</source>
+		<mouseOverData/>
+	</location>
+	<location place="Edgecote" xCoord="-0.789443" yCoord="52.033483">
+		<conflict>War of the Roses</conflict>
+		<year>1469</year>
+		<source>Hooper p144</source>
+		<mouseOverData/>
+	</location>
+	<location place="Empingham " xCoord="-0.592305" yCoord="52.668264">
+		<conflict>War of the Roses</conflict>
+		<year>1470</year>
+		<source>Hooper p144, Eggenberger p247</source>
+		<mouseOverData>
+			<text>Lose-coat Field</text>
+		</mouseOverData>
+	</location>
+	<location place="Ferrybridge" xCoord="-1.273409" yCoord="53.712049">
+		<conflict>War of the Roses</conflict>
+		<year>1461</year>
+		<source>Hooper p142, Eggenberger p141</source>
+		<mouseOverData/>
+	</location>
+	<location place="Formigny" xCoord="-0.899171" yCoord="49.336395">
+		<conflict>Hundred Years' War</conflict>
+		<year>1450</year>
+		<source>Oman p169, Eggenberger p146</source>
+		<mouseOverData/>
+	</location>
+	<location place="Frastenz" xCoord="9.63061" yCoord="47.216928">
+		<conflict>Swiss-Swabian War</conflict>
+		<year>1499</year>
+		<source>Oman p169, Eggenberger p156</source>
+		<mouseOverData/>
+	</location>
+	<location place="Granada" xCoord="-3.597929" yCoord="37.176487">
+		<conflict>Spanish-Muslim Wars</conflict>
+		<year>1491-1492</year>
+		<source>Hooper p 185, Eggenberger p174</source>
+		<mouseOverData/>
+	</location>
+	<location place="Grandson" xCoord="6.645955" yCoord="46.809372">
+		<conflict>Swiss-Burgundian War</conflict>
+		<year>1476</year>
+		<source>Oman p169, Eggenberger p175. Hooper  p185</source>
+		<mouseOverData/>
+	</location>
+	<location place="Guinegate" xCoord="2.271314" yCoord="50.60721">
+		<conflict>Maximilian Habsburg deafeats Louis IX of France</conflict>
+		<year>1479</year>
+		<source>Hooper p 185</source>
+		<mouseOverData>
+			<text>French: Enguinegatte</text>
+		</mouseOverData>
+	</location>
+	<location place="Hedgeley Moor" xCoord="-1.84504" yCoord="55.440996">
+		<conflict>War of the Roses</conflict>
+		<year>1464</year>
+		<source>Oman p169, Eggenberger p189</source>
+		<mouseOverData/>
+	</location>
+	<location place="Hexham" xCoord="-2.097919" yCoord="54.970216">
+		<conflict>War of the Roses</conflict>
+		<year>1464</year>
+		<source>Hooper p142, Eggenberger p191</source>
+		<mouseOverData/>
+	</location>
+	<location place="Liège" xCoord="5.572047" yCoord="50.640649">
+		<conflict>Swiss-Burgundian War</conflict>
+		<year>1467, 1471</year>
+		<source>Nicholson p.xx, Hooper p149</source>
+		<mouseOverData/>
+	</location>
+	<location place="Mainz" xCoord="8.267675" yCoord="49.995728">
+		<conflict>strike by Archbishop Adolf of Nassau</conflict>
+		<year>1462</year>
+		<source>Dobras p27</source>
+		<mouseOverData>
+			<text>October 28, 1462</text>
+		</mouseOverData>
+	</location>
+	<location place="Montlhéry" xCoord="2.270938" yCoord="48.639708">
+		<conflict>French-Burgundian War</conflict>
+		<year>1465</year>
+		<source>Hooper p149, Eggenberger p285</source>
+		<mouseOverData/>
+	</location>
+	<location place="Morat (Murten)" xCoord="7.117695" yCoord="46.928652">
+		<conflict>Swiss-Burgundian War</conflict>
+		<year>1476</year>
+		<source>Oman p169, Eggenberger p286, Hooper p185</source>
+		<mouseOverData>
+			<text>German: Murten</text>
+		</mouseOverData>
+	</location>
+	<location place="Mortimer's Cross" xCoord="-2.843454" yCoord="52.268858">
+		<conflict>War of the Roses</conflict>
+		<year>1461</year>
+		<source>Hooper p142, Eggenberger p286</source>
+		<mouseOverData>
+			<text>near Wigmore</text>
+		</mouseOverData>
+	</location>
+	<location place="Nancy" xCoord="6.180327" yCoord="48.688175">
+		<conflict>Swiss-Burgundian War</conflict>
+		<year>1477</year>
+		<source>Oman p169, Eggenberger p294</source>
+		<mouseOverData/>
+	</location>
+	<location place="Neuss" xCoord="6.69529" yCoord="51.198429">
+		<conflict>Burgundian Wars</conflict>
+		<year>1474-1475</year>
+		<source>Nicholson p.xx, Hooper p149</source>
+		<mouseOverData/>
+	</location>
+	<location place="Northampton" xCoord="-0.897391" yCoord="52.236874">
+		<conflict>War of the Roses</conflict>
+		<year>1460</year>
+		<source>Holmes p52, Oman p169, Eggenberger p310</source>
+		<mouseOverData/>
+	</location>
+	<location place="St. Albans" xCoord="-0.333892" yCoord="51.75153">
+		<conflict>War of the Roses</conflict>
+		<year>1455, 1461</year>
+		<source>Holmes p52, Oman p169, Eggenberger p375</source>
+		<mouseOverData/>
+	</location>
+	<location place="Tewkesbury" xCoord="-2.151458" yCoord="51.993784">
+		<conflict>War of the Roses</conflict>
+		<year>1471</year>
+		<source>Oman p169, Eggenberger p431</source>
+		<mouseOverData/>
+	</location>
+	<location place="Towton" xCoord="-1.26377" yCoord="53.850742">
+		<conflict>War of the Roses</conflict>
+		<year>1461</year>
+		<source>Holmes p52, Oman p169, Eggenberger p442</source>
+		<mouseOverData/>
+	</location>
+	<location place="Wakefield" xCoord="-1.499097" yCoord="53.682973">
+		<conflict>War of the Roses</conflict>
+		<year>1460</year>
+		<source>Holmes p52</source>
+		<mouseOverData/>
+	</location>
+	<location place="Waldshut" xCoord="8.216843" yCoord="47.628609">
+		<conflict>Seige of Waldshut</conflict>
+		<year>1468</year>
+		<source>Oman p169</source>
+		<mouseOverData/>
+	</location>
+</data>

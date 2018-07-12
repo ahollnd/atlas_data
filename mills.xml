@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<location place="Alsemberg" xCoord="4.336194" yCoord="50.743466">
+		<owner>Willem le papetier</owner>
+		<millName>Tenbroekmolen (?)</millName>
+		<year>1458</year>
+		<mouseOverData/>
+	</location>
+	<location place="Amalfi" xCoord="14.6" yCoord="40.6333">
+		<year>0</year>
+		<mouseOverData>
+			<text>13th C. - present</text>
+		</mouseOverData>
+	</location>
+	<location place="Ambert" xCoord="3.7425" yCoord="44.55">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1396</text>
+		</mouseOverData>
+	</location>
+	<location place="Arches" xCoord="6.527508" yCoord="48.118629">
+		<millName>Moulin d'Arches (sur le rupt de Ravon)</millName>
+		<year>1469</year>
+		<mouseOverData/>
+	</location>
+	<location place="Archettes" xCoord="6.531332" yCoord="48.123587">
+		<millName>Multiple mills; see note.</millName>
+		<year>1470</year>
+		<mouseOverData>
+			<text>Le moulin Marc, 1470-(1577). Le moulin Allexys, 1492-1572. Le Gras Bernard or la Huate, 1494-1891. </text>
+		</mouseOverData>
+	</location>
+	<location place="Augsburg" xCoord="10.9" yCoord="48.35">
+		<year>1450</year>
+		<mouseOverData/>
+	</location>
+	<location place="Bains-les-Bains" xCoord="6.264441" yCoord="48.001907">
+		<millName>Le Breuil</millName>
+		<year>1477</year>
+		<mouseOverData>
+			<text>This city is currently called Bains-les-Bains,but is cited as Bains in Janot's Les moulins à papier de la région vosgienne.</text>
+		</mouseOverData>
+	</location>
+	<location place="Banyoles" xCoord="2.764747" yCoord="42.118119">
+		<year>0</year>
+		<mouseOverData>
+			<text>12th - 16th C. </text>
+		</mouseOverData>
+	</location>
+	<location place="Barberey" xCoord="4.055" yCoord="48.35">
+		<millName>Moulin de Barberey</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 1397. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Barcelona" xCoord="2.169918" yCoord="41.387917">
+		<year>0</year>
+		<mouseOverData>
+			<text>12th - 16th C.</text>
+		</mouseOverData>
+	</location>
+	<location place="Basel" xCoord="7.566809" yCoord="47.519419">
+		<owner>Multiple owners; see note.</owner>
+		<millName>St. Albantal</millName>
+		<year>1489</year>
+		<mouseOverData>
+			<text>Hans Zürcher, St. Albantal No. 27, Upper Spiegel Mill, 1489-1494. Peter Höflin, St. Albantal No. 31, Upper Spiegel Mill, 1472-1487. Michael Gernler, St. Albantal No. 31, Upper Spiegel Mill, 1487-1413. Antonio and Michael Galliziani, St. Albantal No. 35, Klingental Mill, 1453-1494? Franz Galliziani, St. Albantal No. 35, Klingental Mill, 1494-1523. Antonio Galliziani, St. Albantal No. 37, Stegreif Mill, 1482-1486. Franz Galliziani, St. Albantal No. 37, Stegreif Mill, 1486-1523. Heinrich Halbysen I, St. Albantal No. 41, Rychmühle, 1488-1451. Heinrich Halbysen II, St. Albantal No. 41, Rychmühle, 1451-1467. Michael Galliziani, St. Albantal No. 41, Rychmühle, 1467-1494. Lufft Hans, St. Albantal No. 41, Rychmühle, 1494-1515. Heinrich Halbysen I, St. Albantal No. 39, Zunziger Mill, 1449-1451. Heinrich Halbysen II, St. Albantal No. 39, Zunziger Mill, 1451-1470. Ulrich Zurcher, St. Albantal No. 39, Zunziger Mill, 1470-1486. Hans Strub, St. Albantal No. 39, Zunziger Mill, 1486-1494. Conrad Wesslin, St. Albantal No. 39, Zunziger Mill, 1494-1496. Hans Kielhammer, St. Albantal No. 39, Zunziger Mill, 1496-1523.</text>
+		</mouseOverData>
+	</location>
+	<location place="Beaujeu" xCoord="4.5833" yCoord="46.15">
+		<millName>Moulin de Beaujeau</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded c. 1383. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Belfaux" xCoord="7.1" yCoord="46.81667">
+		<year>0</year>
+		<mouseOverData>
+			<text>1390 - 1450</text>
+		</mouseOverData>
+	</location>
+	<location place="Bern " xCoord="7.45" yCoord="46.95">
+		<owner>Multiple owners; see note.</owner>
+		<millName>Multiple mills; see note.</millName>
+		<year>1466</year>
+		<mouseOverData>
+			<text>c. 1466-1859. Worblaufen mill owners Tschan and Anthon Jacki. Zu Thal mill owners Tschan and Anthon Jacki; Antonio Galliziani and Michael Warung; Peter Selsach. </text>
+		</mouseOverData>
+	</location>
+	<location place="Besançon" xCoord="6.027197" yCoord="47.275583">
+		<millName>Moulin de Besançon</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>1392-</text>
+		</mouseOverData>
+	</location>
+	<location place="Bologna" xCoord="11.343191" yCoord="44.475421">
+		<owner>Maestro Polese</owner>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 13th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Braine L'Alleud" xCoord="4.370197" yCoord="50.682535">
+		<owner>Châtelin de Beersel</owner>
+		<millName>Slijpomolen</millName>
+		<year>1476</year>
+		<mouseOverData/>
+	</location>
+	<location place="Bréviandes" xCoord="4.09" yCoord="48.2">
+		<millName>Moulin de Breviande</millName>
+		<year>1362</year>
+		<mouseOverData>
+			<text>It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Brussels" xCoord="4.377191" yCoord="50.809423">
+		<year>0</year>
+		<mouseOverData>
+			<text>1390-(1450)</text>
+		</mouseOverData>
+	</location>
+	<location place="Cadenet" xCoord="5.3667" yCoord="43.7333">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 14th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Caderousse" xCoord="4.755" yCoord="44.09">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 14th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Capellades" xCoord="1.7" yCoord="41.5333">
+		<year>0</year>
+		<mouseOverData>
+			<text>1238-16th C.</text>
+		</mouseOverData>
+	</location>
+	<location place="Chamalières" xCoord="3.067321" yCoord="45.776781">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 1402. Nicolaï lists a mill at Chamalieres near Clermont. Basanoff lists a mill at Clermont, and Boithias cites both towns having mills (Boithias, p. 21).</text>
+		</mouseOverData>
+	</location>
+	<location place="Chemnitz" xCoord="12.9167" yCoord="50.8333">
+		<year>0</year>
+		<mouseOverData>
+			<text>1398-(1450)</text>
+		</mouseOverData>
+	</location>
+	<location place="Claramunt" xCoord="1.68333" yCoord="41.55">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 12th-13th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Clermont-Ferrand" xCoord="2.41333" yCoord="49.379722">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 1402. Nicolaï lists a mill at Chamalieres near Clermont. Basanoff lists a mill at Clermont, and Boithias cites both towns having mills (Boithias, p. 21).</text>
+		</mouseOverData>
+	</location>
+	<location place="Colle" xCoord="11.1333" yCoord="43.4">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 13th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Copons" xCoord="1.51667" yCoord="41.6333">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 12th - 13th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Crillon-le-Brave " xCoord="5.15" yCoord="44.11667">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 14th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Docelles" xCoord="6.619469" yCoord="48.147109">
+		<millName>Vraichamp</millName>
+		<year>1492</year>
+		<mouseOverData>
+			<text>1492 - ante 1914</text>
+		</mouseOverData>
+	</location>
+	<location place="Doos" xCoord="11.03" yCoord="49.4667">
+		<year>1450</year>
+		<mouseOverData/>
+	</location>
+	<location place="Dworp" xCoord="4.3005" yCoord="50.729677">
+		<owner>Rummer le papetier</owner>
+		<year>1462</year>
+		<mouseOverData/>
+	</location>
+	<location place="Entraygues" xCoord="2.5675" yCoord="44.67222">
+		<owner>Duc de Bourgogne </owner>
+		<millName>Moulin d'Entraygues</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 1426. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Épinal" xCoord="6.449983" yCoord="48.174775">
+		<millName>Multiple mills; see note.</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Le Gouverneur, 1444-(1488) and Le Poux, 1453.</text>
+		</mouseOverData>
+	</location>
+	<location place="Essones" xCoord="2.475833" yCoord="48.610833">
+		<millName>Multiple mills; see note.</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Moulin de Mennuy, 1380 and an unnamed mill, 1355. It is not certain that these mills were active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Fabriano" xCoord="12.9" yCoord="43.333">
+		<millName>Multiple mills; see note.</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Active c. 1250-present. There were 38 mills active in Fabriano in 1563. (Zonghi, p. 78)</text>
+		</mouseOverData>
+	</location>
+	<location place="Faverges" xCoord="6.29531" yCoord="45.745278">
+		<millName>Moulin de Faverges</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded c. 1350. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Foligno" xCoord="12.7" yCoord="42.95">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 13th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Gennep" xCoord="5.9667" yCoord="51.7167">
+		<owner>Willem Boye</owner>
+		<year>0</year>
+		<mouseOverData>
+			<text>1428-</text>
+		</mouseOverData>
+	</location>
+	<location place="Genoa" xCoord="8.933988" yCoord="44.407062">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 13th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Girona" xCoord="2.823699" yCoord="41.981795">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 12th - 13th C.It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Hagenhausen" xCoord="11.4" yCoord="49.38333">
+		<year>1450</year>
+		<mouseOverData/>
+	</location>
+	<location place="Hertford" xCoord="0.078" yCoord="51.795">
+		<owner>John Tate</owner>
+		<millName>Sele Mill</millName>
+		<year>1495</year>
+		<mouseOverData/>
+	</location>
+	<location place="Heverlee" xCoord="4.693574" yCoord="50.864406">
+		<millName>Moulin de l'abbé Du Park</millName>
+		<year>1492</year>
+		<mouseOverData/>
+	</location>
+	<location place="Hirschbach" xCoord="11.540843" yCoord="49.556328">
+		<year>1450</year>
+		<mouseOverData/>
+	</location>
+	<location place="l'Isle-sur-la-Sorgue" xCoord="5.054722" yCoord="43.92">
+		<millName>Moulin de Sorguette </millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 1434. Near l'Isle-sur-Sorgues. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Klingenthal" xCoord="12.4667" yCoord="50.35">
+		<year>1450</year>
+		<mouseOverData/>
+	</location>
+	<location place="Kraainem" xCoord="4.466877" yCoord="50.861816">
+		<owner>Multiple owners; see note.</owner>
+		<millName>Verkrankenmolen</millName>
+		<year>1475</year>
+		<mouseOverData>
+			<text>Merten van Canegom, 1475; Willems fils du papetier, 1490; Hennen le papetier, 1498. </text>
+		</mouseOverData>
+	</location>
+	<location place="Kraków (Cracow) " xCoord="19.97258" yCoord="50.089577">
+		<millName>Multiple mills; see note.</millName>
+		<year>1450</year>
+		<mouseOverData>
+			<text>1) Johann Haller, Czaiowice Mill, 1491. Eineder states "Czaiowice is one of the paper-mills of Cracow (Further paper-mills in Cracow were: Pradnik, Rauchmühle and Froschmühle)" (pp. XCVI, 155). Hunter and Basanoff cite "Pradnik Czerwony, near Kraków." (Hunter, p. 477). Pradnik Czerwony is listed as an outlying district of Kraków. 2) Pradnik-Duchacki Mill, 1450. Basanoff calls this mill Pradnik Duchacki, as does Hunter, who adds that papermaker Frédéric Szyling worked here around 1495, (Hunter, p. 477, citing Lucia Merecki Borski). Although no location called Pradnik Duchacki was found, there are two districts in Kraków called Pradnik Czerwony and Wola Duchacka. Eineder refers to this mill as Pradnik (pp. XCVI, 155). 3) Moglia-Cracow Mill, 1450 (Basanoff cites as Mogila).</text>
+		</mouseOverData>
+	</location>
+	<location place="Kremsmünster" xCoord="14.1333" yCoord="48.0833">
+		<year>1450</year>
+		<mouseOverData/>
+	</location>
+	<location place="La Riba" xCoord="1.24" yCoord="41.29">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 12th-13th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Linkebeek" xCoord="4.333333" yCoord="50.766667">
+		<owner>Multiple owners; see note.</owner>
+		<millName>Multiple mills; see note.</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Duc de Bourgogne, Slijpmolen Mill, 1439. Meeus and Peter the papermakers, unnamed mill, 1468. Speldries molen, 1492.</text>
+		</mouseOverData>
+	</location>
+	<location place="Macerata" xCoord="13.45" yCoord="43.3">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 13th C.It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Malaucène" xCoord="5.133056" yCoord="44.175">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 14th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Manresa" xCoord="1.8333" yCoord="41.7333">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 12th-13th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Marly" xCoord="7.1667" yCoord="46.78333">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1390-1450</text>
+		</mouseOverData>
+	</location>
+	<location place="Mons" xCoord="3.95" yCoord="50.45">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1390-1450</text>
+		</mouseOverData>
+	</location>
+	<location place="Nuremburg " xCoord="11.0667" yCoord="49.45">
+		<owner>Ulman Stromer</owner>
+		<millName>Stromer Mill (Gleismühl)</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1390. This mill is depicted in Nuremberg Chronicle (Liber chronicarum), Folio 99 verso and 100 recto, on the lower right corner of the spread of the city.</text>
+		</mouseOverData>
+	</location>
+	<location place="Nysa (Neisse)" xCoord="17.333889" yCoord="50.471389">
+		<year>1496</year>
+		<mouseOverData/>
+	</location>
+	<location place="Olot" xCoord="2.4833" yCoord="42.1833">
+		<year>0</year>
+		<mouseOverData>
+			<text>12th-16th C.</text>
+		</mouseOverData>
+	</location>
+	<location place="Orange" xCoord="4.8" yCoord="44.1333">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 14th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Padua" xCoord="11.883" yCoord="45.4167">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1339-1450</text>
+		</mouseOverData>
+	</location>
+	<location place="Pinerolo" xCoord="7.3167" yCoord="44.8833">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 13th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Pioraco " xCoord="12.9833" yCoord="43.1833">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded c. 1360. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Racibórz (Ratibor)" xCoord="18.228578" yCoord="50.089139">
+		<year>1497</year>
+		<mouseOverData/>
+	</location>
+	<location place="Rambervillers" xCoord="6.635319" yCoord="48.34602">
+		<millName>Multiple mills; see note.</millName>
+		<year>1493</year>
+		<mouseOverData>
+			<text>Le Ruisseau de Broué, 1493; Génavoid, 1494.</text>
+		</mouseOverData>
+	</location>
+	<location place="Ravensburg" xCoord="9.6167" yCoord="47.7833">
+		<year>0</year>
+		<mouseOverData>
+			<text>1390-1450</text>
+		</mouseOverData>
+	</location>
+	<location place="Saint-Cloud" xCoord="2.21944" yCoord="48.843889">
+		<millName>Moulin de la Jou</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 1376. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Saint-Dié" xCoord="6.951746" yCoord="48.281521">
+		<millName>Multiple mills; see note.</millName>
+		<year>1464</year>
+		<mouseOverData>
+			<text>Le Breuil, 1483; Pres du grand pont, 1464.</text>
+		</mouseOverData>
+	</location>
+	<location place="Saint-Léonard-de-Noblat" xCoord="1.489745" yCoord="45.836621">
+		<millName>Multiple mills; see note.</millName>
+		<year>1480</year>
+		<mouseOverData>
+			<text>Contramoulin; Moulin du Got</text>
+		</mouseOverData>
+	</location>
+	<location place="Salò" xCoord="10.5167" yCoord="45.6">
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 13th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Sampierdarena" xCoord="8.84" yCoord="44.42">
+		<owner>Grazioso di Damiano</owner>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 1406. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Schaarbeek" xCoord="4.368603" yCoord="50.858635">
+		<millName>Wijngaertmolen</millName>
+		<year>1494</year>
+		<mouseOverData/>
+	</location>
+	<location place="Schnigling" xCoord="10.9333" yCoord="49.1667">
+		<year>1450</year>
+		<mouseOverData/>
+	</location>
+	<location place="Sint-Genesius-Rode" xCoord="4.345593" yCoord="50.744956">
+		<owner>Multiple owners; see note.</owner>
+		<millName>Tenbroekmolen (?)</millName>
+		<year>1490</year>
+		<mouseOverData>
+			<text>Clement le papetier, 1490; Jan Paleydt papetier, 1495</text>
+		</mouseOverData>
+	</location>
+	<location place="Sorgues" xCoord="4.9167" yCoord="44">
+		<millName>Moulin sur la Sorgue</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 1404. Nicolaï places a mill in Sorgues while Basanoff cites Sorgue. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="St. Polten" xCoord="15.638562" yCoord="48.138617">
+		<owner>André Weyer (?)</owner>
+		<millName>Lower Mill on the Traisen</millName>
+		<year>1469</year>
+		<mouseOverData>
+			<text>André Weyer bequeathed the mill to the Prebendary Foundation on his death in 1481.</text>
+		</mouseOverData>
+	</location>
+	<location place="Strassburg" xCoord="7.75" yCoord="48.5833">
+		<year>0</year>
+		<mouseOverData>
+			<text>1390-1450</text>
+		</mouseOverData>
+	</location>
+	<location place="Świdnica (Schweidnitz) " xCoord="16.4833" yCoord="50.25">
+		<owner>Papermaker Michael Peuthl</owner>
+		<year>1491</year>
+		<mouseOverData/>
+	</location>
+	<location place="Thiers" xCoord="3.548333" yCoord="45.857222">
+		<millName>Moulins de Thiers</millName>
+		<year>1487</year>
+		<mouseOverData/>
+	</location>
+	<location place="Treviso" xCoord="12.25" yCoord="45.6667">
+		<year>0</year>
+		<mouseOverData>
+			<text>13th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Trévoux" xCoord="4.7667" yCoord="45.95">
+		<year>0</year>
+		<mouseOverData>
+			<text>14th C. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Troyes" xCoord="4.0833" yCoord="48.3">
+		<millName>Moulin de la Pielle</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 1351. Nicolaï places Moulin de la Pielle near Troyes. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Trutnov (Trautenau)" xCoord="15.837446" yCoord="50.560361">
+		<millName>Trautenau Mill, Aupa Mill </millName>
+		<year>1500</year>
+		<mouseOverData>
+			<text>Eineder states "A mill was founded about this date (1500), known as the Trautenau Mill and also as the Aupa Mill." (pp. XCVI, 131)</text>
+		</mouseOverData>
+	</location>
+	<location place="Tullnau" xCoord="11.095279" yCoord="49.444845">
+		<year>1450</year>
+		<mouseOverData/>
+	</location>
+	<location place="Uccle" xCoord="4.37" yCoord="50.8">
+		<year>0</year>
+		<mouseOverData>
+			<text>1390-1450</text>
+		</mouseOverData>
+	</location>
+	<location place="Vic" xCoord="2.254349" yCoord="41.930291">
+		<year>0</year>
+		<mouseOverData>
+			<text>12th-16th C.</text>
+		</mouseOverData>
+	</location>
+	<location place="Ville-sur-Saulx" xCoord="5.06" yCoord="48.713889">
+		<millName>Moulin de Ville-sur-Saulx</millName>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 1348. In region of Barrois. Basanoff spells the town Saulx and Nicolaï spells it Saux. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Voltri" xCoord="8.75" yCoord="44.4333">
+		<owner>Grazioso di Damiano</owner>
+		<year>0</year>
+		<mouseOverData>
+			<text>Founded 1406. It is not certain that this mill was active during the period of 1450-1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Wiener-Neustadt" xCoord="16.25" yCoord="48.8167">
+		<owner>Mathes Klauber</owner>
+		<year>1498</year>
+		<mouseOverData>
+			<text>c. 1498-1860. Mathes Klauber is cited as "tenant for life" (Eineder, pp. XCVI, 56), thus it is not certain that he was the owner of the mill.</text>
+		</mouseOverData>
+	</location>
+	<location place="Wrocław (Breslau) " xCoord="17.033333" yCoord="51.116667">
+		<year>1490</year>
+		<mouseOverData/>
+	</location>
+	<location place="Zaventem" xCoord="4.470126" yCoord="50.887687">
+		<owner>Willem Fassenack papetier</owner>
+		<millName>Rattenmolen (?)</millName>
+		<year>1479</year>
+		<mouseOverData/>
+	</location>
+	<location place="Zbraslav (Königsaal)" xCoord="14.492283" yCoord="50.004777">
+		<owner>Monastery </owner>
+		<year>1499</year>
+		<mouseOverData>
+			<text>1499 - c. 1696. Eineder states "1499: King Vratislav permitted the miller of the Abbot of Konigsaal to buy rags and make paper, but further details are lacking. If this licence became effective, then Konigsaal is the most ancient paper-mill of Bohemia and this is the oldest record relating to a paper-mill in this kingdom." (pp. XCVI, 121). Basanoff places this mill between 1390-1450.</text>
+		</mouseOverData>
+	</location>
+	<location place="Zurich" xCoord="8.55" yCoord="47.3833">
+		<year>1450</year>
+		<mouseOverData/>
+	</location>
+</data>

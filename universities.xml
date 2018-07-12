@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<location place="Aberdeen" xCoord="-2.11" yCoord="57.1526">
+		<year>1495</year>
+		<mouseOverData>
+			<text>Rashdall cites 1494</text>
+		</mouseOverData>
+	</location>
+	<location place="Aix-en-Provence" xCoord="5.4233" yCoord="43.531389">
+		<year>1409</year>
+		<mouseOverData/>
+	</location>
+	<location place="Alcalá de Henares" xCoord="-3.3700" yCoord="40.4800">
+		<year>1499</year>
+		<mouseOverData/>
+	</location>
+	<location place="Angers" xCoord="-0.5333" yCoord="47.4833">
+		<year>1250</year>
+		<mouseOverData>
+			<text>Ridder cites c. 1250, Rashdall cites c. 1229</text>
+		</mouseOverData>
+	</location>
+	<location place="Avignon" xCoord="4.8" yCoord="43.9333">
+		<year>1303</year>
+		<mouseOverData>
+			<text>Rashdall cites 1305</text>
+		</mouseOverData>
+	</location>
+	<location place="Barcelona" xCoord="2.168195" yCoord="41.348803">
+		<year>1450</year>
+		<mouseOverData/>
+	</location>
+	<location place="Basel" xCoord="7.566809" yCoord="47.519419">
+		<year>1459</year>
+		<mouseOverData/>
+	</location>
+	<location place="Bologna" xCoord="11.343191" yCoord="44.475421">
+		<year>0</year>
+		<mouseOverData>
+			<text>12th C. (precise date unknown).</text>
+		</mouseOverData>
+	</location>
+	<location place="Bordeaux" xCoord="0.57833" yCoord="40.921944">
+		<year>1441</year>
+		<mouseOverData/>
+	</location>
+	<location place="Bourges" xCoord="2.396389" yCoord="47.8444">
+		<year>1464</year>
+		<mouseOverData/>
+	</location>
+	<location place="Bratislava (Pressburg)" xCoord="17.10731" yCoord="48.148376">
+		<year>1465</year>
+		<mouseOverData/>
+	</location>
+	<location place="Budapest" xCoord="19.066424" yCoord="47.487415">
+		<year>1389</year>
+		<mouseOverData/>
+	</location>
+	<location place="Caen" xCoord="-0.364576" yCoord="49.184195">
+		<year>1432</year>
+		<mouseOverData/>
+	</location>
+	<location place="Cahors" xCoord="1.4333" yCoord="44.45">
+		<year>1332</year>
+		<mouseOverData/>
+	</location>
+	<location place="Cambridge" xCoord="0.1225" yCoord="52.208056">
+		<year>1209</year>
+		<mouseOverData>
+			<text>circa 1209</text>
+		</mouseOverData>
+	</location>
+	<location place="Catania" xCoord="15.0667" yCoord="37.51667">
+		<year>1444</year>
+		<mouseOverData/>
+	</location>
+	<location place="Coimbra" xCoord="-8.429201" yCoord="40.211491">
+		<year>1308</year>
+		<mouseOverData/>
+	</location>
+	<location place="Cologne" xCoord="6.959927" yCoord="50.918744">
+		<year>1388</year>
+		<mouseOverData/>
+	</location>
+	<location place="Copenhagen" xCoord="12.577577" yCoord="55.692418">
+		<year>1475</year>
+		<mouseOverData/>
+	</location>
+	<location place="Kraków (Cracow)" xCoord="19.97258" yCoord="50.089577">
+		<year>1364</year>
+		<mouseOverData/>
+	</location>
+	<location place="Dôle" xCoord="5.5" yCoord="47.0833">
+		<year>1422</year>
+		<mouseOverData/>
+	</location>
+	<location place="Erfurt" xCoord="11.008418" yCoord="50.930032">
+		<year>1379</year>
+		<mouseOverData/>
+	</location>
+	<location place="Ferrara" xCoord="11.6333" yCoord="44.833">
+		<year>1391</year>
+		<mouseOverData/>
+	</location>
+	<location place="Florence" xCoord="11.258552" yCoord="43.770765">
+		<year>1349</year>
+		<mouseOverData/>
+	</location>
+	<location place="Frankfurt (Oder)" xCoord="14.5538" yCoord="52.3416">
+		<year>1498</year>
+		<mouseOverData/>
+	</location>
+	<location place="Freiburg Im Breisgau " xCoord="7.8667" yCoord="48">
+		<year>1457</year>
+		<mouseOverData>
+			<text>Rashdall cites 1455-6</text>
+		</mouseOverData>
+	</location>
+	<location place="Glasgow" xCoord="-4.259" yCoord="55.858">
+		<year>1451</year>
+		<mouseOverData/>
+	</location>
+	<location place="Greifswald" xCoord="13.3833" yCoord="54.08333">
+		<year>1456</year>
+		<mouseOverData/>
+	</location>
+	<location place="Grenoble" xCoord="5.7167" yCoord="45.1833">
+		<year>1339</year>
+		<mouseOverData/>
+	</location>
+	<location place="Heidelberg" xCoord="8.7" yCoord="49.4167">
+		<year>1385</year>
+		<mouseOverData/>
+	</location>
+	<location place="Huesca" xCoord="-0.4167" yCoord="42.1333">
+		<year>1354</year>
+		<mouseOverData/>
+	</location>
+	<location place="Ingolstadt" xCoord="11.45" yCoord="48.7667">
+		<year>1459</year>
+		<mouseOverData>
+			<text>Founded in 1459, opening delayed by war to 1472.</text>
+		</mouseOverData>
+	</location>
+	<location place="Leipzig" xCoord="12.385727" yCoord="51.343361">
+		<year>1409</year>
+		<mouseOverData/>
+	</location>
+	<location place="Lérida" xCoord="0.6333" yCoord="41.6167">
+		<year>1300</year>
+		<mouseOverData/>
+	</location>
+	<location place="Lisbon" xCoord="-9.139189" yCoord="38.684029">
+		<year>1290</year>
+		<mouseOverData/>
+	</location>
+	<location place="Louvain" xCoord="4.7" yCoord="50.8833">
+		<year>1425</year>
+		<mouseOverData/>
+	</location>
+	<location place="Lucca" xCoord="10.467" yCoord="43.8333">
+		<year>1369</year>
+		<mouseOverData/>
+	</location>
+	<location place="Mainz" xCoord="8.239811" yCoord="49.992808">
+		<year>1476</year>
+		<mouseOverData/>
+	</location>
+	<location place="Montpellier" xCoord="3.8772" yCoord="43.61194">
+		<year>0</year>
+		<mouseOverData>
+			<text>beginning of 13th C. (precise date unknown).</text>
+		</mouseOverData>
+	</location>
+	<location place="Nantes" xCoord="-1.534423" yCoord="47.20981">
+		<year>1460</year>
+		<mouseOverData/>
+	</location>
+	<location place="Naples" xCoord="14.269218" yCoord="40.855779">
+		<year>1224</year>
+		<mouseOverData/>
+	</location>
+	<location place="Orange" xCoord="4.809722" yCoord="44.13833">
+		<year>1365</year>
+		<mouseOverData/>
+	</location>
+	<location place="Orléans" xCoord="1.905196" yCoord="47.904583">
+		<year>1235</year>
+		<mouseOverData>
+			<text>circa 1235</text>
+		</mouseOverData>
+	</location>
+	<location place="Oxford" xCoord="-1.25" yCoord="51.7667">
+		<year>1200</year>
+		<mouseOverData>
+			<text>Ridder suggests Oxford was founded at the "beginning of 13th century." According to the Oxford website, the school existed in the 12th century, and was officially recognized in the 13th century. </text>
+		</mouseOverData>
+	</location>
+	<location place="Padua" xCoord="11.883" yCoord="45.4167">
+		<year>1222</year>
+		<mouseOverData/>
+	</location>
+	<location place="Palma (Mallorca)" xCoord="2.65" yCoord="39.5833">
+		<year>1483</year>
+		<mouseOverData/>
+	</location>
+	<location place="Paris" xCoord="2.442191" yCoord="48.836029">
+		<year>0</year>
+		<mouseOverData>
+			<text>beginning of 13th C. (precise date unknown).</text>
+		</mouseOverData>
+	</location>
+	<location place="Pavia" xCoord="9.15" yCoord="45.2">
+		<year>1361</year>
+		<mouseOverData/>
+	</location>
+	<location place="Perpignan" xCoord="2.9" yCoord="42.7">
+		<year>1350</year>
+		<mouseOverData/>
+	</location>
+	<location place="Perugia" xCoord="12.394193" yCoord="43.158965">
+		<year>1308</year>
+		<mouseOverData/>
+	</location>
+	<location place="Piacenza" xCoord="9.6833" yCoord="45.05">
+		<year>1248</year>
+		<mouseOverData/>
+	</location>
+	<location place="Pisa" xCoord="10.4" yCoord="43.7167">
+		<year>1343</year>
+		<mouseOverData/>
+	</location>
+	<location place="Poitiers" xCoord="0.367583" yCoord="46.61258">
+		<year>1431</year>
+		<mouseOverData/>
+	</location>
+	<location place="Prague" xCoord="14.492283" yCoord="50.094777">
+		<year>1347</year>
+		<mouseOverData/>
+	</location>
+	<location place="Rome" xCoord="12.492419" yCoord="41.870803">
+		<year>1303</year>
+		<mouseOverData>
+			<text>Sapienza (originally Studium Urbis)</text>
+		</mouseOverData>
+	</location>
+	<location place="Rostock" xCoord="12.15" yCoord="54.1">
+		<year>1419</year>
+		<mouseOverData/>
+	</location>
+	<location place="Salamanca" xCoord="-5.6667" yCoord="40.9667">
+		<year>1218</year>
+		<mouseOverData>
+			<text>Ridder cites before 1218-19, Rashdall cites c.1227</text>
+		</mouseOverData>
+	</location>
+	<location place="Salerno " xCoord="14.766" yCoord="40.6833">
+		<year>1231</year>
+		<mouseOverData/>
+	</location>
+	<location place="Siena" xCoord="11.3167" yCoord="43.3167">
+		<year>1246</year>
+		<mouseOverData/>
+	</location>
+	<location place="Sigüenza" xCoord="-2.633" yCoord="41.0667">
+		<year>1489</year>
+		<mouseOverData/>
+	</location>
+	<location place="St. Andrews" xCoord="-2.7997" yCoord="56.336978">
+		<year>1411</year>
+		<mouseOverData/>
+	</location>
+	<location place="Toulouse" xCoord="1.447196" yCoord="43.627577">
+		<year>1229</year>
+		<mouseOverData/>
+	</location>
+	<location place="Trier" xCoord="6.65" yCoord="49.75">
+		<year>1454</year>
+		<mouseOverData/>
+	</location>
+	<location place="Tübingen" xCoord="9.05" yCoord="48.5333">
+		<year>1476</year>
+		<mouseOverData/>
+	</location>
+	<location place="Turin" xCoord="7.657232" yCoord="45.04729">
+		<year>1404</year>
+		<mouseOverData/>
+	</location>
+	<location place="Uppsala" xCoord="17.6388" yCoord="59.8586">
+		<year>1477</year>
+		<mouseOverData/>
+	</location>
+	<location place="Valence" xCoord="4.9" yCoord="44.9333">
+		<year>1452</year>
+		<mouseOverData/>
+	</location>
+	<location place="Valencia" xCoord="-0.394582" yCoord="39.443422">
+		<year>1500</year>
+		<mouseOverData/>
+	</location>
+	<location place="Valladolid" xCoord="-4.71181" yCoord="41.604034">
+		<year>0</year>
+		<mouseOverData>
+			<text>Ridder cites the end of the 13th century, Rashdall cites c. 1250</text>
+		</mouseOverData>
+	</location>
+	<location place="Venice" xCoord="12.398297" yCoord="45.433967">
+		<year>1470</year>
+		<mouseOverData>
+			<text>Rashdall states that a group of scholars migrated to Venice from Bologna in 1204, but that establishment "seems to have come to an end in the year 1210". (vol. II, p. 7)</text>
+		</mouseOverData>
+	</location>
+	<location place="Vienna" xCoord="16.3667" yCoord="48.2167">
+		<year>1365</year>
+		<mouseOverData/>
+	</location>
+	<location place="Würzburg" xCoord="9.9333" yCoord="49.7833">
+		<year>1402</year>
+		<mouseOverData/>
+	</location>
+	<location place="Zaragoza" xCoord="-0.876" yCoord="41.657">
+		<year>1474</year>
+		<mouseOverData/>
+	</location>
+</data>

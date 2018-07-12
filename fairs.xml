@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<location place="Abbeville" xCoord="1.827798" yCoord="50.109721">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Aigues-Mortes" xCoord="4.199922" yCoord="43.56492">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Alcaraz" xCoord="-2.490618" yCoord="38.667092">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Ancona" xCoord="13.518944" yCoord="53.615828">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Angers" xCoord="-0.5333" yCoord="47.4833">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Angoulême" xCoord="0.160924" yCoord="45.64834">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Antwerp" xCoord="4.399722" yCoord="51.22058">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1350 - 16th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Aurillac" xCoord="2.443643" yCoord="44.927761">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Avranches" xCoord="-1.355102" yCoord="48.68376">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Badajoz" xCoord="-6.970283" yCoord="38.878596">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Bar-sur-Aube" xCoord="4.704613" yCoord="48.234801">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1114 - 1789, part of the Champagne cycle of fairs</text>
+		</mouseOverData>
+	</location>
+	<location place="Bar-sur-Seine" xCoord="4.375096" yCoord="48.114789">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Beaucaire" xCoord="4.635468" yCoord="43.811351">
+		<year>0</year>
+		<mouseOverData>
+			<text>16th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Beauvais" xCoord="2.08614" yCoord="49.426762">
+		<year>0</year>
+		<mouseOverData>
+			<text>1360 -</text>
+		</mouseOverData>
+	</location>
+	<location place="Bergen-op-Zoom" xCoord="4.287843" yCoord="51.494103">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1350 - 16th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Bologna" xCoord="11.343191" yCoord="44.475421">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Bolzano" xCoord="11.354103" yCoord="46.495166">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 13th C - 15th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Bordeaux" xCoord="0.57833" yCoord="40.921944">
+		<year>0</year>
+		<mouseOverData>
+			<text>peak at 16th c</text>
+		</mouseOverData>
+	</location>
+	<location place="Borgo San Donnino" xCoord="10.061731" yCoord="44.865102">
+		<year>0</year>
+		<mouseOverData>
+			<text>Currently Fidenza</text>
+		</mouseOverData>
+	</location>
+	<location place="Boston" xCoord="-0.024067" yCoord="52.977445">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 11th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Boulogne" xCoord="1.614469" yCoord="50.726188">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Bruges" xCoord="3.22523" yCoord="51.20941">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 13th C - 16th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Bury St. Edmunds" xCoord="0.706852" yCoord="52.247732">
+		<year>0</year>
+		<mouseOverData>
+			<text>1142 - 1457</text>
+		</mouseOverData>
+	</location>
+	<location place="Cáceres" xCoord="-6.37076" yCoord="39.476178">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Caen" xCoord="-0.364576" yCoord="49.184195">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Calais" xCoord="1.852143" yCoord="50.957862">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Carcassonne" xCoord="2.356099" yCoord="43.212605">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Carentan" xCoord="-1.24507" yCoord="49.306588">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Chalon-sur-Saône" xCoord="4.852948" yCoord="46.784218">
+		<year>0</year>
+		<mouseOverData>
+			<text>12th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Châlons-sur-Marne" xCoord="4.363852" yCoord="48.963291">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Château-Thierry" xCoord="3.398528" yCoord="49.047036">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Cherbourg" xCoord="-1.61424" yCoord="49.638668">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Chinon" xCoord="0.238081" yCoord="47.166082">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Córdoba" xCoord="-4.776833" yCoord="37.886383">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Cuenca" xCoord="-2.134005" yCoord="40.071835">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Delft" xCoord="4.360256" yCoord="52.011899">
+		<year>0</year>
+		<mouseOverData>
+			<text>13th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Deventer" xCoord="6.160247" yCoord="52.25446">
+		<year>0</year>
+		<mouseOverData>
+			<text>14th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Douai" xCoord="3.082494" yCoord="50.367536">
+		<year>0</year>
+		<mouseOverData>
+			<text>11th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Dreux" xCoord="1.361131" yCoord="48.738252">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Ervy" xCoord="3.911879" yCoord="48.040515">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Étampes" xCoord="2.163217" yCoord="48.437114">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Falsterbo" xCoord="12.837674" yCoord="55.393719">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1300 - 1545, part of Scania Peninsula herring fairs</text>
+		</mouseOverData>
+	</location>
+	<location place="Farfa" xCoord="12.719222" yCoord="42.222874">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Ferrara" xCoord="11.6333" yCoord="44.833">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Florence" xCoord="11.258552" yCoord="43.770765">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Foligno" xCoord="12.7" yCoord="42.95">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Frankfurt" xCoord="8.680584" yCoord="50.111527">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1240 - 16th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Geneva" xCoord="6.139958" yCoord="46.203809">
+		<year>0</year>
+		<mouseOverData>
+			<text>ended c. 1530</text>
+		</mouseOverData>
+	</location>
+	<location place="Ghent" xCoord="3.721695" yCoord="51.054009">
+		<year>0</year>
+		<mouseOverData>
+			<text>11th C -</text>
+		</mouseOverData>
+	</location>
+	<location place="Gonzaga" xCoord="10.820067" yCoord="44.951152">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="King's Lynn" xCoord="0.405941" yCoord="52.763828">
+		<year>0</year>
+		<mouseOverData>
+			<text>Fair founded 1101; this town was called "Lynn" until mid-16th century</text>
+		</mouseOverData>
+	</location>
+	<location place="La Ferté-Gaucher" xCoord="3.304724" yCoord="48.781746">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Lagny" xCoord="2.701825" yCoord="48.878356">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1114-1789, part of the Champagne cycle of fairs</text>
+		</mouseOverData>
+	</location>
+	<location place="Lanciano" xCoord="14.391379" yCoord="42.233175">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Leipzig" xCoord="12.385727" yCoord="51.343361">
+		<year>0</year>
+		<mouseOverData>
+			<text>15th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Liancourt" xCoord="2.464384" yCoord="49.329694">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Lille" xCoord="3.063017" yCoord="50.637183">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1100 - 16th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Linz" xCoord="14.286293" yCoord="48.306074">
+		<year>1450</year>
+		<mouseOverData>
+			<text>15th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Lyon" xCoord="3.91915" yCoord="47.66364">
+		<year>0</year>
+		<mouseOverData>
+			<text>1420 - 16th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Malines (Mechelen)" xCoord="4.478072" yCoord="51.028919">
+		<year>0</year>
+		<mouseOverData>
+			<text>1409-</text>
+		</mouseOverData>
+	</location>
+	<location place="Malmö" xCoord="13.001147" yCoord="55.603252">
+		<year>0</year>
+		<mouseOverData>
+			<text>13th C - c.1545, part of Scania Peninsula herring fairs</text>
+		</mouseOverData>
+	</location>
+	<location place="Mantes" xCoord="1.719364" yCoord="48.990356">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Medina de Rioseco" xCoord="-5.04281" yCoord="41.883185">
+		<year>1450</year>
+		<mouseOverData>
+			<text>15th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Medina del Campo" xCoord="-4.921706" yCoord="41.308185">
+		<year>1450</year>
+		<mouseOverData>
+			<text>15th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Melun" xCoord="2.660293" yCoord="48.541457">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Merida" xCoord="-6.345634" yCoord="38.91623">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Méry-sur-Seine" xCoord="3.890249" yCoord="48.508225">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Messines (Mesen)" xCoord="2.898767" yCoord="50.76403">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1100 - 16th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Milan" xCoord="9.188126" yCoord="45.46367">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Montlhéry" xCoord="2.270938" yCoord="48.639708">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Montolieu" xCoord="2.214196" yCoord="43.310909">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Montpellier" xCoord="3.8772" yCoord="43.61194">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Morigny" xCoord="-1.058878" yCoord="48.882029">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Narbonne" xCoord="3.932374" yCoord="43.567089">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Nevers" xCoord="3.161842" yCoord="46.987187">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Nogent" xCoord="5.342628" yCoord="48.025873">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Nördlingen" xCoord="10.489575" yCoord="48.850831">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1219 - 15th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Northampton" xCoord="52.236874" yCoord="-0.89739">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1153 - c. 1700</text>
+		</mouseOverData>
+	</location>
+	<location place="Orléans" xCoord="1.905196" yCoord="47.904583">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Paris" xCoord="2.442191" yCoord="48.836029">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Pavia" xCoord="9.15" yCoord="45.2">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Piacenza" xCoord="9.6833" yCoord="45.05">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Poitiers" xCoord="0.367583" yCoord="46.61258">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Provins" xCoord="3.302425" yCoord="48.559207">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1114-1789, part of the Champagne cycle of fairs</text>
+		</mouseOverData>
+	</location>
+	<location place="Puiseaux" xCoord="2.470657" yCoord="48.204383">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Quimperlé" xCoord="-3.548359" yCoord="47.871358">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Ramerupt" xCoord="4.293754" yCoord="48.51866">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Recanati" xCoord="13.562287" yCoord="43.403409">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Rennes" xCoord="-1.680265" yCoord="48.111761">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Rheims" xCoord="4.03309" yCoord="49.256602">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Rome" xCoord="12.492419" yCoord="41.870803">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Rouen" xCoord="1.098492" yCoord="49.442366">
+		<year>1450</year>
+		<mouseOverData>
+			<text>15th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Sahagún" xCoord="-5.03044" yCoord="42.372026">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Saint-Denis" xCoord="2.364883" yCoord="48.936065">
+		<year>0</year>
+		<mouseOverData>
+			<text>11th C -</text>
+		</mouseOverData>
+	</location>
+	<location place="Saint-Germain-des-Prés" xCoord="2.337266" yCoord="48.849176">
+		<year>1482</year>
+		<mouseOverData>
+			<text>c. 1482 (Paris)</text>
+		</mouseOverData>
+	</location>
+	<location place="Saint-Malo" xCoord="-2.026089" yCoord="48.648178">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Saint-Omer" xCoord="2.260721" yCoord="50.750058">
+		<year>0</year>
+		<mouseOverData>
+			<text>11th C -</text>
+		</mouseOverData>
+	</location>
+	<location place="Saint-Quentin" xCoord="3.288217" yCoord="49.848178">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Salerno" xCoord="14.765912" yCoord="40.677956">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Segovia" xCoord="-4.119209" yCoord="40.949427">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Senigallia" xCoord="13.218024" yCoord="43.715014">
+		<year>1500</year>
+		<mouseOverData>
+			<text>16th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Seville" xCoord="-5.996502" yCoord="37.383316">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Sézanne" xCoord="3.72279" yCoord="48.723542">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Skänor" xCoord="12.843477" yCoord="55.412552">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 12th C - 1545, part of Scania Peninsula herring fairs</text>
+		</mouseOverData>
+	</location>
+	<location place="St. Florentin" xCoord="3.728904" yCoord="48.003098">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="St. Ives" xCoord="-0.076397" yCoord="52.332513">
+		<year>0</year>
+		<mouseOverData>
+			<text>1110 -</text>
+		</mouseOverData>
+	</location>
+	<location place="Stamford" xCoord="-0.48007" yCoord="52.651324">
+		<year>0</year>
+		<mouseOverData>
+			<text>1206 -</text>
+		</mouseOverData>
+	</location>
+	<location place="Terni" xCoord="12.646781" yCoord="42.560219">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Tonnerre" xCoord="3.974669" yCoord="47.856492">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Torhout" xCoord="3.100994" yCoord="51.065544">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1100 - 16th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Toulouse" xCoord="1.447196" yCoord="43.627577">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Tours" xCoord="0.688851" yCoord="47.390294">
+		<year>1450</year>
+		<mouseOverData/>
+	</location>
+	<location place="Tréguier" xCoord="-3.224447" yCoord="48.787757">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Troyes" xCoord="4.074801" yCoord="48.297468">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1114-1789, part of the Champagne cycle of fairs</text>
+		</mouseOverData>
+	</location>
+	<location place="Utrecht" xCoord="5.122747" yCoord="52.091262">
+		<year>0</year>
+		<mouseOverData>
+			<text>12th C -</text>
+		</mouseOverData>
+	</location>
+	<location place="Valladolid" xCoord="-4.71181" yCoord="41.604034">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Venice" xCoord="12.398297" yCoord="45.433967">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 13th C - 17th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Vercelli" xCoord="8.426393" yCoord="45.321061">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Villalón de Campos" xCoord="-5.033987" yCoord="42.099264">
+		<year>1450</year>
+		<mouseOverData>
+			<text>15th C -</text>
+		</mouseOverData>
+	</location>
+	<location place="Vitry-sur-Seine" xCoord="2.389323" yCoord="48.789444">
+		<year>0</year>
+		<mouseOverData/>
+	</location>
+	<location place="Vlaardingen" xCoord="4.341996" yCoord="51.909874">
+		<year>0</year>
+		<mouseOverData>
+			<text>13th C -</text>
+		</mouseOverData>
+	</location>
+	<location place="Voorschoten" xCoord="4.446411" yCoord="52.127039">
+		<year>0</year>
+		<mouseOverData>
+			<text>13th C -</text>
+		</mouseOverData>
+	</location>
+	<location place="Westminster" xCoord="0.128285" yCoord="51.506602">
+		<year>0</year>
+		<mouseOverData>
+			<text>12th C  - c.1527</text>
+		</mouseOverData>
+	</location>
+	<location place="Winchester" xCoord="-1.316485" yCoord="51.062979">
+		<year>0</year>
+		<mouseOverData>
+			<text>1096 -</text>
+		</mouseOverData>
+	</location>
+	<location place="Ypres" xCoord="2.884192" yCoord="50.851282">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 1100  - 16th C</text>
+		</mouseOverData>
+	</location>
+	<location place="Zurzach" xCoord="8.293239" yCoord="47.587729">
+		<year>0</year>
+		<mouseOverData>
+			<text>c. 14th C - 1550</text>
+		</mouseOverData>
+	</location>
+</data>

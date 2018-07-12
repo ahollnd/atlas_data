@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <location place="Frastenz" xCoord="47.21715" yCoord="9.63115" country="Austria"
+             locID="loc001"/>
+   <location place="Furstenfeld" xCoord="47.04795" yCoord="16.08013" country="Austria"
+             locID="loc002"/>
+   <location place="Kremsmunster" xCoord="48.0545" yCoord="14.12665" country="Austria"
+             locID="loc003"/>
+   <location place="Linz" xCoord="48.30694" yCoord="14.28583" country="Austria"
+             locID="loc004"/>
+   <location place="St. Polten" xCoord="48.20353" yCoord="15.63817" country="Austria"
+             locID="loc005"/>
+   <location place="Vienna" xCoord="48.2081743" yCoord="16.3738189" country="Austria"
+             locID="loc006"/>
+   <location place="Wiener-Neustadt" xCoord="47.80279" yCoord="16.23318" country="Austria"
+             locID="loc008"/>
+   <location place="Alost" xCoord="50.9341" yCoord="4.04513" country="Belgium"
+             locID="loc009"/>
+   <location place="Alsemberg" xCoord="50.74163" yCoord="4.33613" country="Belgium"
+             locID="loc010"/>
+   <location place="Antwerp" xCoord="51.21992" yCoord="4.39625" country="Belgium"
+             locID="loc011"/>
+   <location place="Arrondissement of Aalst" xCoord="50.9341" yCoord="4.04513"
+             country="Belgium"
+             locID="loc012"/>
+   <location place="Audenarde" xCoord="50.845173" yCoord="3.608496" country="Belgium"
+             locID="loc013"/>
+   <location place="Braine L'Alleud" xCoord="50.6833333" yCoord="4.3666667"
+             country="Belgium"
+             locID="loc015"/>
+   <location place="Bruges" xCoord="51.20998" yCoord="3.220402" country="Belgium"
+             locID="loc016"/>
+   <location place="Brussels" xCoord="50.8503396" yCoord="4.3517103" country="Belgium"
+             locID="loc017"/>
+   <location place="Dworp" xCoord="50.72949" yCoord="4.30109" country="Belgium"
+             locID="loc018"/>
+   <location place="Ghent" xCoord="51.05665" yCoord="3.72" country="Belgium" locID="loc019"/>
+   <location place="Hasselt" xCoord="50.93069" yCoord="5.33248" country="Belgium"
+             locID="loc020"/>
+   <location place="Heverlee" xCoord="50.86386" yCoord="4.69594" country="Belgium"
+             locID="loc021"/>
+   <location place="Kraainem" xCoord="50.861261" yCoord="4.468818" country="Belgium"
+             locID="loc022"/>
+   <location place="Leuven" xCoord="50.877571" yCoord="4.704328" country="Belgium"
+             locID="loc023"/>
+   <location place="Liege" xCoord="50.63333" yCoord="5.56666" country="Belgium"
+             locID="loc024"/>
+   <location place="Linkebeek" xCoord="50.7666667" yCoord="4.3333333" country="Belgium"
+             locID="loc025"/>
+   <location place="Louvain" xCoord="50.877571" yCoord="4.704328" country="Belgium"
+             locID="loc026"/>
+   <location place="Mesen" xCoord="50.764271" yCoord="2.896138" country="Belgium"
+             locID="loc028"/>
+   <location place="Mons" xCoord="50.4539" yCoord="3.95893" country="Belgium" locID="loc029"/>
+   <location place="Schaarbeek" xCoord="50.870525" yCoord="4.377659" country="Belgium"
+             locID="loc030"/>
+   <location place="Sint-Genesius-Rode" xCoord="50.74594" yCoord="4.35753" country="Belgium"
+             locID="loc031"/>
+   <location place="Torhout" xCoord="51.064451" yCoord="3.098174" country="Belgium"
+             locID="loc032"/>
+   <location place="Uccle" xCoord="50.8" yCoord="4.3333333" country="Belgium" locID="loc033"/>
+   <location place="Ypres" xCoord="50.8512778" yCoord="2.8841944" country="Belgium"
+             locID="loc034"/>
+   <location place="Zaventem" xCoord="50.881956" yCoord="4.474315" country="Belgium"
+             locID="loc035"/>
+   <location place="Senj" xCoord="44.9905905" yCoord="14.9008716" country="Croatia"
+             locID="loc036"/>
+   <location place="Kuttenberg" xCoord="49.948254" yCoord="15.2679677"
+             country="Czech Republic"
+             locID="loc038"/>
+   <location place="Olmutz" xCoord="49.5953879" yCoord="17.2518721" country="Czech Republic"
+             locID="loc040"/>
+   <location place="Olomouc" xCoord="49.5953879" yCoord="17.2518721"
+             country="Czech Republic"
+             locID="loc041"/>
+   <location place="Pilsen" xCoord="49.7474848" yCoord="13.3776036" country="Czech Republic"
+             locID="loc043"/>
+   <location place="Prague" xCoord="50.0878114" yCoord="14.4204598" country="Czech Republic"
+             locID="loc044"/>
+   <location place="Trutnov" xCoord="50.5608982" yCoord="15.912807" country="Czech Republic"
+             locID="loc045"/>
+   <location place="Copenhagen" xCoord="55.693403" yCoord="12.583046" country="Denmark"
+             locID="loc047"/>
+   <location place="Odense" xCoord="55.403756" yCoord="10.40237" country="Denmark"
+             locID="loc048"/>
+   <location place="Ribe" xCoord="55.326936" yCoord="8.774665" country="Denmark"
+             locID="loc049"/>
+   <location place="Abbeville" xCoord="50.105035" yCoord="1.83483" country="France"
+             locID="loc051"/>
+   <location place="Aigues-Mortes" xCoord="43.567172" yCoord="4.1925869" country="France"
+             locID="loc052"/>
+   <location place="Aix-en-Provence" xCoord="43.529742" yCoord="5.447427" country="France"
+             locID="loc053"/>
+   <location place="Albi" xCoord="43.926896" yCoord="2.146343" country="France"
+             locID="loc054"/>
+   <location place="Ambert" xCoord="45.549532" yCoord="3.739308" country="France"
+             locID="loc055"/>
+   <location place="Angers" xCoord="47.478419" yCoord="-0.563166" country="France"
+             locID="loc056"/>
+   <location place="Angouleme" xCoord="45.648377" yCoord="0.1562369" country="France"
+             locID="loc057"/>
+   <location place="Arches" xCoord="48.118004" yCoord="6.528363" country="France"
+             locID="loc058"/>
+   <location place="Aurillac" xCoord="44.930953" yCoord="2.444997" country="France"
+             locID="loc060"/>
+   <location place="Avignon" xCoord="43.949317" yCoord="4.805528" country="France"
+             locID="loc061"/>
+   <location place="Avranches" xCoord="48.686843" yCoord="-1.36166" country="France"
+             locID="loc062"/>
+   <location place="Bains-les-Bains" xCoord="48.001416" yCoord="6.26457" country="France"
+             locID="loc063"/>
+   <location place="Barberey" xCoord="48.336422" yCoord="4.032719" country="France"
+             locID="loc064"/>
+   <location place="Bar-sur-Aube" xCoord="48.231209" yCoord="4.707771" country="France"
+             locID="loc065"/>
+   <location place="Bar-sur-Seine" xCoord="48.114154" yCoord="4.373386" country="France"
+             locID="loc066"/>
+   <location place="Beaucaire" xCoord="43.807235" yCoord="4.644269" country="France"
+             locID="loc067"/>
+   <location place="Beaujeu" xCoord="46.158237" yCoord="4.580456" country="France"
+             locID="loc068"/>
+   <location place="Beauvais" xCoord="49.42964" yCoord="2.081875" country="France"
+             locID="loc069"/>
+   <location place="Besancon" xCoord="47.237829" yCoord="6.0240539" country="France"
+             locID="loc070"/>
+   <location place="Bordeaux" xCoord="44.837789" yCoord="-0.57918" country="France"
+             locID="loc071"/>
+   <location place="Boulogne" xCoord="50.725231" yCoord="1.613334" country="France"
+             locID="loc072"/>
+   <location place="Bourges" xCoord="47.081012" yCoord="2.398782" country="France"
+             locID="loc073"/>
+   <location place="Brehan-Loudeac" xCoord="48.1353456" yCoord="-2.6579539" country="France"
+             locID="loc075"/>
+   <location place="Breviandes" xCoord="48.256985" yCoord="4.09535" country="France"
+             locID="loc076"/>
+   <location place="Cadenet" xCoord="43.734629" yCoord="5.373049" country="France"
+             locID="loc077"/>
+   <location place="Caderousse" xCoord="44.102091" yCoord="4.756496" country="France"
+             locID="loc078"/>
+   <location place="Caen" xCoord="49.182863" yCoord="-0.370679" country="France"
+             locID="loc079"/>
+   <location place="Cahors" xCoord="44.4475229" yCoord="1.441989" country="France"
+             locID="loc080"/>
+   <location place="Calais" xCoord="50.95129" yCoord="1.858686" country="France"
+             locID="loc081"/>
+   <location place="Carcassonne" xCoord="43.212161" yCoord="2.353663" country="France"
+             locID="loc082"/>
+   <location place="Carentan" xCoord="49.305666" yCoord="-1.242834" country="France"
+             locID="loc083"/>
+   <location place="Caselle" xCoord="42.2871722" yCoord="9.5177168" country="France"
+             locID="loc084"/>
+   <location place="Castillon" xCoord="44.852067" yCoord="-0.043008" country="France"
+             locID="loc085"/>
+   <location place="Chablis" xCoord="47.815269" yCoord="3.800451" country="France"
+             locID="loc086"/>
+   <location place="Chalons-en-Champagne" xCoord="48.956682" yCoord="4.363073"
+             country="France"
+             locID="loc087"/>
+   <location place="Chalons-sur-Marne" xCoord="48.956682" yCoord="4.363073" country="France"
+             locID="loc088"/>
+   <location place="Chalon-sur-Saone" xCoord="46.780764" yCoord="4.853947" country="France"
+             locID="loc089"/>
+   <location place="Chamalieres" xCoord="45.77412" yCoord="3.060484" country="France"
+             locID="loc090"/>
+   <location place="Chambery" xCoord="45.564601" yCoord="5.917781" country="France"
+             locID="loc091"/>
+   <location place="Chartres" xCoord="48.443854" yCoord="1.489012" country="France"
+             locID="loc092"/>
+   <location place="Chateau-Thierry" xCoord="49.0459869" yCoord="3.40262" country="France"
+             locID="loc093"/>
+   <location place="Cherbourg" xCoord="49.639093" yCoord="-1.625298" country="France"
+             locID="loc094"/>
+   <location place="Chinon" xCoord="47.167296" yCoord="0.240385" country="France"
+             locID="loc095"/>
+   <location place="Clermont-Ferrand" xCoord="45.777222" yCoord="3.087025" country="France"
+             locID="loc096"/>
+   <location place="Cluny" xCoord="46.428968" yCoord="4.664555" country="France"
+             locID="loc097"/>
+   <location place="Crillon-le-Brave" xCoord="44.118305" yCoord="5.1435069" country="France"
+             locID="loc098"/>
+   <location place="Cugat" xCoord="44.758244" yCoord="-0.062613" country="France"
+             locID="loc099"/>
+   <location place="Dijon" xCoord="47.322047" yCoord="5.04148" country="France"
+             locID="loc100"/>
+   <location place="Docelles" xCoord="48.144888" yCoord="6.617725" country="France"
+             locID="loc101"/>
+   <location place="Dole" xCoord="47.09534" yCoord="5.49081" country="France" locID="loc103"/>
+   <location place="Douai" xCoord="50.367874" yCoord="3.080602" country="France"
+             locID="loc104"/>
+   <location place="Dreux" xCoord="48.736134" yCoord="1.370889" country="France"
+             locID="loc105"/>
+   <location place="Embrun" xCoord="44.564164" yCoord="6.495865" country="France"
+             locID="loc106"/>
+   <location place="Entraygues" xCoord="44.644928" yCoord="2.563986" country="France"
+             locID="loc107"/>
+   <location place="Epinal" xCoord="48.172402" yCoord="6.449403" country="France"
+             locID="loc108"/>
+   <location place="Ervy" xCoord="48.041155" yCoord="3.909751" country="France"
+             locID="loc109"/>
+   <location place="Essones" xCoord="48.6102599" yCoord="2.474805" country="France"
+             locID="loc110"/>
+   <location place="Etampes" xCoord="48.434416" yCoord="2.16142" country="France"
+             locID="loc111"/>
+   <location place="Faverges" xCoord="45.74702" yCoord="6.293547" country="France"
+             locID="loc112"/>
+   <location place="Formigny" xCoord="49.340676" yCoord="-0.893701" country="France"
+             locID="loc113"/>
+   <location place="Goupillieres" xCoord="49.127823" yCoord="0.764904" country="France"
+             locID="loc114"/>
+   <location place="Grenoble" xCoord="45.188529" yCoord="5.724524" country="France"
+             locID="loc115"/>
+   <location place="Guinegate" xCoord="50.608334" yCoord="2.279401" country="France"
+             locID="loc116"/>
+   <location place="La Ferte-Gaucher" xCoord="48.780643" yCoord="3.30549" country="France"
+             locID="loc119"/>
+   <location place="Lagny" xCoord="48.87296" yCoord="2.713016" country="France"
+             locID="loc120"/>
+   <location place="Langres" xCoord="47.86683" yCoord="5.334297" country="France"
+             locID="loc121"/>
+   <location place="Lantenac" xCoord="48.1603" yCoord="-2.61" country="France"
+             locID="loc122"/>
+   <location place="Liancourt" xCoord="49.329255" yCoord="2.468027" country="France"
+             locID="loc123"/>
+   <location place="Lille" xCoord="50.62925" yCoord="3.057256" country="France"
+             locID="loc124"/>
+   <location place="Limoges" xCoord="45.833619" yCoord="1.261105" country="France"
+             locID="loc125"/>
+   <location place="l'Isle-sur-la-Sorgue" xCoord="43.91419" yCoord="5.057106"
+             country="France"
+             locID="loc126"/>
+   <location place="Lyons" xCoord="45.764043" yCoord="4.835659" country="France"
+             locID="loc128"/>
+   <location place="Macon" xCoord="46.30415" yCoord="4.833486" country="France"
+             locID="loc129"/>
+   <location place="Malaucene" xCoord="44.17444" yCoord="5.1320499" country="France"
+             locID="loc130"/>
+   <location place="Mantes" xCoord="48.989323" yCoord="1.714958" country="France"
+             locID="loc131"/>
+   <location place="Melun" xCoord="48.542105" yCoord="2.6554" country="France"
+             locID="loc132"/>
+   <location place="Mery-sur-Seine" xCoord="48.508707" yCoord="3.888808" country="France"
+             locID="loc133"/>
+   <location place="Metz" xCoord="49.119666" yCoord="6.176905" country="France"
+             locID="loc134"/>
+   <location place="Montlhery" xCoord="48.638324" yCoord="2.271502" country="France"
+             locID="loc135"/>
+   <location place="Montolieu" xCoord="43.314948" yCoord="2.221722" country="France"
+             locID="loc136"/>
+   <location place="Montpellier" xCoord="43.610769" yCoord="3.876716" country="France"
+             locID="loc137"/>
+   <location place="Morigny" xCoord="46.543825" yCoord="4.194846" country="France"
+             locID="loc138"/>
+   <location place="Moutiers" xCoord="45.484615" yCoord="6.529926" country="France"
+             locID="loc139"/>
+   <location place="Nancy" xCoord="48.692054" yCoord="6.184417" country="France"
+             locID="loc140"/>
+   <location place="Nantes" xCoord="47.218371" yCoord="-1.553621" country="France"
+             locID="loc141"/>
+   <location place="Narbonne" xCoord="43.184277" yCoord="3.003078" country="France"
+             locID="loc142"/>
+   <location place="Nevers" xCoord="46.990896" yCoord="3.162845" country="France"
+             locID="loc143"/>
+   <location place="Nogent" xCoord="48.837631" yCoord="2.481699" country="France"
+             locID="loc144"/>
+   <location place="Orange" xCoord="44.0565054" yCoord="5.1432068" country="France"
+             locID="loc145"/>
+   <location place="Orleans" xCoord="47.902964" yCoord="1.909251" country="France"
+             locID="loc146"/>
+   <location place="Paris" xCoord="48.856614" yCoord="2.3522219" country="France"
+             locID="loc147"/>
+   <location place="Perigueux" xCoord="45.184029" yCoord="0.7211149" country="France"
+             locID="loc148"/>
+   <location place="Perpignan" xCoord="42.698684" yCoord="2.8958719" country="France"
+             locID="loc149"/>
+   <location place="Peyer" xCoord="48.4663818" yCoord="-3.8965146" country="France"
+             locID="loc150"/>
+   <location place="Poitiers" xCoord="46.580224" yCoord="0.340375" country="France"
+             locID="loc151"/>
+   <location place="Provins" xCoord="48.560149" yCoord="3.299203" country="France"
+             locID="loc152"/>
+   <location place="Puiseaux" xCoord="48.204644" yCoord="2.471227" country="France"
+             locID="loc153"/>
+   <location place="Quimperle" xCoord="47.872586" yCoord="-3.547546" country="France"
+             locID="loc154"/>
+   <location place="Rambervillers" xCoord="48.346528" yCoord="6.635376" country="France"
+             locID="loc155"/>
+   <location place="Ramerupt" xCoord="48.519629" yCoord="4.291815" country="France"
+             locID="loc156"/>
+   <location place="Rennes" xCoord="48.113475" yCoord="-1.675708" country="France"
+             locID="loc157"/>
+   <location place="Rheims" xCoord="49.258329" yCoord="4.031696" country="France"
+             locID="loc158"/>
+   <location place="Rouen" xCoord="49.443232" yCoord="1.099971" country="France"
+             locID="loc159"/>
+   <location place="Rougemont" xCoord="47.482212" yCoord="6.354532" country="France"
+             locID="loc160"/>
+   <location place="Saint-Cloud" xCoord="48.847647" yCoord="2.208115" country="France"
+             locID="loc162"/>
+   <location place="Saint-Denis" xCoord="48.936181" yCoord="2.357443" country="France"
+             locID="loc163"/>
+   <location place="Saint-Die" xCoord="48.2874679" yCoord="6.947767" country="France"
+             locID="loc164"/>
+   <location place="Saint-Germain-des-Pres" xCoord="48.853552" yCoord="2.334168"
+             country="France"
+             locID="loc165"/>
+   <location place="Saint-Leonard-de-Noblat" xCoord="45.8367" yCoord="1.486205"
+             country="France"
+             locID="loc166"/>
+   <location place="Saint-Malo" xCoord="48.649337" yCoord="-2.025674" country="France"
+             locID="loc167"/>
+   <location place="Saint-Nicholar-de-Port" xCoord="48.634287" yCoord="6.303563"
+             country="France"
+             locID="loc168"/>
+   <location place="Saint-Omer" xCoord="50.750115" yCoord="2.252208" country="France"
+             locID="loc169"/>
+   <location place="Saint-Quentin" xCoord="49.847066" yCoord="3.2874" country="France"
+             locID="loc170"/>
+   <location place="Salins" xCoord="46.939685" yCoord="5.875801" country="France"
+             locID="loc171"/>
+   <location place="Sezanne" xCoord="48.724195" yCoord="3.722632" country="France"
+             locID="loc173"/>
+   <location place="Sorgues" xCoord="44.008767" yCoord="4.872757" country="France"
+             locID="loc174"/>
+   <location place="St. Florentin" xCoord="48.000552" yCoord="3.729512" country="France"
+             locID="loc175"/>
+   <location place="Strassburg" xCoord="48.583148" yCoord="7.747882" country="France"
+             locID="loc177"/>
+   <location place="Thiers" xCoord="45.857907" yCoord="3.545177" country="France"
+             locID="loc178"/>
+   <location place="Tonnerre" xCoord="47.856724" yCoord="3.973527" country="France"
+             locID="loc179"/>
+   <location place="Toulouse" xCoord="43.604652" yCoord="1.444209" country="France"
+             locID="loc180"/>
+   <location place="Tours" xCoord="47.394144" yCoord="0.68484" country="France"
+             locID="loc181"/>
+   <location place="Treguier" xCoord="48.7875439" yCoord="-3.2307769" country="France"
+             locID="loc182"/>
+   <location place="Trevoux" xCoord="45.94094" yCoord="4.774296" country="France"
+             locID="loc183"/>
+   <location place="Troyes" xCoord="48.2965919" yCoord="4.074735" country="France"
+             locID="loc184"/>
+   <location place="Uzes" xCoord="44.01211" yCoord="4.419946" country="France"
+             locID="loc185"/>
+   <location place="Ville-sur-Saulx" xCoord="48.712075" yCoord="5.057699" country="France"
+             locID="loc189"/>
+   <location place="Vitry-sur-Seine" xCoord="48.792001" yCoord="2.39851" country="France"
+             locID="loc190"/>
+   <location place="Brunn" xCoord="50.45" yCoord="10.83333" country="Germany" locID="loc037"/>
+   <location place="Augsburg" xCoord="48.3654574" yCoord="10.8947684" country="Germany"
+             locID="loc191"/>
+   <location place="Bad Schussenried" xCoord="48.0048382" yCoord="9.6597209"
+             country="Germany"
+             locID="loc192"/>
+   <location place="Bad Urach" xCoord="48.4907823" yCoord="9.3996776" country="Germany"
+             locID="loc193"/>
+   <location place="Baden-Wurttemberg" xCoord="48.6616037" yCoord="9.3501336"
+             country="Germany"
+             locID="loc194"/>
+   <location place="Bamberg" xCoord="49.894218" yCoord="10.885527" country="Germany"
+             locID="loc195"/>
+   <location place="Bavaria" xCoord="48.7904472" yCoord="11.4978895" country="Germany"
+             locID="loc196"/>
+   <location place="Berlin" xCoord="52.5234051" yCoord="13.4113999" country="Germany"
+             locID="loc197"/>
+   <location place="Blaubeuren" xCoord="48.4120423" yCoord="9.7844203" country="Germany"
+             locID="loc198"/>
+   <location place="Braunschweig" xCoord="52.266667" yCoord="10.516667" country="Germany"
+             locID="loc199"/>
+   <location place="Burgdorf" xCoord="52.446428" yCoord="10.006645" country="Germany"
+             locID="loc201"/>
+   <location place="Chemnitz" xCoord="50.832503" yCoord="12.924694" country="Germany"
+             locID="loc202"/>
+   <location place="Cologne" xCoord="50.9406645" yCoord="6.9599115" country="Germany"
+             locID="loc203"/>
+   <location place="Constance" xCoord="47.661937" yCoord="9.1724257" country="Germany"
+             locID="loc204"/>
+   <location place="Dillingen" xCoord="49.35" yCoord="6.7333" country="Germany"
+             locID="loc205"/>
+   <location place="Doos" xCoord="49.811692" yCoord="11.2956807" country="Germany"
+             locID="loc207"/>
+   <location place="Eichstatt" xCoord="48.8910414" yCoord="11.185246" country="Germany"
+             locID="loc208"/>
+   <location place="Eltville" xCoord="50.025053" yCoord="8.117778" country="Germany"
+             locID="loc209"/>
+   <location place="Emmingen-Liptingen" xCoord="47.932347" yCoord="8.854162"
+             country="Germany"
+             locID="loc210"/>
+   <location place="Erfurt" xCoord="50.9737341" yCoord="11.0224351" country="Germany"
+             locID="loc211"/>
+   <location place="Esslingen" xCoord="48.7408763" yCoord="9.3082437" country="Germany"
+             locID="loc212"/>
+   <location place="Frankfurt an der Oder" xCoord="52.35" yCoord="14.55" country="Germany"
+             locID="loc215"/>
+   <location place="Freiberg in Sachsen" xCoord="50.9140428" yCoord="13.3372191"
+             country="Germany"
+             locID="loc217"/>
+   <location place="Freising" xCoord="48.403065" yCoord="11.749148" country="Germany"
+             locID="loc219"/>
+   <location place="Greifswald" xCoord="54.0972025" yCoord="13.3880102" country="Germany"
+             locID="loc220"/>
+   <location place="Hagenhausen" xCoord="49.3815113" yCoord="11.3895886" country="Germany"
+             locID="loc221"/>
+   <location place="Hamburg" xCoord="53.553813" yCoord="9.991586" country="Germany"
+             locID="loc222"/>
+   <location place="Heidelberg" xCoord="49.4018997" yCoord="8.680285" country="Germany"
+             locID="loc223"/>
+   <location place="Hirschbach" xCoord="49.5563281" yCoord="11.5408431" country="Germany"
+             locID="loc224"/>
+   <location place="Ingolstadt" xCoord="48.762145" yCoord="11.425389" country="Germany"
+             locID="loc225"/>
+   <location place="Kirchheim" xCoord="50.8404273" yCoord="9.5741799" country="Germany"
+             locID="loc226"/>
+   <location place="Klingenthal" xCoord="50.3581018" yCoord="12.4695143" country="Germany"
+             locID="loc227"/>
+   <location place="Landshut" xCoord="48.538823" yCoord="12.151825" country="Germany"
+             locID="loc228"/>
+   <location place="Lauingen" xCoord="48.570535" yCoord="10.427923" country="Germany"
+             locID="loc229"/>
+   <location place="Leipzig" xCoord="51.3396731" yCoord="12.3713639" country="Germany"
+             locID="loc230"/>
+   <location place="Lubeck" xCoord="53.869563" yCoord="10.687579" country="Germany"
+             locID="loc231"/>
+   <location place="Luneburg" xCoord="53.2459377" yCoord="10.409343" country="Germany"
+             locID="loc232"/>
+   <location place="Magdeburg" xCoord="52.1310756" yCoord="11.6365834" country="Germany"
+             locID="loc233"/>
+   <location place="Mainz" xCoord="49.9949895" yCoord="8.26732" country="Germany"
+             locID="loc234"/>
+   <location place="Marienthal" xCoord="50.005433" yCoord="7.948931" country="Germany"
+             locID="loc235"/>
+   <location place="Mayence" xCoord="49.9949895" yCoord="8.26732" country="Germany"
+             locID="loc236"/>
+   <location place="Meissen" xCoord="51.159259" yCoord="13.471832" country="Germany"
+             locID="loc237"/>
+   <location place="Memmingen" xCoord="47.984452" yCoord="10.177454000000001"
+             country="Germany"
+             locID="loc238"/>
+   <location place="Merseburg" xCoord="51.357213" yCoord="11.992299" country="Germany"
+             locID="loc239"/>
+   <location place="Münster in Westfalen" xCoord="51.964711" yCoord="7.628496"
+             country="Germany"
+             locID="loc241"/>
+   <location place="Munich" xCoord="48.1391265" yCoord="11.5801863" country="Germany"
+             locID="loc242"/>
+   <location place="Neuss" xCoord="51.1984294" yCoord="6.69529" country="Germany"
+             locID="loc243"/>
+   <location place="Nordlingen" xCoord="48.8508308" yCoord="10.489575" country="Germany"
+             locID="loc244"/>
+   <location place="Nuremburg" xCoord="49.45052" yCoord="11.08048" country="Germany"
+             locID="loc246"/>
+   <location place="Offenburg" xCoord="48.4680065" yCoord="7.9423832" country="Germany"
+             locID="loc247"/>
+   <location place="Oppenheim" xCoord="49.855687" yCoord="8.357639" country="Germany"
+             locID="loc248"/>
+   <location place="Passau" xCoord="48.573512" yCoord="13.463918" country="Germany"
+             locID="loc249"/>
+   <location place="Pforzheim" xCoord="48.8933834" yCoord="8.7049203" country="Germany"
+             locID="loc250"/>
+   <location place="Ratisbon" xCoord="49.016491" yCoord="12.100904" country="Germany"
+             locID="loc251"/>
+   <location place="Ravensburg" xCoord="47.7843" yCoord="9.609931" country="Germany"
+             locID="loc252"/>
+   <location place="Regensburg" xCoord="49.016491" yCoord="12.100904" country="Germany"
+             locID="loc253"/>
+   <location place="Reichenstein" xCoord="50.8988856" yCoord="7.4044818" country="Germany"
+             locID="loc254"/>
+   <location place="Reutlingen" xCoord="48.490891" yCoord="9.205842" country="Germany"
+             locID="loc255"/>
+   <location place="Rheinstein" xCoord="49.993694" yCoord="7.858428" country="Germany"
+             locID="loc256"/>
+   <location place="Rhineland" xCoord="50.561083" yCoord="7.310944" country="Germany"
+             locID="loc257"/>
+   <location place="Rostock" xCoord="54.0902273" yCoord="12.1329354" country="Germany"
+             locID="loc258"/>
+   <location place="Schleswig" xCoord="54.5181131" yCoord="9.5703542" country="Germany"
+             locID="loc260"/>
+   <location place="Schnigling" xCoord="49.4663977" yCoord="11.0377429" country="Germany"
+             locID="loc261"/>
+   <location place="Schussenried" xCoord="48.0048382" yCoord="9.6597209" country="Germany"
+             locID="loc262"/>
+   <location place="Speyer" xCoord="49.3172844" yCoord="8.4310066" country="Germany"
+             locID="loc263"/>
+   <location place="Stendal" xCoord="52.604071" yCoord="11.866368" country="Germany"
+             locID="loc264"/>
+   <location place="Stuttgart" xCoord="48.7771056" yCoord="9.1807688" country="Germany"
+             locID="loc265"/>
+   <location place="Tegernsee" xCoord="47.70855" yCoord="11.756913" country="Germany"
+             locID="loc266"/>
+   <location place="Trier" xCoord="49.7537424" yCoord="6.6462511" country="Germany"
+             locID="loc267"/>
+   <location place="Tubingen" xCoord="48.522904" yCoord="9.052098" country="Germany"
+             locID="loc269"/>
+   <location place="Tullnau" xCoord="49.448051" yCoord="11.103451" country="Germany"
+             locID="loc270"/>
+   <location place="Ulm" xCoord="48.399623" yCoord="9.996607" country="Germany"
+             locID="loc271"/>
+   <location place="Urach" xCoord="48.4907823" yCoord="9.3996776" country="Germany"
+             locID="loc272"/>
+   <location place="Waldshut" xCoord="47.623686" yCoord="8.214255" country="Germany"
+             locID="loc273"/>
+   <location place="Wessobrunn" xCoord="47.875323" yCoord="11.024294" country="Germany"
+             locID="loc274"/>
+   <location place="Winterberg" xCoord="51.1934212" yCoord="8.533304" country="Germany"
+             locID="loc275"/>
+   <location place="Wittenberg" xCoord="51.873051" yCoord="12.62419" country="Germany"
+             locID="loc276"/>
+   <location place="Würzburg" xCoord="49.794256" yCoord="9.927489" country="Germany"
+             locID="loc277"/>
+   <location place="Zinna" xCoord="52.0167" yCoord="13.1" country="Germany" locID="loc279"/>
+   <location place="Zweibrücken" xCoord="49.2504762" yCoord="7.3611896" country="Germany"
+             locID="loc280"/>
+   <location place="Salonica" xCoord="40.63935" yCoord="22.944607" country="Greece"
+             locID="loc281"/>
+   <location place="Buda" xCoord="47.513088" yCoord="19.02409" country="Hungary"
+             locID="loc282"/>
+   <location place="Budapest" xCoord="47.4984056" yCoord="19.0407578" country="Hungary"
+             locID="loc284"/>
+   <location place="Gaeta Latina" xCoord="41.2140718" yCoord="13.571" country="Italy"
+             locID="loc285"/>
+   <location place="Amalfi" xCoord="40.6343624" yCoord="14.6025718" country="Italy"
+             locID="loc286"/>
+   <location place="Ancona" xCoord="43.6158439" yCoord="13.5187386" country="Italy"
+             locID="loc287"/>
+   <location place="Aquila" xCoord="42.3506978" yCoord="13.3999338" country="Italy"
+             locID="loc288"/>
+   <location place="Ascoli Piceno" xCoord="42.8554018" yCoord="13.5749771" country="Italy"
+             locID="loc289"/>
+   <location place="Barco" xCoord="45.379539" yCoord="9.89941" country="Italy"
+             locID="loc290"/>
+   <location place="Barco" xCoord="45.8212267" yCoord="12.6719704" country="Italy"
+             locID="loc291"/>
+   <location place="Bergamo" xCoord="45.6949028" yCoord="9.6699528" country="Italy"
+             locID="loc292"/>
+   <location place="Bologna" xCoord="44.4941903" yCoord="11.3465185" country="Italy"
+             locID="loc293"/>
+   <location place="Bolzano" xCoord="46.4967153" yCoord="11.3580048" country="Italy"
+             locID="loc294"/>
+   <location place="Bondeno" xCoord="44.888317" yCoord="11.410612" country="Italy"
+             locID="loc295"/>
+   <location place="Borgo San Donnino" xCoord="44.865102" yCoord="10.061731" country="Italy"
+             locID="loc296"/>
+   <location place="Brescia" xCoord="45.5398382" yCoord="10.2229562" country="Italy"
+             locID="loc297"/>
+   <location place="Cagli" xCoord="43.5468067" yCoord="12.6484762" country="Italy"
+             locID="loc298"/>
+   <location place="Cagliari" xCoord="39.2154086" yCoord="9.1093239" country="Italy"
+             locID="loc299"/>
+   <location place="Capua" xCoord="41.1007962" yCoord="14.2211111" country="Italy"
+             locID="loc300"/>
+   <location place="Capua Caserta" xCoord="41.1007962" yCoord="14.2211111" country="Italy"
+             locID="loc301"/>
+   <location place="Carpi Modena" xCoord="44.783051" yCoord="10.8850614" country="Italy"
+             locID="loc302"/>
+   <location place="Casal di San Vaso" xCoord="45.1333" yCoord="8.45" country="Italy"
+             locID="loc303"/>
+   <location place="Casal Maggiore" xCoord="41.7912805" yCoord="12.4110372" country="Italy"
+             locID="loc304"/>
+   <location place="Casal Maggiore (Casalmaggiore, Cremona)" xCoord="44.9860167"
+             yCoord="10.4151026"
+             country="Italy"
+             locID="loc305"/>
+   <location place="Casale Monferrato Alessandria" xCoord="45.1371555" yCoord="8.4508855"
+             country="Italy"
+             locID="loc306"/>
+   <location place="Castano Primo" xCoord="45.55384" yCoord="8.774255" country="Italy"
+             locID="loc307"/>
+   <location place="Castano Primo" xCoord="45.5530952" yCoord="8.7827559" country="Italy"
+             locID="loc308"/>
+   <location place="Catania" xCoord="37.5024825" yCoord="15.0878345" country="Italy"
+             locID="loc309"/>
+   <location place="Cesena" xCoord="44.13876" yCoord="12.2391244" country="Italy"
+             locID="loc310"/>
+   <location place="Chivasso" xCoord="45.1898814" yCoord="7.8842584" country="Italy"
+             locID="loc311"/>
+   <location place="Cividale" xCoord="46.0906481" yCoord="13.435" country="Italy"
+             locID="loc312"/>
+   <location place="Cividale del Friuli Udine" xCoord="46.0906481" yCoord="13.435"
+             country="Italy"
+             locID="loc313"/>
+   <location place="Colle" xCoord="43.4162777" yCoord="11.1325185" country="Italy"
+             locID="loc314"/>
+   <location place="Colle di Val d'Elsa" xCoord="43.4162777" yCoord="11.1325185"
+             country="Italy"
+             locID="loc315"/>
+   <location place="Colle di Valdelsa" xCoord="43.4224482" yCoord="11.1204106"
+             country="Italy"
+             locID="loc316"/>
+   <location place="Como" xCoord="45.8120317" yCoord="9.085615" country="Italy"
+             locID="loc317"/>
+   <location place="Cortemaggiore Piacenza" xCoord="44.996035" yCoord="9.931297"
+             country="Italy"
+             locID="loc318"/>
+   <location place="Cosenza" xCoord="39.2981996" yCoord="16.2538921" country="Italy"
+             locID="loc319"/>
+   <location place="Cremona" xCoord="45.1334974" yCoord="10.026135" country="Italy"
+             locID="loc320"/>
+   <location place="Fabriano" xCoord="43.3361361" yCoord="12.9046964" country="Italy"
+             locID="loc321"/>
+   <location place="Faenza" xCoord="44.2853477" yCoord="11.8829895" country="Italy"
+             locID="loc322"/>
+   <location place="Faenza Ravenna" xCoord="44.2853477" yCoord="11.8829895" country="Italy"
+             locID="loc323"/>
+   <location place="Fano" xCoord="43.8448675" yCoord="13.0168824" country="Italy"
+             locID="loc324"/>
+   <location place="Farfa" xCoord="42.2218086" yCoord="12.7179256" country="Italy"
+             locID="loc325"/>
+   <location place="Ferrara" xCoord="44.8378378" yCoord="11.6203994" country="Italy"
+             locID="loc326"/>
+   <location place="Fivizzano Massa-Carrara" xCoord="44.2393888" yCoord="10.127037"
+             country="Italy"
+             locID="loc327"/>
+   <location place="Florence" xCoord="43.7687324" yCoord="11.2569013" country="Italy"
+             locID="loc328"/>
+   <location place="Foligno" xCoord="42.945" yCoord="12.702037" country="Italy"
+             locID="loc329"/>
+   <location place="Forlì" xCoord="44.221229" yCoord="12.0426869" country="Italy"
+             locID="loc331"/>
+   <location place="Gaeta" xCoord="41.2140718" yCoord="13.571" country="Italy"
+             locID="loc332"/>
+   <location place="Genoa" xCoord="44.4070624" yCoord="8.9339889" country="Italy"
+             locID="loc333"/>
+   <location place="Gonzaga" xCoord="44.9511519" yCoord="10.8200671" country="Italy"
+             locID="loc334"/>
+   <location place="Iesi" xCoord="43.5224346" yCoord="13.2433861" country="Italy"
+             locID="loc335"/>
+   <location place="Lanciano" xCoord="42.2331749" yCoord="14.3913788" country="Italy"
+             locID="loc337"/>
+   <location place="L'Aquila" xCoord="42.3506978" yCoord="13.3999338" country="Italy"
+             locID="loc338"/>
+   <location place="Lucca" xCoord="43.8430139" yCoord="10.507994" country="Italy"
+             locID="loc339"/>
+   <location place="Macerata" xCoord="43.3007462" yCoord="13.456262" country="Italy"
+             locID="loc340"/>
+   <location place="Mantua" xCoord="45.1603653" yCoord="10.7976976" country="Italy"
+             locID="loc341"/>
+   <location place="Matelica" xCoord="43.255" yCoord="13.011574" country="Italy"
+             locID="loc342"/>
+   <location place="Messina" xCoord="38.1923323" yCoord="15.5555232" country="Italy"
+             locID="loc344"/>
+   <location place="Milan" xCoord="45.463681" yCoord="9.1881714" country="Italy"
+             locID="loc345"/>
+   <location place="Modena" xCoord="44.647115" yCoord="10.9251857" country="Italy"
+             locID="loc346"/>
+   <location place="Mondovì" xCoord="44.3895763" yCoord="7.820601" country="Italy"
+             locID="loc348"/>
+   <location place="Naples" xCoord="40.8400969" yCoord="14.2516357" country="Italy"
+             locID="loc349"/>
+   <location place="Nonantola" xCoord="44.6765996" yCoord="11.0355515" country="Italy"
+             locID="loc350"/>
+   <location place="Novi Ligure" xCoord="44.7617961" yCoord="8.7861012" country="Italy"
+             locID="loc352"/>
+   <location place="Nozzano" xCoord="43.8356454" yCoord="10.4171701" country="Italy"
+             locID="loc353"/>
+   <location place="Padua" xCoord="45.4095382" yCoord="11.8765537" country="Italy"
+             locID="loc354"/>
+   <location place="Palermo" xCoord="38.11564" yCoord="13.3614059" country="Italy"
+             locID="loc355"/>
+   <location place="Parma" xCoord="44.8078657" yCoord="10.3295478" country="Italy"
+             locID="loc356"/>
+   <location place="Pavia" xCoord="45.1858877" yCoord="9.1565627" country="Italy"
+             locID="loc357"/>
+   <location place="Perugia" xCoord="43.1107009" yCoord="12.389172" country="Italy"
+             locID="loc359"/>
+   <location place="Pesaro" xCoord="43.912069" yCoord="12.915744" country="Italy"
+             locID="loc360"/>
+   <location place="Pescia" xCoord="43.8981481" yCoord="10.6914074" country="Italy"
+             locID="loc361"/>
+   <location place="Piacenza" xCoord="45.0537735" yCoord="9.6951421" country="Italy"
+             locID="loc363"/>
+   <location place="Chivasso" xCoord="45.202506" yCoord="7.883949" country="Italy"
+             locID="loc364"/>
+   <location place="Pinerolo" xCoord="44.8847027" yCoord="7.3308568" country="Italy"
+             locID="loc365"/>
+   <location place="Pioraco" xCoord="43.18" yCoord="12.9867407" country="Italy"
+             locID="loc367"/>
+   <location place="Pisa" xCoord="43.7161354" yCoord="10.3965843" country="Italy"
+             locID="loc370"/>
+   <location place="Plaisance Piacenza" xCoord="45.0537735" yCoord="9.6951421"
+             country="Italy"
+             locID="loc371"/>
+   <location place="Pojano" xCoord="45.457638" yCoord="10.834551" country="Italy"
+             locID="loc372"/>
+   <location place="Portese" xCoord="45.5958323" yCoord="10.5523585" country="Italy"
+             locID="loc374"/>
+   <location place="Recanati" xCoord="43.4034093" yCoord="13.5622869" country="Italy"
+             locID="loc375"/>
+   <location place="Reggio di Calabria" xCoord="38.1146329" yCoord="15.6502336"
+             country="Italy"
+             locID="loc376"/>
+   <location place="Reggio Emilia" xCoord="44.69559" yCoord="10.641215" country="Italy"
+             locID="loc377"/>
+   <location place="Rome" xCoord="41.8905198" yCoord="12.4942486" country="Italy"
+             locID="loc379"/>
+   <location place="Sabbioneta Mantua" xCoord="44.9989259" yCoord="10.489537"
+             country="Italy"
+             locID="loc380"/>
+   <location place="Piove di Sacco" xCoord="40.378932" yCoord="15.378116" country="Italy"
+             locID="loc381"/>
+   <location place="Salerno" xCoord="40.6779567" yCoord="14.7659122" country="Italy"
+             locID="loc382"/>
+   <location place="Saluzzo" xCoord="44.6445906" yCoord="7.4926037" country="Italy"
+             locID="loc383"/>
+   <location place="Sampierdarena" xCoord="44.4105225" yCoord="8.8980217" country="Italy"
+             locID="loc385"/>
+   <location place="San Cesario" xCoord="44.562037" yCoord="11.0342222" country="Italy"
+             locID="loc387"/>
+   <location place="San Germano" xCoord="41.5" yCoord="13.8167" country="Italy"
+             locID="loc388"/>
+   <location place="Santorso" xCoord="45.7361111" yCoord="11.3928148" country="Italy"
+             locID="loc390"/>
+   <location place="Savigliano" xCoord="44.648035899999996" yCoord="7.6583647"
+             country="Italy"
+             locID="loc391"/>
+   <location place="Savona" xCoord="44.3110703" yCoord="8.4772463" country="Italy"
+             locID="loc393"/>
+   <location place="Scandiano" xCoord="44.5975185" yCoord="10.6917222" country="Italy"
+             locID="loc394"/>
+   <location place="Senigallia" xCoord="43.7150141" yCoord="13.218024" country="Italy"
+             locID="loc396"/>
+   <location place="Siena" xCoord="43.3186614" yCoord="11.3305135" country="Italy"
+             locID="loc397"/>
+   <location place="Soncino" xCoord="45.4011111" yCoord="9.8709629" country="Italy"
+             locID="loc399"/>
+   <location place="Subiaco" xCoord="41.932499" yCoord="13.095303" country="Italy"
+             locID="loc401"/>
+   <location place="Terni" xCoord="42.5602192" yCoord="12.6467812" country="Italy"
+             locID="loc403"/>
+   <location place="Torrebelvicino" xCoord="45.7178333" yCoord="11.3206481" country="Italy"
+             locID="loc405"/>
+   <location place="Toscolano" xCoord="42.6588328" yCoord="12.350313" country="Italy"
+             locID="loc406"/>
+   <location place="Trent" xCoord="46.0667123" yCoord="11.1190591" country="Italy"
+             locID="loc407"/>
+   <location place="Trevi" xCoord="42.8767222" yCoord="12.7451666" country="Italy"
+             locID="loc409"/>
+   <location place="Treviso" xCoord="45.6662855" yCoord="12.242072" country="Italy"
+             locID="loc411"/>
+   <location place="Trino" xCoord="45.1931481" yCoord="8.2973703" country="Italy"
+             locID="loc412"/>
+   <location place="Turin" xCoord="45.0705621" yCoord="7.6866186" country="Italy"
+             locID="loc413"/>
+   <location place="Tuscany" xCoord="43.5671153" yCoord="10.9807003" country="Italy"
+             locID="loc414"/>
+   <location place="Udine" xCoord="46.0649418" yCoord="13.2307247" country="Italy"
+             locID="loc415"/>
+   <location place="Urbino" xCoord="43.7247469" yCoord="12.6366847" country="Italy"
+             locID="loc416"/>
+   <location place="Venice" xCoord="45.4343363" yCoord="12.3387844" country="Italy"
+             locID="loc417"/>
+   <location place="Vercelli" xCoord="45.3211114" yCoord="8.4262359" country="Italy"
+             locID="loc418"/>
+   <location place="Verona" xCoord="45.4383278" yCoord="10.9917623" country="Italy"
+             locID="loc419"/>
+   <location place="Viale Piceno" xCoord="43.8318729" yCoord="13.0439036" country="Italy"
+             locID="loc421"/>
+   <location place="Vicenza" xCoord="45.5459053" yCoord="11.540307" country="Italy"
+             locID="loc422"/>
+   <location place="Viterbo" xCoord="42.4173794" yCoord="12.1048541" country="Italy"
+             locID="loc423"/>
+   <location place="Voghera" xCoord="44.992184" yCoord="9.0096803" country="Italy"
+             locID="loc424"/>
+   <location place="Voltri" xCoord="44.4306663" yCoord="8.7478381" country="Italy"
+             locID="loc426"/>
+   <location place="Marienthal" xCoord="49.71051" yCoord="6.05993" country="Luxembourg"
+             locID="loc427"/>
+   <location place="Cetinje" xCoord="42.390888" yCoord="18.91398" country="Montenegro"
+             locID="loc428"/>
+   <location place="Hagenau" xCoord="52.05" yCoord="6.0667" country="Netherlands"
+             locID="loc117"/>
+   <location place="Bergen-op-Zoom" xCoord="51.4945758" yCoord="4.2871622"
+             country="Netherlands"
+             locID="loc429"/>
+   <location place="Culemborg" xCoord="51.95" yCoord="5.2166667" country="Netherlands"
+             locID="loc430"/>
+   <location place="Delft" xCoord="52.009507" yCoord="4.360515" country="Netherlands"
+             locID="loc431"/>
+   <location place="Deventer" xCoord="52.25446" yCoord="6.160247" country="Netherlands"
+             locID="loc432"/>
+   <location place="Gennep" xCoord="51.695511" yCoord="5.978041" country="Netherlands"
+             locID="loc433"/>
+   <location place="Gouda" xCoord="52.013859" yCoord="4.70979" country="Netherlands"
+             locID="loc434"/>
+   <location place="Haarlem" xCoord="52.3802778" yCoord="4.6405556" country="Netherlands"
+             locID="loc435"/>
+   <location place="Hertogenbosch" xCoord="51.697928" yCoord="5.317006"
+             country="Netherlands"
+             locID="loc436"/>
+   <location place="Leiden" xCoord="52.1603216" yCoord="4.4939262" country="Netherlands"
+             locID="loc437"/>
+   <location place="Maartensdijk" xCoord="52.152506" yCoord="5.175049" country="Netherlands"
+             locID="loc438"/>
+   <location place="Nijmegen" xCoord="51.842867" yCoord="5.854622" country="Netherlands"
+             locID="loc439"/>
+   <location place="Schiedam" xCoord="51.9169599" yCoord="4.3988186" country="Netherlands"
+             locID="loc440"/>
+   <location place="Schoonhoven" xCoord="51.948189" yCoord="4.853921" country="Netherlands"
+             locID="loc441"/>
+   <location place="s-Hertogenbosch" xCoord="51.697928" yCoord="5.317006"
+             country="Netherlands"
+             locID="loc442"/>
+   <location place="St. Maartensdijk" xCoord="51.550271" yCoord="4.080058"
+             country="Netherlands"
+             locID="loc443"/>
+   <location place="Utrecht" xCoord="52.0901422" yCoord="5.1096649" country="Netherlands"
+             locID="loc444"/>
+   <location place="Vlaardingen" xCoord="51.907951" yCoord="4.336366" country="Netherlands"
+             locID="loc445"/>
+   <location place="Voorschoten" xCoord="52.122544" yCoord="4.440631" country="Netherlands"
+             locID="loc446"/>
+   <location place="Zwolle" xCoord="52.5129402" yCoord="6.1071523" country="Netherlands"
+             locID="loc447"/>
+   <location place="Brunkeberg" xCoord="59.43488" yCoord="8.4860199" country="Norway"
+             locID="loc448"/>
+   <location place="Breslau" xCoord="51.1078852" yCoord="17.0385376" country="Poland"
+             locID="loc449"/>
+   <location place="Cracow" xCoord="50.0646501" yCoord="19.9449799" country="Poland"
+             locID="loc450"/>
+   <location place="Danzig" xCoord="54.3520252" yCoord="18.6466384" country="Poland"
+             locID="loc451"/>
+   <location place="Marienburg" xCoord="54.042742" yCoord="19.033248" country="Poland"
+             locID="loc454"/>
+   <location place="Chelmno" xCoord="53.350787" yCoord="18.425245"
+             country="Poland"
+             locID="loc457"/>
+   <location place="Braga" xCoord="41.5517605" yCoord="-8.4229034" country="Portugal"
+             locID="loc462"/>
+   <location place="Chaves" xCoord="41.7413961" yCoord="-7.4719681" country="Portugal"
+             locID="loc463"/>
+   <location place="Coimbra" xCoord="40.211491" yCoord="-8.4292014" country="Portugal"
+             locID="loc464"/>
+   <location place="Faro" xCoord="37.0153597" yCoord="-7.935113" country="Portugal"
+             locID="loc465"/>
+   <location place="Leiria" xCoord="39.7443404" yCoord="-8.8072495" country="Portugal"
+             locID="loc466"/>
+   <location place="Lisbon" xCoord="38.706932" yCoord="-9.1356321" country="Portugal"
+             locID="loc467"/>
+   <location place="Oporto" xCoord="41.149968" yCoord="-8.6102426" country="Portugal"
+             locID="loc468"/>
+   <location place="Alcaraz" xCoord="38.6696592" yCoord="-2.4926469" country="Spain"
+             locID="loc473"/>
+   <location place="Badajoz" xCoord="38.8785967" yCoord="-6.9702834" country="Spain"
+             locID="loc474"/>
+   <location place="Banyoles" xCoord="42.1181191" yCoord="2.7647475" country="Spain"
+             locID="loc475"/>
+   <location place="Barcelona" xCoord="41.387917" yCoord="2.1699187" country="Spain"
+             locID="loc476"/>
+   <location place="Boston" xCoord="42.3584308" yCoord="-71.0597732" country="Spain"
+             locID="loc477"/>
+   <location place="Burgos" xCoord="42.3408923" yCoord="-3.6997623" country="Spain"
+             locID="loc478"/>
+   <location place="Caceres" xCoord="39.4761789" yCoord="-6.3707604" country="Spain"
+             locID="loc479"/>
+   <location place="Capellades" xCoord="41.5307542" yCoord="1.6796126" country="Spain"
+             locID="loc480"/>
+   <location place="Claramunt" xCoord="42.1790185" yCoord="0.7827002" country="Spain"
+             locID="loc481"/>
+   <location place="Copons" xCoord="41.6366609" yCoord="1.5176419" country="Spain"
+             locID="loc482"/>
+   <location place="Cordoba" xCoord="37.8847267" yCoord="-4.7791517" country="Spain"
+             locID="loc483"/>
+   <location place="Coria" xCoord="37.285059" yCoord="-6.051814" country="Spain"
+             locID="loc484"/>
+   <location place="Coria del Río" xCoord="37.285059" yCoord="-6.051814" country="Spain"
+             locID="loc485"/>
+   <location place="Galicia" xCoord="42.5750554" yCoord="-8.1338558" country="Spain"
+             locID="loc486"/>
+   <location place="Gerona" xCoord="41.9817957" yCoord="2.8236999" country="Spain"
+             locID="loc487"/>
+   <location place="Granada" xCoord="37.1764874" yCoord="-3.5979291" country="Spain"
+             locID="loc489"/>
+   <location place="Guadalajara" xCoord="40.629816" yCoord="-3.1664931" country="Spain"
+             locID="loc491"/>
+   <location place="Hijar" xCoord="41.1757228" yCoord="-0.451008" country="Spain"
+             locID="loc493"/>
+   <location place="Huesca" xCoord="42.1401024" yCoord="-0.408898" country="Spain"
+             locID="loc494"/>
+   <location place="Huete" xCoord="40.145954" yCoord="-2.6873068" country="Spain"
+             locID="loc495"/>
+   <location place="La Riba" xCoord="41.3197222" yCoord="1.3622222" country="Spain"
+             locID="loc496"/>
+   <location place="Lerida" xCoord="41.6141518" yCoord="0.6257825" country="Spain"
+             locID="loc498"/>
+   <location place="Logrono" xCoord="42.4657764" yCoord="-2.4499946" country="Spain"
+             locID="loc499"/>
+   <location place="Mallorca" xCoord="39.6952629" yCoord="3.0175712" country="Spain"
+             locID="loc500"/>
+   <location place="Manresa" xCoord="41.7251751" yCoord="1.8233527" country="Spain"
+             locID="loc502"/>
+   <location place="Medina de Rioseco" xCoord="41.8831851" yCoord="-5.0428105"
+             country="Spain"
+             locID="loc503"/>
+   <location place="Medina del Campo" xCoord="41.3081852" yCoord="-4.9217064"
+             country="Spain"
+             locID="loc504"/>
+   <location place="Merida" xCoord="38.9158586" yCoord="-6.3456061" country="Spain"
+             locID="loc505"/>
+   <location place="Monterrey" xCoord="41.9471462" yCoord="-7.449487" country="Spain"
+             locID="loc507"/>
+   <location place="Montserrat" xCoord="41.593206" yCoord="1.837139" country="Spain"
+             locID="loc508"/>
+   <location place="Murcia" xCoord="37.9834449" yCoord="-1.1298897" country="Spain"
+             locID="loc510"/>
+   <location place="Olot" xCoord="42.1821095" yCoord="2.488189" country="Spain"
+             locID="loc511"/>
+   <location place="Ourense" xCoord="42.3400086" yCoord="-7.8646408" country="Spain"
+             locID="loc512"/>
+   <location place="Oviedo" xCoord="43.3602994" yCoord="-5.844781" country="Spain"
+             locID="loc513"/>
+   <location place="Pamplona" xCoord="42.8179879" yCoord="-1.6441835" country="Spain"
+             locID="loc515"/>
+   <location place="Sahagún" xCoord="42.3720265" yCoord="-5.0304401" country="Spain"
+             locID="loc516"/>
+   <location place="Salamanca" xCoord="40.9649681" yCoord="-5.6630253" country="Spain"
+             locID="loc517"/>
+   <location place="Salo" xCoord="41.076769" yCoord="1.1440408" country="Spain"
+             locID="loc518"/>
+   <location place="Saragossa" xCoord="41.6562873" yCoord="-0.8765379" country="Spain"
+             locID="loc519"/>
+   <location place="Segovia" xCoord="40.9494272" yCoord="-4.1192092" country="Spain"
+             locID="loc520"/>
+   <location place="Seville" xCoord="37.38264" yCoord="-5.9962951" country="Spain"
+             locID="loc521"/>
+   <location place="Siguenza" xCoord="41.0695947" yCoord="-2.6422358" country="Spain"
+             locID="loc522"/>
+   <location place="Tarragona" xCoord="41.1186629" yCoord="1.24533" country="Spain"
+             locID="loc523"/>
+   <location place="Toledo" xCoord="39.878443" yCoord="-4.026718" country="Spain"
+             locID="loc524"/>
+   <location place="Tortosa" xCoord="40.8110042" yCoord="0.5209974" country="Spain"
+             locID="loc526"/>
+   <location place="Valencia" xCoord="39.4702393" yCoord="-0.3768049" country="Spain"
+             locID="loc527"/>
+   <location place="Valladolid" xCoord="41.6529434" yCoord="-4.7283811" country="Spain"
+             locID="loc528"/>
+   <location place="Valldemusa" xCoord="39.7117573" yCoord="2.622538" country="Spain"
+             locID="loc530"/>
+   <location place="Valles" xCoord="38.9859243" yCoord="-0.5563067" country="Spain"
+             locID="loc531"/>
+   <location place="Vic" xCoord="41.930291" yCoord="2.2543496" country="Spain"
+             locID="loc532"/>
+   <location place="Villalon de Campos" xCoord="42.099264" yCoord="-5.0339873"
+             country="Spain"
+             locID="loc533"/>
+   <location place="Zamora" xCoord="41.5036834" yCoord="-5.7437781" country="Spain"
+             locID="loc534"/>
+   <location place="Zaragoza" xCoord="41.6562873" yCoord="-0.8765379" country="Spain"
+             locID="loc535"/>
+   <location place="Gripsholm" xCoord="59.256111" yCoord="17.219167" country="Sweden"
+             locID="loc537"/>
+   <location place="Malmo" xCoord="55.6033306" yCoord="13.0013029" country="Sweden"
+             locID="loc539"/>
+   <location place="Skanor" xCoord="55.4125524" yCoord="12.8434767" country="Sweden"
+             locID="loc540"/>
+   <location place="Stockholm" xCoord="59.3327881" yCoord="18.0644881" country="Sweden"
+             locID="loc541"/>
+   <location place="Uppsala" xCoord="59.8581435" yCoord="17.6445858" country="Sweden"
+             locID="loc542"/>
+   <location place="Vadstena" xCoord="58.4485117" yCoord="14.8902277" country="Sweden"
+             locID="loc543"/>
+   <location place="Basel" xCoord="47.557421" yCoord="7.5925727" country="Switzerland"
+             locID="loc544"/>
+   <location place="Belfaux" xCoord="46.8215376" yCoord="7.1068718" country="Switzerland"
+             locID="loc545"/>
+   <location place="Bern" xCoord="46.9479222" yCoord="7.4446085" country="Switzerland"
+             locID="loc546"/>
+   <location place="Beromunster" xCoord="47.2" yCoord="8.2" country="Switzerland"
+             locID="loc547"/>
+   <location place="Dornach" xCoord="47.4807672" yCoord="7.6156205" country="Switzerland"
+             locID="loc548"/>
+   <location place="Geneva" xCoord="46.1983922" yCoord="6.1422961" country="Switzerland"
+             locID="loc549"/>
+   <location place="Grandson" xCoord="46.8110809" yCoord="6.6486418" country="Switzerland"
+             locID="loc550"/>
+   <location place="Lausanne" xCoord="46.5199617" yCoord="6.6335971" country="Switzerland"
+             locID="loc551"/>
+   <location place="Marly" xCoord="46.7789" yCoord="7.15407" country="Switzerland"
+             locID="loc552"/>
+   <location place="Morat (Murten)" xCoord="46.9295138" yCoord="7.1187817"
+             country="Switzerland"
+             locID="loc553"/>
+   <location place="Promenthoux" xCoord="46.39353" yCoord="6.26841" country="Switzerland"
+             locID="loc554"/>
+   <location place="Rebstock" xCoord="46.8325976" yCoord="8.1817653" country="Switzerland"
+             locID="loc555"/>
+   <location place="Sursee" xCoord="47.1700754" yCoord="8.1079092" country="Switzerland"
+             locID="loc556"/>
+   <location place="Zurich" xCoord="47.367347" yCoord="8.5500025" country="Switzerland"
+             locID="loc557"/>
+   <location place="Zurzach" xCoord="47.5858932" yCoord="8.2919577" country="Switzerland"
+             locID="loc559"/>
+   <location place="Constantinople" xCoord="41.040855" yCoord="28.986183" country="Turkey"
+             locID="loc560"/>
+   <location place="Aberdeen" xCoord="57.1474915" yCoord="-2.095397" country="UK"
+             locID="loc561"/>
+   <location place="Barnet" xCoord="51.6529294" yCoord="-0.1996059" country="UK"
+             locID="loc562"/>
+   <location place="Blore Heath" xCoord="52.9125821" yCoord="-2.432479" country="UK"
+             locID="loc563"/>
+   <location place="Bosworth" xCoord="55.040864" yCoord="-1.57096" country="UK"
+             locID="loc564"/>
+   <location place="Bramham Moor" xCoord="50.822339" yCoord="-1.225122" country="UK"
+             locID="loc565"/>
+   <location place="Bury St. Edmunds" xCoord="52.248726" yCoord="0.705933" country="UK"
+             locID="loc566"/>
+   <location place="Cambridge" xCoord="52.2025441" yCoord="0.1312368" country="UK"
+             locID="loc567"/>
+   <location place="Dunstable" xCoord="51.8876152" yCoord="-0.5231289" country="UK"
+             locID="loc568"/>
+   <location place="Edgecote" xCoord="52.033483" yCoord="-0.789443" country="UK"
+             locID="loc569"/>
+   <location place="Empingham" xCoord="52.6680831" yCoord="-0.5930509" country="UK"
+             locID="loc570"/>
+   <location place="Ferrybridge" xCoord="53.7088429" yCoord="-1.2741026" country="UK"
+             locID="loc571"/>
+   <location place="Glasgow" xCoord="55.8656274" yCoord="-4.2572227" country="UK"
+             locID="loc572"/>
+   <location place="Hedgeley Moor" xCoord="55.423949" yCoord="-1.763536" country="UK"
+             locID="loc573"/>
+   <location place="Hertford" xCoord="51.795968" yCoord="-0.0788816" country="UK"
+             locID="loc574"/>
+   <location place="Hexham" xCoord="54.9702159" yCoord="-2.0979187" country="UK"
+             locID="loc575"/>
+   <location place="King's Lynn" xCoord="52.7519612" yCoord="0.3953571" country="UK"
+             locID="loc576"/>
+   <location place="London" xCoord="51.5001524" yCoord="-0.1262362" country="UK"
+             locID="loc577"/>
+   <location place="Mortimer's Cross" xCoord="52.2670665" yCoord="-2.8431887" country="UK"
+             locID="loc578"/>
+   <location place="Northhampton" xCoord="52.2510934" yCoord="-0.8900689" country="UK"
+             locID="loc579"/>
+   <location place="Oxford" xCoord="51.7522792" yCoord="-1.2558838" country="UK"
+             locID="loc580"/>
+   <location place="St. Albans" xCoord="51.753189" yCoord="-0.337752" country="UK"
+             locID="loc581"/>
+   <location place="St. Andrews" xCoord="56.3389114" yCoord="-2.7989253" country="UK"
+             locID="loc583"/>
+   <location place="St. Ives" xCoord="50.2114467" yCoord="-5.4807551" country="UK"
+             locID="loc584"/>
+   <location place="Stamford" xCoord="52.6513239" yCoord="-0.4800701" country="UK"
+             locID="loc585"/>
+   <location place="Tewkesbury" xCoord="51.9959298" yCoord="-2.1377332" country="UK"
+             locID="loc586"/>
+   <location place="Towton" xCoord="53.8507422" yCoord="-1.2637699" country="UK"
+             locID="loc587"/>
+   <location place="Wakefield" xCoord="53.682965" yCoord="-1.499097" country="UK"
+             locID="loc588"/>
+   <location place="Westminster" xCoord="51.5096446" yCoord="-0.1585863" country="UK"
+             locID="loc590"/>
+   <location place="Winchester" xCoord="51.0629403" yCoord="-1.3165037" country="UK"
+             locID="loc591"/>
+   <location place="York" xCoord="53.9577018" yCoord="-1.0822855" country="UK"
+             locID="loc592"/>
+</data>

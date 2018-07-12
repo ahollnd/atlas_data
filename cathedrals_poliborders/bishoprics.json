@@ -1,0 +1,1499 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "FID" : "FID",
+    "YEAR" : "YEAR",
+    "PLACE" : "PLACE",
+    "LONG" : "LONG",
+    "LAT" : "LAT",
+    "LTLONG" : "LTLONG",
+    "MOUSEOVER" : "MOUSEOVER"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "FID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "FID"
+    },
+    {
+      "name" : "YEAR",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "YEAR"
+    },
+    {
+      "name" : "PLACE",
+      "type" : "esriFieldTypeString",
+      "alias" : "PLACE",
+      "length" : 254
+    },
+    {
+      "name" : "LONG",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "LONG"
+    },
+    {
+      "name" : "LAT",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "LAT"
+    },
+    {
+      "name" : "LTLONG",
+      "type" : "esriFieldTypeString",
+      "alias" : "LTLONG",
+      "length" : 254
+    },
+    {
+      "name" : "MOUSEOVER",
+      "type" : "esriFieldTypeString",
+      "alias" : "MOUSEOVER",
+      "length" : 254
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "FID" : 0,
+        "YEAR" : 1450,
+        "PLACE" : "Arras",
+        "LONG" : 2.7808000000000002,
+        "LAT" : 50.289700000000003,
+        "LTLONG" : "50.2897, 2.7808",
+        "MOUSEOVER" : "Arras, Est.5C"
+      },
+      "geometry" : {
+        "x" : 2.7808000000000002,
+        "y" : 50.289700000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 1,
+        "YEAR" : 1450,
+        "PLACE" : "Amiens",
+        "LONG" : 2.2989999999999999,
+        "LAT" : 49.892000000000003,
+        "LTLONG" : "49.892, 2.299",
+        "MOUSEOVER" : "Amiens, Est.3C."
+      },
+      "geometry" : {
+        "x" : 2.2989999999999999,
+        "y" : 49.892000000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 2,
+        "YEAR" : 1450,
+        "PLACE" : "Rouen",
+        "LONG" : 1.1000000000000001,
+        "LAT" : 49.439999999999998,
+        "LTLONG" : "49.44, 1.1",
+        "MOUSEOVER" : "Rouen, Est.5C"
+      },
+      "geometry" : {
+        "x" : 1.1000000000000001,
+        "y" : 49.439999999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 3,
+        "YEAR" : 1450,
+        "PLACE" : "Verdun",
+        "LONG" : 5.3875999999999999,
+        "LAT" : 49.161999999999999,
+        "LTLONG" : "49.162, 5.3876",
+        "MOUSEOVER" : "Verdun, Est.4C"
+      },
+      "geometry" : {
+        "x" : 5.3875999999999999,
+        "y" : 49.161999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 4,
+        "YEAR" : 1450,
+        "PLACE" : "Paris",
+        "LONG" : 2.3508,
+        "LAT" : 48.856699999999996,
+        "LTLONG" : "48.8567, 2.3508",
+        "MOUSEOVER" : "Paris, Est.3C."
+      },
+      "geometry" : {
+        "x" : 2.3508,
+        "y" : 48.856699999999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 5,
+        "YEAR" : 1450,
+        "PLACE" : "Senlisse",
+        "LONG" : 1.9824999999999999,
+        "LAT" : 48.687800000000003,
+        "LTLONG" : "48.6878, 1.9825",
+        "MOUSEOVER" : "Senlisse, Est.3C"
+      },
+      "geometry" : {
+        "x" : 1.9824999999999999,
+        "y" : 48.687800000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 6,
+        "YEAR" : 1450,
+        "PLACE" : "Troyes",
+        "LONG" : 4.0792000000000002,
+        "LAT" : 48.299700000000001,
+        "LTLONG" : "48.2997, 4.0792",
+        "MOUSEOVER" : "Troyes, Est.4C"
+      },
+      "geometry" : {
+        "x" : 4.0792000000000002,
+        "y" : 48.299700000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 7,
+        "YEAR" : 1450,
+        "PLACE" : "Rennes",
+        "LONG" : -1.6794,
+        "LAT" : 48.113999999999997,
+        "LTLONG" : "48.114, -1.6794",
+        "MOUSEOVER" : "Rennes, Est.4C"
+      },
+      "geometry" : {
+        "x" : -1.6794,
+        "y" : 48.113999999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 8,
+        "YEAR" : 1450,
+        "PLACE" : "Sens",
+        "LONG" : 3.2877000000000001,
+        "LAT" : 48.197499999999998,
+        "LTLONG" : "48.1975, 3.2877",
+        "MOUSEOVER" : "Sens, Est.1C"
+      },
+      "geometry" : {
+        "x" : 3.2877000000000001,
+        "y" : 48.197499999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 9,
+        "YEAR" : 1450,
+        "PLACE" : "Le Mans",
+        "LONG" : 0.19839999999999999,
+        "LAT" : 48.0077,
+        "LTLONG" : "48.0077, 0.1984",
+        "MOUSEOVER" : "Le Mans, Est.5C"
+      },
+      "geometry" : {
+        "x" : 0.19839999999999999,
+        "y" : 48.0077
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 10,
+        "YEAR" : 1450,
+        "PLACE" : "Quimper",
+        "LONG" : -4.0964,
+        "LAT" : 47.996699999999997,
+        "LTLONG" : "47.9967, -4.0964",
+        "MOUSEOVER" : "Quimper, Est.5C"
+      },
+      "geometry" : {
+        "x" : -4.0964,
+        "y" : 47.996699999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 11,
+        "YEAR" : 1450,
+        "PLACE" : "Orleans",
+        "LONG" : 1.909,
+        "LAT" : 47.902500000000003,
+        "LTLONG" : "47.9025, 1.909",
+        "MOUSEOVER" : "Orleans, Est.3C"
+      },
+      "geometry" : {
+        "x" : 1.909,
+        "y" : 47.902500000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 12,
+        "YEAR" : 1450,
+        "PLACE" : "Vannes",
+        "LONG" : -2.7603,
+        "LAT" : 47.655900000000003,
+        "LTLONG" : "47.6559, -2.7603",
+        "MOUSEOVER" : "Vannes, Est.5C"
+      },
+      "geometry" : {
+        "x" : -2.7603,
+        "y" : 47.655900000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 13,
+        "YEAR" : 1450,
+        "PLACE" : "Angers",
+        "LONG" : -0.55420000000000003,
+        "LAT" : 47.473599999999998,
+        "LTLONG" : "47.4736, -0.5542",
+        "MOUSEOVER" : "Angers, Est.4C"
+      },
+      "geometry" : {
+        "x" : -0.55420000000000003,
+        "y" : 47.473599999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 14,
+        "YEAR" : 1450,
+        "PLACE" : "Bensancon",
+        "LONG" : 6.0218999999999996,
+        "LAT" : 47.243099999999998,
+        "LTLONG" : "47.2431, 6.0219",
+        "MOUSEOVER" : "Bensancon, Est.4C"
+      },
+      "geometry" : {
+        "x" : 6.0218999999999996,
+        "y" : 47.243099999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 15,
+        "YEAR" : 1450,
+        "PLACE" : "Nantes",
+        "LONG" : -1.5528,
+        "LAT" : 47.2181,
+        "LTLONG" : "47.2181, -1.5528",
+        "MOUSEOVER" : "Nantes, Est.4C."
+      },
+      "geometry" : {
+        "x" : -1.5528,
+        "y" : 47.2181
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 16,
+        "YEAR" : 1450,
+        "PLACE" : "Bourges",
+        "LONG" : 2.3963999999999999,
+        "LAT" : 47.084400000000002,
+        "LTLONG" : "47.0844, 2.3964",
+        "MOUSEOVER" : "Bourges, Est.3C"
+      },
+      "geometry" : {
+        "x" : 2.3963999999999999,
+        "y" : 47.084400000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 17,
+        "YEAR" : 1450,
+        "PLACE" : "Strasbourg",
+        "LONG" : 7.75,
+        "LAT" : 48.579999999999998,
+        "LTLONG" : "48.58, 7.75",
+        "MOUSEOVER" : "Strasbourg, Est.4C"
+      },
+      "geometry" : {
+        "x" : 7.75,
+        "y" : 48.579999999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 18,
+        "YEAR" : 1450,
+        "PLACE" : "Nevers",
+        "LONG" : 3.1572,
+        "LAT" : 46.993299999999998,
+        "LTLONG" : "46.9933, 3.1572",
+        "MOUSEOVER" : "Nevers, Est.4C"
+      },
+      "geometry" : {
+        "x" : 3.1572,
+        "y" : 46.993299999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 19,
+        "YEAR" : 1450,
+        "PLACE" : "Poitiers",
+        "LONG" : 0.33610000000000001,
+        "LAT" : 46.581899999999997,
+        "LTLONG" : "46.5819, 0.3361",
+        "MOUSEOVER" : "Poitiers, Est.4C"
+      },
+      "geometry" : {
+        "x" : 0.33610000000000001,
+        "y" : 46.581899999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 20,
+        "YEAR" : 1450,
+        "PLACE" : "Angouleme",
+        "LONG" : 0.16,
+        "LAT" : 45.648899999999998,
+        "LTLONG" : "45.6489, 0.16",
+        "MOUSEOVER" : "Angouleme, Est.3C"
+      },
+      "geometry" : {
+        "x" : 0.16,
+        "y" : 45.648899999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 21,
+        "YEAR" : 1450,
+        "PLACE" : "Limoges",
+        "LONG" : 1.2625,
+        "LAT" : 45.835299999999997,
+        "LTLONG" : "45.8353, 1.2625",
+        "MOUSEOVER" : "Limoges, Est.1C"
+      },
+      "geometry" : {
+        "x" : 1.2625,
+        "y" : 45.835299999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 22,
+        "YEAR" : 1450,
+        "PLACE" : "Clermont",
+        "LONG" : 3.0823999999999998,
+        "LAT" : 45.783189999999998,
+        "LTLONG" : "45.78319, 3.0824",
+        "MOUSEOVER" : "Clermont, Est.3C"
+      },
+      "geometry" : {
+        "x" : 3.0823999999999998,
+        "y" : 45.783189999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 23,
+        "YEAR" : 1450,
+        "PLACE" : "Lyon",
+        "LONG" : 4.8399999999999999,
+        "LAT" : 45.759999999999998,
+        "LTLONG" : "45.76, 4.84",
+        "MOUSEOVER" : "Lyon, Est.150"
+      },
+      "geometry" : {
+        "x" : 4.8399999999999999,
+        "y" : 45.759999999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 24,
+        "YEAR" : 1450,
+        "PLACE" : "Le Puy en Velay",
+        "LONG" : 3.8858000000000001,
+        "LAT" : 45.044199999999996,
+        "LTLONG" : "45.0442, 3.8858",
+        "MOUSEOVER" : "Le Puy en Velay, Est.3C"
+      },
+      "geometry" : {
+        "x" : 3.8858000000000001,
+        "y" : 45.044199999999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 25,
+        "YEAR" : 1450,
+        "PLACE" : "Periguex",
+        "LONG" : 0.72170000000000001,
+        "LAT" : 45.192900000000002,
+        "LTLONG" : "45.1929, 0.7217",
+        "MOUSEOVER" : "Periguex, Est.3C"
+      },
+      "geometry" : {
+        "x" : 0.72170000000000001,
+        "y" : 45.192900000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 26,
+        "YEAR" : 1450,
+        "PLACE" : "Bordeaux",
+        "LONG" : -0.57830000000000004,
+        "LAT" : 44.8386,
+        "LTLONG" : "44.8386, -0.5783",
+        "MOUSEOVER" : "Bordeaux, Est.3C."
+      },
+      "geometry" : {
+        "x" : -0.57830000000000004,
+        "y" : 44.8386
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 27,
+        "YEAR" : 1450,
+        "PLACE" : "Valence",
+        "LONG" : 4.8917000000000002,
+        "LAT" : 44.933300000000003,
+        "LTLONG" : "44.9333, 4.8917",
+        "MOUSEOVER" : "Valence, Est.3C"
+      },
+      "geometry" : {
+        "x" : 4.8917000000000002,
+        "y" : 44.933300000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 28,
+        "YEAR" : 1450,
+        "PLACE" : "Cahors",
+        "LONG" : 1.4414,
+        "LAT" : 44.448300000000003,
+        "LTLONG" : "44.4483, 1.4414",
+        "MOUSEOVER" : "Cahors, Est.3C"
+      },
+      "geometry" : {
+        "x" : 1.4414,
+        "y" : 44.448300000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 29,
+        "YEAR" : 1450,
+        "PLACE" : "Avignon",
+        "LONG" : 4.8099999999999996,
+        "LAT" : 43.950000000000003,
+        "LTLONG" : "43.95, 4.81",
+        "MOUSEOVER" : "Avignon, Est.4C"
+      },
+      "geometry" : {
+        "x" : 4.8099999999999996,
+        "y" : 43.950000000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 30,
+        "YEAR" : 1450,
+        "PLACE" : "Nice",
+        "LONG" : 7.2663000000000002,
+        "LAT" : 43.703400000000002,
+        "LTLONG" : "43.7034, 7.2663",
+        "MOUSEOVER" : "Nice, Est.3C"
+      },
+      "geometry" : {
+        "x" : 7.2663000000000002,
+        "y" : 43.703400000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 31,
+        "YEAR" : 1450,
+        "PLACE" : "Digne",
+        "LONG" : 6.2363999999999997,
+        "LAT" : 44.093299999999999,
+        "LTLONG" : "44.0933, 6.2364",
+        "MOUSEOVER" : "Digne, Est.4C."
+      },
+      "geometry" : {
+        "x" : 6.2363999999999997,
+        "y" : 44.093299999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 32,
+        "YEAR" : 1450,
+        "PLACE" : "Agen",
+        "LONG" : 0.62119999999999997,
+        "LAT" : 44.204900000000002,
+        "LTLONG" : "44.2049, 0.6212",
+        "MOUSEOVER" : "Agen, Est.4C."
+      },
+      "geometry" : {
+        "x" : 0.62119999999999997,
+        "y" : 44.204900000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 33,
+        "YEAR" : 1450,
+        "PLACE" : "Albi",
+        "LONG" : 2.1463999999999999,
+        "LAT" : 43.928899999999999,
+        "LTLONG" : "43.9289, 2.1464",
+        "MOUSEOVER" : "Albi, Est.3C"
+      },
+      "geometry" : {
+        "x" : 2.1463999999999999,
+        "y" : 43.928899999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 34,
+        "YEAR" : 1450,
+        "PLACE" : "Narbonne",
+        "LONG" : 3.0042,
+        "LAT" : 43.183599999999998,
+        "LTLONG" : "43.1836, 3.0042",
+        "MOUSEOVER" : "Narbonne, Est.3C"
+      },
+      "geometry" : {
+        "x" : 3.0042,
+        "y" : 43.183599999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 35,
+        "YEAR" : 1450,
+        "PLACE" : "Bayonne",
+        "LONG" : -1.4750000000000001,
+        "LAT" : 43.490000000000002,
+        "LTLONG" : "43.49, -1.475",
+        "MOUSEOVER" : "Bayonne, Est.6C?"
+      },
+      "geometry" : {
+        "x" : -1.4750000000000001,
+        "y" : 43.490000000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 36,
+        "YEAR" : 1450,
+        "PLACE" : "Burgos",
+        "LONG" : -3.7067000000000001,
+        "LAT" : 42.350000000000001,
+        "LTLONG" : "42.35, -3.7067",
+        "MOUSEOVER" : "Burgos, Est.1075"
+      },
+      "geometry" : {
+        "x" : -3.7067000000000001,
+        "y" : 42.350000000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 37,
+        "YEAR" : 1450,
+        "PLACE" : "León",
+        "LONG" : -5.5700000000000003,
+        "LAT" : 42.605600000000003,
+        "LTLONG" : "42.6056, -5.57",
+        "MOUSEOVER" : "León, Est.4C"
+      },
+      "geometry" : {
+        "x" : -5.5700000000000003,
+        "y" : 42.605600000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 38,
+        "YEAR" : 1450,
+        "PLACE" : "Girona",
+        "LONG" : 2.8210999999999999,
+        "LAT" : 41.984400000000001,
+        "LTLONG" : "41.9844, 2.8211",
+        "MOUSEOVER" : "Girona, Est.4C"
+      },
+      "geometry" : {
+        "x" : 2.8210999999999999,
+        "y" : 41.984400000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 39,
+        "YEAR" : 1450,
+        "PLACE" : "Zaragoza",
+        "LONG" : -0.88329999999999997,
+        "LAT" : 41.649999999999999,
+        "LTLONG" : "41.65, -0.8833",
+        "MOUSEOVER" : "Zaragoza, Est.5C"
+      },
+      "geometry" : {
+        "x" : -0.88329999999999997,
+        "y" : 41.649999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 40,
+        "YEAR" : 1450,
+        "PLACE" : "Tortosa",
+        "LONG" : 0.52329999999999999,
+        "LAT" : 40.812800000000003,
+        "LTLONG" : "40.8128, 0.5233",
+        "MOUSEOVER" : "Tortosa, Est.4C"
+      },
+      "geometry" : {
+        "x" : 0.52329999999999999,
+        "y" : 40.812800000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 41,
+        "YEAR" : 1450,
+        "PLACE" : "Valencia",
+        "LONG" : -0.38329999999999997,
+        "LAT" : 39.466700000000003,
+        "LTLONG" : "39.4667, -0.3833",
+        "MOUSEOVER" : "Valencia, Est.1238"
+      },
+      "geometry" : {
+        "x" : -0.38329999999999997,
+        "y" : 39.466700000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 42,
+        "YEAR" : 1450,
+        "PLACE" : "Toledo",
+        "LONG" : -4.0244,
+        "LAT" : 39.856699999999996,
+        "LTLONG" : "39.8567, -4.0244",
+        "MOUSEOVER" : "Toledo, Est.1C"
+      },
+      "geometry" : {
+        "x" : -4.0244,
+        "y" : 39.856699999999996
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 43,
+        "YEAR" : 1450,
+        "PLACE" : "Merida",
+        "LONG" : -6.3333000000000004,
+        "LAT" : 38.899999999999999,
+        "LTLONG" : "38.9, -6.3333",
+        "MOUSEOVER" : "Merida, Est.1255"
+      },
+      "geometry" : {
+        "x" : -6.3333000000000004,
+        "y" : 38.899999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 44,
+        "YEAR" : 1450,
+        "PLACE" : "Cordoba",
+        "LONG" : -4.7667000000000002,
+        "LAT" : 37.883299999999998,
+        "LTLONG" : "37.8833, -4.7667",
+        "MOUSEOVER" : "Cordoba, Est.3C"
+      },
+      "geometry" : {
+        "x" : -4.7667000000000002,
+        "y" : 37.883299999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 45,
+        "YEAR" : 1450,
+        "PLACE" : "Seville",
+        "LONG" : -5.9869000000000003,
+        "LAT" : 37.377200000000002,
+        "LTLONG" : "37.3772, -5.9869",
+        "MOUSEOVER" : "Seville, Est.3C"
+      },
+      "geometry" : {
+        "x" : -5.9869000000000003,
+        "y" : 37.377200000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 46,
+        "YEAR" : 1450,
+        "PLACE" : "Granada",
+        "LONG" : -3.6008,
+        "LAT" : 37.178100000000001,
+        "LTLONG" : "37.1781, -3.6008",
+        "MOUSEOVER" : "Granada, Est.3C"
+      },
+      "geometry" : {
+        "x" : -3.6008,
+        "y" : 37.178100000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 47,
+        "YEAR" : 1450,
+        "PLACE" : "Palma de Majorca",
+        "LONG" : 2.6499999999999999,
+        "LAT" : 39.566699999999997,
+        "LTLONG" : "39.5667, 2.65",
+        "MOUSEOVER" : "Palma de Majorca, Est.450"
+      },
+      "geometry" : {
+        "x" : 2.6499999999999999,
+        "y" : 39.566699999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 48,
+        "YEAR" : 1450,
+        "PLACE" : "Porto",
+        "LONG" : -8.6219999999999999,
+        "LAT" : 41.162100000000002,
+        "LTLONG" : "41.1621, -8.622",
+        "MOUSEOVER" : "Porto, Est.588"
+      },
+      "geometry" : {
+        "x" : -8.6219999999999999,
+        "y" : 41.162100000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 49,
+        "YEAR" : 1450,
+        "PLACE" : "Coimbra",
+        "LONG" : -8.4291999999999998,
+        "LAT" : 40.211199999999998,
+        "LTLONG" : "40.2112, -8.4292",
+        "MOUSEOVER" : "Coimbra, Est.563"
+      },
+      "geometry" : {
+        "x" : -8.4291999999999998,
+        "y" : 40.211199999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 50,
+        "YEAR" : 1450,
+        "PLACE" : "Cagliari",
+        "LONG" : 9.0500000000000007,
+        "LAT" : 39.25,
+        "LTLONG" : "39.25, 9.05",
+        "MOUSEOVER" : "Cagliari, Est.4C"
+      },
+      "geometry" : {
+        "x" : 9.0500000000000007,
+        "y" : 39.25
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 51,
+        "YEAR" : 1450,
+        "PLACE" : "Siracusa",
+        "LONG" : 15.283300000000001,
+        "LAT" : 37.083300000000001,
+        "LTLONG" : "37.0833, 15.2833",
+        "MOUSEOVER" : "Siracusa, Est. 2C"
+      },
+      "geometry" : {
+        "x" : 15.283300000000001,
+        "y" : 37.083300000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 52,
+        "YEAR" : 1450,
+        "PLACE" : "Cosenza",
+        "LONG" : 16.25,
+        "LAT" : 39.299999999999997,
+        "LTLONG" : "39.3, 16.25",
+        "MOUSEOVER" : "Cosenza, Est.7C"
+      },
+      "geometry" : {
+        "x" : 16.25,
+        "y" : 39.299999999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 53,
+        "YEAR" : 1450,
+        "PLACE" : "Otranto",
+        "LONG" : 18.4833,
+        "LAT" : 40.149999999999999,
+        "LTLONG" : "40.15, 18.4833",
+        "MOUSEOVER" : "Otranto, Est.7C"
+      },
+      "geometry" : {
+        "x" : 18.4833,
+        "y" : 40.149999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 54,
+        "YEAR" : 1450,
+        "PLACE" : "Brindisi",
+        "LONG" : 17.933299999999999,
+        "LAT" : 40.633299999999998,
+        "LTLONG" : "40.6333, 17.9333",
+        "MOUSEOVER" : "Brindisi, Est.4C"
+      },
+      "geometry" : {
+        "x" : 17.933299999999999,
+        "y" : 40.633299999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 55,
+        "YEAR" : 1450,
+        "PLACE" : "Taranto",
+        "LONG" : 17.2333,
+        "LAT" : 40.466700000000003,
+        "LTLONG" : "40.4667, 17.2333",
+        "MOUSEOVER" : "Taranto, Est.6C"
+      },
+      "geometry" : {
+        "x" : 17.2333,
+        "y" : 40.466700000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 56,
+        "YEAR" : 1450,
+        "PLACE" : "Salerno",
+        "LONG" : 15.532999999999999,
+        "LAT" : 40.383000000000003,
+        "LTLONG" : "40.383, 15.533",
+        "MOUSEOVER" : "Salerno, Est.6C"
+      },
+      "geometry" : {
+        "x" : 15.532999999999999,
+        "y" : 40.383000000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 57,
+        "YEAR" : 1450,
+        "PLACE" : "Siponto",
+        "LONG" : 15.895799999999999,
+        "LAT" : 41.606900000000003,
+        "LTLONG" : "41.6069, 15.8958",
+        "MOUSEOVER" : "Siponto, Est.3C"
+      },
+      "geometry" : {
+        "x" : 15.895799999999999,
+        "y" : 41.606900000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 58,
+        "YEAR" : 1450,
+        "PLACE" : "Capua",
+        "LONG" : 14.216699999999999,
+        "LAT" : 41.100000000000001,
+        "LTLONG" : "41.1, 14.2167",
+        "MOUSEOVER" : "Capua, Est.2C"
+      },
+      "geometry" : {
+        "x" : 14.216699999999999,
+        "y" : 41.100000000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 59,
+        "YEAR" : 1450,
+        "PLACE" : "Rome",
+        "LONG" : 12.5,
+        "LAT" : 41.899999999999999,
+        "LTLONG" : "41.9, 12.5",
+        "MOUSEOVER" : "Rome, Est.1C"
+      },
+      "geometry" : {
+        "x" : 12.5,
+        "y" : 41.899999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 60,
+        "YEAR" : 1450,
+        "PLACE" : "Viterbo",
+        "LONG" : 12.1,
+        "LAT" : 42.416699999999999,
+        "LTLONG" : "42.4167, 12.1",
+        "MOUSEOVER" : "Viterbo, Est.6C"
+      },
+      "geometry" : {
+        "x" : 12.1,
+        "y" : 42.416699999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 61,
+        "YEAR" : 1450,
+        "PLACE" : "Perugia",
+        "LONG" : 12.3889,
+        "LAT" : 43.112200000000001,
+        "LTLONG" : "43.1122, 12.3889",
+        "MOUSEOVER" : "Perugia, Est.2C"
+      },
+      "geometry" : {
+        "x" : 12.3889,
+        "y" : 43.112200000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 62,
+        "YEAR" : 1450,
+        "PLACE" : "Siena",
+        "LONG" : 11.3306,
+        "LAT" : 43.318600000000004,
+        "LTLONG" : "43.3186, 11.3306",
+        "MOUSEOVER" : "Siena, Est.4C"
+      },
+      "geometry" : {
+        "x" : 11.3306,
+        "y" : 43.318600000000004
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 63,
+        "YEAR" : 1450,
+        "PLACE" : "Ancona",
+        "LONG" : 13.5167,
+        "LAT" : 43.616900000000001,
+        "LTLONG" : "43.6169, 13.5167",
+        "MOUSEOVER" : "Ancona, Est.3C"
+      },
+      "geometry" : {
+        "x" : 13.5167,
+        "y" : 43.616900000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 64,
+        "YEAR" : 1450,
+        "PLACE" : "Pisa",
+        "LONG" : 10.4,
+        "LAT" : 43.716700000000003,
+        "LTLONG" : "43.7167, 10.4",
+        "MOUSEOVER" : "Pisa, Est.4C"
+      },
+      "geometry" : {
+        "x" : 10.4,
+        "y" : 43.716700000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 65,
+        "YEAR" : 1450,
+        "PLACE" : "Florence",
+        "LONG" : 11.25,
+        "LAT" : 43.783299999999997,
+        "LTLONG" : "43.7833, 11.25",
+        "MOUSEOVER" : "Florence, Est.1C"
+      },
+      "geometry" : {
+        "x" : 11.25,
+        "y" : 43.783299999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 66,
+        "YEAR" : 1450,
+        "PLACE" : "Rimini",
+        "LONG" : 12.566700000000001,
+        "LAT" : 44.049999999999997,
+        "LTLONG" : "44.05, 12.5667",
+        "MOUSEOVER" : "Rimini, Est.3C"
+      },
+      "geometry" : {
+        "x" : 12.566700000000001,
+        "y" : 44.049999999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 67,
+        "YEAR" : 1450,
+        "PLACE" : "Ravenna",
+        "LONG" : 12.199999999999999,
+        "LAT" : 44.416699999999999,
+        "LTLONG" : "44.4167, 12.2",
+        "MOUSEOVER" : "Ravenna, Est.1C"
+      },
+      "geometry" : {
+        "x" : 12.199999999999999,
+        "y" : 44.416699999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 68,
+        "YEAR" : 1450,
+        "PLACE" : "Reggio",
+        "LONG" : 15.661899999999999,
+        "LAT" : 38.111400000000003,
+        "LTLONG" : "38.1114, 15.6619",
+        "MOUSEOVER" : "Reggio, Est.1C"
+      },
+      "geometry" : {
+        "x" : 15.661899999999999,
+        "y" : 38.111400000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 69,
+        "YEAR" : 1450,
+        "PLACE" : "Genoa",
+        "LONG" : 8.9328000000000003,
+        "LAT" : 44.411099999999998,
+        "LTLONG" : "44.4111, 8.9328",
+        "MOUSEOVER" : "Genoa, Est.3C"
+      },
+      "geometry" : {
+        "x" : 8.9328000000000003,
+        "y" : 44.411099999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 70,
+        "YEAR" : 1450,
+        "PLACE" : "Aquileia",
+        "LONG" : 13.3667,
+        "LAT" : 45.7667,
+        "LTLONG" : "45.7667, 13.3667",
+        "MOUSEOVER" : "Aquileia, Est.1C"
+      },
+      "geometry" : {
+        "x" : 13.3667,
+        "y" : 45.7667
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 71,
+        "YEAR" : 1450,
+        "PLACE" : "Padua",
+        "LONG" : 11.8667,
+        "LAT" : 45.416699999999999,
+        "LTLONG" : "45.4167, 11.8667",
+        "MOUSEOVER" : "Padua, Est.3C"
+      },
+      "geometry" : {
+        "x" : 11.8667,
+        "y" : 45.416699999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 72,
+        "YEAR" : 1450,
+        "PLACE" : "Verona",
+        "LONG" : 10.9833,
+        "LAT" : 45.433300000000003,
+        "LTLONG" : "45.4333, 10.9833",
+        "MOUSEOVER" : "Verona, Est.3C"
+      },
+      "geometry" : {
+        "x" : 10.9833,
+        "y" : 45.433300000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 73,
+        "YEAR" : 1450,
+        "PLACE" : "Bergamo",
+        "LONG" : 9.6667000000000005,
+        "LAT" : 45.700000000000003,
+        "LTLONG" : "45.7, 9.6667",
+        "MOUSEOVER" : "Bergamo, Est.4C"
+      },
+      "geometry" : {
+        "x" : 9.6667000000000005,
+        "y" : 45.700000000000003
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 74,
+        "YEAR" : 1450,
+        "PLACE" : "Turin",
+        "LONG" : 7.7000000000000002,
+        "LAT" : 45.066699999999997,
+        "LTLONG" : "45.0667, 7.7",
+        "MOUSEOVER" : "Turin, Est.4C"
+      },
+      "geometry" : {
+        "x" : 7.7000000000000002,
+        "y" : 45.066699999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 75,
+        "YEAR" : 1450,
+        "PLACE" : "Asti",
+        "LONG" : 8.2078000000000007,
+        "LAT" : 44.898899999999998,
+        "LTLONG" : "44.8989, 8.2078",
+        "MOUSEOVER" : "Asti, Est.3C"
+      },
+      "geometry" : {
+        "x" : 8.2078000000000007,
+        "y" : 44.898899999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 76,
+        "YEAR" : 1450,
+        "PLACE" : "Canterbury",
+        "LONG" : 1.087,
+        "LAT" : 51.274999999999999,
+        "LTLONG" : "51.275, 1.087",
+        "MOUSEOVER" : "Canterbury, Est.597"
+      },
+      "geometry" : {
+        "x" : 1.087,
+        "y" : 51.274999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 77,
+        "YEAR" : 1450,
+        "PLACE" : "York",
+        "LONG" : -1.0803,
+        "LAT" : 53.958300000000001,
+        "LTLONG" : "53.9583, -1.0803",
+        "MOUSEOVER" : "York"
+      },
+      "geometry" : {
+        "x" : -1.0803,
+        "y" : 53.958300000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 78,
+        "YEAR" : 1450,
+        "PLACE" : "Winchester",
+        "LONG" : -1.3080000000000001,
+        "LAT" : 51.063200000000002,
+        "LTLONG" : "51.0632, -1.308",
+        "MOUSEOVER" : "Winchester, Est.676"
+      },
+      "geometry" : {
+        "x" : -1.3080000000000001,
+        "y" : 51.063200000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 79,
+        "YEAR" : 1450,
+        "PLACE" : "Cork",
+        "LONG" : -8.4700000000000006,
+        "LAT" : 51.897199999999998,
+        "LTLONG" : "51.8972, -8.47",
+        "MOUSEOVER" : "Cork, Est.7C"
+      },
+      "geometry" : {
+        "x" : -8.4700000000000006,
+        "y" : 51.897199999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 80,
+        "YEAR" : 1450,
+        "PLACE" : "Armagh",
+        "LONG" : -6.6546000000000003,
+        "LAT" : 54.349899999999998,
+        "LTLONG" : "54.3499, -6.6546",
+        "MOUSEOVER" : "Armagh, Est.5C"
+      },
+      "geometry" : {
+        "x" : -6.6546000000000003,
+        "y" : 54.349899999999998
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 81,
+        "YEAR" : 1450,
+        "PLACE" : "Bremen",
+        "LONG" : 8.8000000000000007,
+        "LAT" : 53.083300000000001,
+        "LTLONG" : "53.0833, 8.8",
+        "MOUSEOVER" : "Bremen, Est.804-5"
+      },
+      "geometry" : {
+        "x" : 8.8000000000000007,
+        "y" : 53.083300000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 82,
+        "YEAR" : 1450,
+        "PLACE" : "Osnabrück",
+        "LONG" : 8.0500000000000007,
+        "LAT" : 52.283299999999997,
+        "LTLONG" : "52.2833, 8.05",
+        "MOUSEOVER" : "Osnabrück, Est.772"
+      },
+      "geometry" : {
+        "x" : 8.0500000000000007,
+        "y" : 52.283299999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 83,
+        "YEAR" : 1450,
+        "PLACE" : "Minden",
+        "LONG" : 8.9167000000000005,
+        "LAT" : 52.283299999999997,
+        "LTLONG" : "52.2833, 8.9167",
+        "MOUSEOVER" : "Minden, Est.803"
+      },
+      "geometry" : {
+        "x" : 8.9167000000000005,
+        "y" : 52.283299999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 84,
+        "YEAR" : 1450,
+        "PLACE" : "Merseburg",
+        "LONG" : 12,
+        "LAT" : 51.366700000000002,
+        "LTLONG" : "51.3667, 12",
+        "MOUSEOVER" : "Merseburg, Est.967"
+      },
+      "geometry" : {
+        "x" : 12,
+        "y" : 51.366700000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 85,
+        "YEAR" : 1450,
+        "PLACE" : "Meissen",
+        "LONG" : 13.4833,
+        "LAT" : 51.166699999999999,
+        "LTLONG" : "51.1667, 13.4833",
+        "MOUSEOVER" : "Meissen, Est.968"
+      },
+      "geometry" : {
+        "x" : 13.4833,
+        "y" : 51.166699999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 86,
+        "YEAR" : 1450,
+        "PLACE" : "Worms",
+        "LONG" : 8.3652999999999995,
+        "LAT" : 49.631900000000002,
+        "LTLONG" : "49.6319, 8.3653",
+        "MOUSEOVER" : "Worms, Est.614"
+      },
+      "geometry" : {
+        "x" : 8.3652999999999995,
+        "y" : 49.631900000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 87,
+        "YEAR" : 1450,
+        "PLACE" : "Speyer",
+        "LONG" : 8.4311000000000007,
+        "LAT" : 49.319400000000002,
+        "LTLONG" : "49.3194, 8.4311",
+        "MOUSEOVER" : "Speyer, Est.4C"
+      },
+      "geometry" : {
+        "x" : 8.4311000000000007,
+        "y" : 49.319400000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 88,
+        "YEAR" : 1450,
+        "PLACE" : "Passau",
+        "LONG" : 13.466699999999999,
+        "LAT" : 48.566699999999997,
+        "LTLONG" : "48.5667, 13.4667",
+        "MOUSEOVER" : "Passau, Est.737"
+      },
+      "geometry" : {
+        "x" : 13.466699999999999,
+        "y" : 48.566699999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 89,
+        "YEAR" : 1450,
+        "PLACE" : "Würzburg",
+        "LONG" : 9.9332999999999991,
+        "LAT" : 49.783299999999997,
+        "LTLONG" : "49.7833, 9.9333",
+        "MOUSEOVER" : "Würzburg, Est.743"
+      },
+      "geometry" : {
+        "x" : 9.9332999999999991,
+        "y" : 49.783299999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 90,
+        "YEAR" : 1450,
+        "PLACE" : "Bamberg",
+        "LONG" : 10.9,
+        "LAT" : 49.899999999999999,
+        "LTLONG" : "49.9, 10.9",
+        "MOUSEOVER" : "Bamberg, Est.1007"
+      },
+      "geometry" : {
+        "x" : 10.9,
+        "y" : 49.899999999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 91,
+        "YEAR" : 1450,
+        "PLACE" : "Kraków",
+        "LONG" : 19.937200000000001,
+        "LAT" : 50.061399999999999,
+        "LTLONG" : "50.0614, 19.9372",
+        "MOUSEOVER" : "Kraków, Est.1000"
+      },
+      "geometry" : {
+        "x" : 19.937200000000001,
+        "y" : 50.061399999999999
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 92,
+        "YEAR" : 1450,
+        "PLACE" : "Poznan",
+        "LONG" : 16.916699999999999,
+        "LAT" : 52.240000000000002,
+        "LTLONG" : "52.24, 16.9167",
+        "MOUSEOVER" : "Poznan, Est.968"
+      },
+      "geometry" : {
+        "x" : 16.916699999999999,
+        "y" : 52.240000000000002
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 93,
+        "YEAR" : 1450,
+        "PLACE" : "Salzburg",
+        "LONG" : 13.033300000000001,
+        "LAT" : 47.799999999999997,
+        "LTLONG" : "47.8, 13.0333",
+        "MOUSEOVER" : "Salzburg, Est.798"
+      },
+      "geometry" : {
+        "x" : 13.033300000000001,
+        "y" : 47.799999999999997
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 94,
+        "YEAR" : 1450,
+        "PLACE" : "Eger",
+        "LONG" : 20.374700000000001,
+        "LAT" : 47.899000000000001,
+        "LTLONG" : "47.899, 20.3747",
+        "MOUSEOVER" : "Eger, Est.1000"
+      },
+      "geometry" : {
+        "x" : 20.374700000000001,
+        "y" : 47.899000000000001
+      }
+    },
+    {
+      "attributes" : {
+        "FID" : 95,
+        "YEAR" : 1450,
+        "PLACE" : "Gyor",
+        "LONG" : 17.634399999999999,
+        "LAT" : 47.684199999999997,
+        "LTLONG" : "47.6842, 17.6344",
+        "MOUSEOVER" : "Gyor,Est.1009"
+      },
+      "geometry" : {
+        "x" : 17.634399999999999,
+        "y" : 47.684199999999997
+      }
+    }
+  ]
+}

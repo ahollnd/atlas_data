@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+<seg>
+	<point segment="0" xCoord="5.483888" yCoord="60.347996"/>
+	<point segment="0" xCoord="4.828483" yCoord="59.607774"/>
+	<point segment="0" xCoord="4.589453" yCoord="59.307059"/>
+	<point segment="0" xCoord="4.484568" yCoord="59.099926"/>
+	<point segment="0" xCoord="4.413525" yCoord="58.91263"/>
+</seg>
+<seg>
+	<point segment="1" xCoord="4.413525" yCoord="58.91263"/>
+	<point segment="1" xCoord="4.325139" yCoord="58.628775"/>
+	<point segment="1" xCoord="4.263903" yCoord="58.353213"/>
+	<point segment="1" xCoord="4.182255" yCoord="57.985797"/>
+	<point segment="1" xCoord="4.106079" yCoord="57.656329"/>
+	<point segment="1" xCoord="3.998547" yCoord="57.250964"/>
+	<point segment="1" xCoord="3.917375" yCoord="57.011165"/>
+	<point segment="1" xCoord="3.763809" yCoord="56.64881"/>
+	<point segment="1" xCoord="3.631769" yCoord="56.376202"/>
+	<point segment="1" xCoord="3.467835" yCoord="56.107891"/>
+	<point segment="1" xCoord="3.333413" yCoord="55.927393"/>
+	<point segment="1" xCoord="3.161654" yCoord="55.720063"/>
+	<point segment="1" xCoord="2.991705" yCoord="55.567835"/>
+	<point segment="1" xCoord="2.855474" yCoord="55.444501"/>
+	<point segment="1" xCoord="2.735805" yCoord="55.304058"/>
+	<point segment="1" xCoord="2.557123" yCoord="55.142668"/>
+	<point segment="1" xCoord="2.392952" yCoord="54.98653"/>
+	<point segment="1" xCoord="2.199759" yCoord="54.814123"/>
+	<point segment="1" xCoord="2.012702" yCoord="54.64723"/>
+	<point segment="1" xCoord="1.851827" yCoord="54.51853"/>
+	<point segment="1" xCoord="1.62913" yCoord="54.341481"/>
+	<point segment="1" xCoord="1.38128" yCoord="54.157035"/>
+	<point segment="1" xCoord="1.097177" yCoord="53.977405"/>
+	<point segment="1" xCoord="0.781831" yCoord="53.805435"/>
+	<point segment="1" xCoord="0.573602" yCoord="53.702455"/>
+	<point segment="1" xCoord="0.333569" yCoord="53.597292"/>
+	<point segment="1" xCoord="0.243488" yCoord="53.566442"/>
+	<point segment="1" xCoord="0.197831" yCoord="53.55657"/>
+	<point segment="1" xCoord="0.164513" yCoord="53.552868"/>
+	<point segment="1" xCoord="0.12009" yCoord="53.55657"/>
+	<point segment="1" xCoord="0.063326" yCoord="53.566442"/>
+	<point segment="1" xCoord="-0.06254" yCoord="53.602228"/>
+	<point segment="1" xCoord="-0.161259" yCoord="53.650353"/>
+	<point segment="1" xCoord="-0.237766" yCoord="53.705883"/>
+	<point segment="1" xCoord="-0.3288" yCoord="53.76051"/>
+</seg>
+<seg>	
+	<point segment="2" xCoord="4.413525" yCoord="58.91263"/>
+	<point segment="2" xCoord="4.413733" yCoord="58.715116"/>
+	<point segment="2" xCoord="4.421862" yCoord="58.620643"/>
+	<point segment="2" xCoord="4.453723" yCoord="58.501832"/>
+	<point segment="2" xCoord="4.501324" yCoord="58.392188"/>
+	<point segment="2" xCoord="4.580361" yCoord="58.288548"/>
+	<point segment="2" xCoord="4.665216" yCoord="58.193531"/>
+	<point segment="2" xCoord="4.76032" yCoord="58.128584"/>
+	<point segment="2" xCoord="4.878773" yCoord="58.039572"/>
+	<point segment="2" xCoord="5.032732" yCoord="57.950176"/>
+	<point segment="2" xCoord="5.186691" yCoord="57.870713"/>
+	<point segment="2" xCoord="5.355549" yCoord="57.801183"/>
+	<point segment="2" xCoord="5.580131" yCoord="57.722011"/>
+	<point segment="2" xCoord="5.802527" yCoord="57.657157"/>
+	<point segment="2" xCoord="6.02003" yCoord="57.608704"/>
+	<point segment="2" xCoord="6.269371" yCoord="57.572728"/>
+	<point segment="2" xCoord="6.539911" yCoord="57.548717"/>
+	<point segment="2" xCoord="7.179764" yCoord="57.535387"/>
+	<point segment="2" xCoord="7.352677" yCoord="57.539928"/>
+	<point segment="2" xCoord="7.532568" yCoord="57.548849"/>
+	<point segment="2" xCoord="7.712975" yCoord="57.562048"/>
+	<point segment="2" xCoord="7.864103" yCoord="57.580069"/>
+	<point segment="2" xCoord="8.035074" yCoord="57.61129"/>
+	<point segment="2" xCoord="8.210505" yCoord="57.651431"/>
+	<point segment="2" xCoord="8.366609" yCoord="57.693059"/>
+	<point segment="2" xCoord="8.48859" yCoord="57.733636"/>
+	<point segment="2" xCoord="8.557802" yCoord="57.760841"/>
+	</seg>
+<seg>
+	<point segment="3" xCoord="8.557802" yCoord="57.760841"/>
+	<point segment="3" xCoord="8.828161" yCoord="57.869823"/>
+	<point segment="3" xCoord="9.194101" yCoord="58.013982"/>
+	<point segment="3" xCoord="9.52123" yCoord="58.135962"/>
+	<point segment="3" xCoord="9.798458" yCoord="58.21913"/>
+	<point segment="3" xCoord="10.059052" yCoord="58.269031"/>
+	<point segment="3" xCoord="10.230933" yCoord="58.269031"/>
+	<point segment="3" xCoord="10.424993" yCoord="58.263487"/>
+	<point segment="3" xCoord="10.630141" yCoord="58.235764"/>
+	<point segment="3" xCoord="10.802022" yCoord="58.135962"/>
+	<point segment="3" xCoord="10.996082" yCoord="57.958536"/>
+	<point segment="3" xCoord="11.167963" yCoord="57.72012"/>
+	<point segment="3" xCoord="11.267765" yCoord="57.498338"/>
+	<point segment="3" xCoord="11.30481" yCoord="57.310024"/>
+	<point segment="3" xCoord="11.317684" yCoord="57.146955"/>
+	<point segment="3" xCoord="11.317666" yCoord="57.015962"/>
+	<point segment="3" xCoord="11.311247" yCoord="56.85944"/>
+	<point segment="3" xCoord="11.298373" yCoord="56.700662"/>
+	<point segment="3" xCoord="11.285499" yCoord="56.597672"/>
+	<point segment="3" xCoord="11.272979" yCoord="56.522159"/>
+	<point segment="3" xCoord="11.267111" yCoord="56.487116"/>
+	<point segment="3" xCoord="11.260623" yCoord="56.460353"/>
+	<point segment="3" xCoord="11.253324" yCoord="56.438455"/>
+	<point segment="3" xCoord="11.237915" yCoord="56.397904"/>
+	<point segment="3" xCoord="11.224434" yCoord="56.36601"/>
+	<point segment="3" xCoord="11.182766" yCoord="56.293283"/>
+	<point segment="3" xCoord="11.124373" yCoord="56.208938"/>
+	<point segment="3" xCoord="11.040438" yCoord="56.106654"/>
+	<point segment="3" xCoord="10.907369" yCoord="55.934773"/>
+	<point segment="3" xCoord="10.886119" yCoord="55.903191"/>
+	<point segment="3" xCoord="10.863975" yCoord="55.868021"/>
+	<point segment="3" xCoord="10.832061" yCoord="55.815917"/>
+	<point segment="3" xCoord="10.811871" yCoord="55.780096"/>
+	<point segment="3" xCoord="10.800147" yCoord="55.751438"/>
+	<point segment="3" xCoord="10.788424" yCoord="55.721479"/>
+	<point segment="3" xCoord="10.779306" yCoord="55.683703"/>
+	<point segment="3" xCoord="10.774095" yCoord="55.653743"/>
+	<point segment="3" xCoord="10.772793" yCoord="55.619876"/>
+	<point segment="3" xCoord="10.773908" yCoord="55.593358"/>
+	<point segment="3" xCoord="10.777352" yCoord="55.565818"/>
+	<point segment="3" xCoord="10.785878" yCoord="55.521539"/>
+	<point segment="3" xCoord="10.792332" yCoord="55.49678"/>
+	<point segment="3" xCoord="10.804055" yCoord="55.472682"/>
+	<point segment="3" xCoord="10.818384" yCoord="55.447933"/>
+	<point segment="3" xCoord="10.834666" yCoord="55.427742"/>
+	<point segment="3" xCoord="10.854205" yCoord="55.402342"/>
+	<point segment="3" xCoord="10.875698" yCoord="55.374987"/>
+	<point segment="3" xCoord="10.892877" yCoord="55.354151"/>
+	<point segment="3" xCoord="10.910874" yCoord="55.330843"/>
+	<point segment="3" xCoord="10.923855" yCoord="55.309011"/>
+	<point segment="3" xCoord="10.939525" yCoord="55.279897"/>
+	<point segment="3" xCoord="10.961192" yCoord="55.237405"/>
+	<point segment="3" xCoord="10.984763" yCoord="55.192014"/>
+	<point segment="3" xCoord="10.999974" yCoord="55.165789"/>
+	<point segment="3" xCoord="11.008366" yCoord="55.146382"/>
+	<point segment="3" xCoord="11.013611" yCoord="55.126975"/>
+	<point segment="3" xCoord="11.016233" yCoord="55.110191"/>
+	<point segment="3" xCoord="11.018856" yCoord="55.08554"/>
+	<point segment="3" xCoord="11.020429" yCoord="55.064559"/>
+	<point segment="3" xCoord="11.020429" yCoord="55.036236"/>
+	<point segment="3" xCoord="11.018881" yCoord="55.01667"/>
+	<point segment="3" xCoord="11.01727" yCoord="55.005123"/>
+	<point segment="3" xCoord="11.012772" yCoord="54.990604"/>
+	<point segment="3" xCoord="11.006268" yCoord="54.976967"/>
+	<point segment="3" xCoord="10.997351" yCoord="54.962281"/>
+	<point segment="3" xCoord="10.980567" yCoord="54.938154"/>
+	<point segment="3" xCoord="10.940636" yCoord="54.886852"/>
+	<point segment="3" xCoord="10.864455" yCoord="54.793239"/>
+	<point segment="3" xCoord="10.82792" yCoord="54.74209"/>
+	<point segment="3" xCoord="10.803076" yCoord="54.699709"/>
+	<point segment="3" xCoord="10.792929" yCoord="54.675226"/>
+	<point segment="3" xCoord="10.787661" yCoord="54.654741"/>
+	<point segment="3" xCoord="10.785544" yCoord="54.631131"/>
+	<point segment="3" xCoord="10.783475" yCoord="54.603193"/>
+	<point segment="3" xCoord="10.78532" yCoord="54.575729"/>
+	<point segment="3" xCoord="10.790588" yCoord="54.547636"/>
+	<point segment="3" xCoord="10.800537" yCoord="54.528907"/>
+	<point segment="3" xCoord="10.813999" yCoord="54.51369"/>
+	<point segment="3" xCoord="10.828045" yCoord="54.501399"/>
+	<point segment="3" xCoord="10.845456" yCoord="54.486344"/>
+	<point segment="3" xCoord="10.861991" yCoord="54.473306"/>
+	<point segment="3" xCoord="10.880135" yCoord="54.462186"/>
+	<point segment="3" xCoord="10.906472" yCoord="54.447554"/>
+	<point segment="3" xCoord="10.937525" yCoord="54.433734"/>
+	<point segment="3" xCoord="10.973779" yCoord="54.41946"/>
+	<point segment="3" xCoord="11.01826" yCoord="54.404476"/>
+	<point segment="3" xCoord="11.070513" yCoord="54.38843"/>
+	<point segment="3" xCoord="11.129151" yCoord="54.365664"/>
+	<point segment="3" xCoord="11.166966" yCoord="54.344588"/>
+	<point segment="3" xCoord="11.204962" yCoord="54.312437"/>
+	<point segment="3" xCoord="11.24442" yCoord="54.27444"/>
+	<point segment="3" xCoord="11.27331" yCoord="54.238139"/>
+	<point segment="3" xCoord="11.299953" yCoord="54.195525"/>
+	<point segment="3" xCoord="11.313106" yCoord="54.169219"/>
+	<point segment="3" xCoord="11.328755" yCoord="54.132793"/>
+</seg>
+<seg>	
+	<point segment="4" xCoord="11.328755" yCoord="54.132793"/>
+	<point segment="4" xCoord="11.236353" yCoord="54.097477"/>
+	<point segment="4" xCoord="11.15985" yCoord="54.065919"/>
+	<point segment="4" xCoord="11.04127" yCoord="54.020974"/>
+	<point segment="4" xCoord="10.915811" yCoord="53.970358"/>
+	<point segment="4" xCoord="10.904752" yCoord="53.962226"/>
+	<point segment="4" xCoord="10.898897" yCoord="53.954745"/>
+	<point segment="4" xCoord="10.893693" yCoord="53.945638"/>
+	<point segment="4" xCoord="10.888489" yCoord="53.936531"/>
+	<point segment="4" xCoord="10.883935" yCoord="53.930676"/>
+	<point segment="4" xCoord="10.877755" yCoord="53.925797"/>
+	<point segment="4" xCoord="10.868973" yCoord="53.918641"/>
+	<point segment="4" xCoord="10.859215" yCoord="53.912461"/>
+	<point segment="4" xCoord="10.84045" yCoord="53.902394"/>
+	<point segment="4" xCoord="10.798374" yCoord="53.876575"/>
+	</seg>
+<seg>
+	<point segment="5" xCoord="11.328755" yCoord="54.132793"/>
+	<point segment="5" xCoord="11.602549" yCoord="54.244297"/>
+	<point segment="5" xCoord="11.874919" yCoord="54.346976"/>
+	<point segment="5" xCoord="12.229959" yCoord="54.469404"/>
+	<point segment="5" xCoord="12.536028" yCoord="54.567346"/>
+	<point segment="5" xCoord="12.743406" yCoord="54.627601"/>
+	<point segment="5" xCoord="12.94864" yCoord="54.669855"/>
+	<point segment="5" xCoord="13.135923" yCoord="54.689773"/>
+	<point segment="5" xCoord="13.34405" yCoord="54.702016"/>
+	<point segment="5" xCoord="13.613391" yCoord="54.702016"/>
+	<point segment="5" xCoord="13.846003" yCoord="54.702016"/>
+	</seg>
+<seg>
+	<point segment="6" xCoord="13.846003" yCoord="54.702016"/>
+	<point segment="6" xCoord="13.903109" yCoord="54.686594"/>
+	<point segment="6" xCoord="13.971916" yCoord="54.652191"/>
+	<point segment="6" xCoord="14.030402" yCoord="54.614347"/>
+	<point segment="6" xCoord="14.071686" yCoord="54.574783"/>
+	<point segment="6" xCoord="14.10781" yCoord="54.535219"/>
+	<point segment="6" xCoord="14.137053" yCoord="54.480174"/>
+	<point segment="6" xCoord="14.157695" yCoord="54.392445"/>
+	<point segment="6" xCoord="14.166295" yCoord="54.320198"/>
+	<point segment="6" xCoord="14.164315" yCoord="54.261277"/>
+</seg>
+<seg>	
+	<point segment="7" xCoord="14.164315" yCoord="54.261277"/>
+	<point segment="7" xCoord="14.071686" yCoord="54.253111"/>
+	<point segment="7" xCoord="13.962032" yCoord="54.234211"/>
+	<point segment="7" xCoord="13.854401" yCoord="54.20983"/>
+	<point segment="7" xCoord="13.795468" yCoord="54.191936"/>
+	<point segment="7" xCoord="13.74558" yCoord="54.174151"/>
+	<point segment="7" xCoord="13.705289" yCoord="54.156781"/>
+	</seg>
+<seg>
+	<point segment="8" xCoord="14.164315" yCoord="54.261277"/>
+	<point segment="8" xCoord="14.370725" yCoord="54.250436"/>
+	<point segment="8" xCoord="14.738472" yCoord="54.240497"/>
+	<point segment="8" xCoord="15.044797" yCoord="54.274234"/>
+	<point segment="8" xCoord="15.274852" yCoord="54.348846"/>
+	<point segment="8" xCoord="15.536336" yCoord="54.4601"/>
+	<point segment="8" xCoord="15.840662" yCoord="54.616207"/>
+	<point segment="8" xCoord="16.014757" yCoord="54.71569"/>
+	<point segment="8" xCoord="16.203882" yCoord="54.823743"/>
+	<point segment="8" xCoord="16.418907" yCoord="54.914656"/>
+	<point segment="8" xCoord="16.875378" yCoord="55.065442"/>
+	<point segment="8" xCoord="17.14016" yCoord="55.144711"/>
+	<point segment="8" xCoord="17.323193" yCoord="55.187431"/>
+	<point segment="8" xCoord="17.503494" yCoord="55.222415"/>
+	<point segment="8" xCoord="17.732235" yCoord="55.254707"/>
+	<point segment="8" xCoord="17.899081" yCoord="55.268163"/>
+	<point segment="8" xCoord="18.02929" yCoord="55.275282"/>
+	<point segment="8" xCoord="18.168188" yCoord="55.276236"/>
+	<point segment="8" xCoord="18.296651" yCoord="55.262847"/>
+	<point segment="8" xCoord="18.45075" yCoord="55.243943"/>
+	<point segment="8" xCoord="18.601318" yCoord="55.213105"/>
+	<point segment="8" xCoord="18.725239" yCoord="55.187431"/>
+	<point segment="8" xCoord="18.83759" yCoord="55.144711"/>
+	<point segment="8" xCoord="18.916456" yCoord="55.107323"/>
+	<point segment="8" xCoord="18.950902" yCoord="55.081144"/>
+	<point segment="8" xCoord="18.978458" yCoord="55.050832"/>
+	<point segment="8" xCoord="19.000503" yCoord="55.017764"/>
+	<point segment="8" xCoord="19.019793" yCoord="54.977807"/>
+	<point segment="8" xCoord="19.030339" yCoord="54.939527"/>
+	<point segment="8" xCoord="19.044594" yCoord="54.895138"/>
+	<point segment="8" xCoord="19.050859" yCoord="54.85912"/>
+	<point segment="8" xCoord="19.056994" yCoord="54.827624"/>
+	<point segment="8" xCoord="19.061427" yCoord="54.765431"/>
+	<point segment="8" xCoord="19.05975" yCoord="54.727043"/>
+	<point segment="8" xCoord="19.05355" yCoord="54.676128"/>
+	<point segment="8" xCoord="19.037705" yCoord="54.634728"/>
+	<point segment="8" xCoord="19.013184" yCoord="54.595396"/>
+	<point segment="8" xCoord="18.983969" yCoord="54.568593"/>
+	<point segment="8" xCoord="18.947663" yCoord="54.54069"/>
+	<point segment="8" xCoord="18.893685" yCoord="54.505541"/>
+	<point segment="8" xCoord="18.808324" yCoord="54.45784"/>
+	<point segment="8" xCoord="18.705389" yCoord="54.403861"/>
+	<point segment="8" xCoord="18.623794" yCoord="54.366202"/>
+	</seg>
+<seg>
+	<point segment="9" xCoord="13.846003" yCoord="54.702016"/>
+	<point segment="9" xCoord="14.24531" yCoord="54.703801"/>
+	<point segment="9" xCoord="14.446839" yCoord="54.703801"/>
+	<point segment="9" xCoord="14.558324" yCoord="54.708089"/>
+	<point segment="9" xCoord="14.74389" yCoord="54.714986"/>
+	<point segment="9" xCoord="14.905641" yCoord="54.729528"/>
+	<point segment="9" xCoord="15.04714" yCoord="54.750967"/>
+	<point segment="9" xCoord="15.15754" yCoord="54.778219"/>
+	<point segment="9" xCoord="15.252958" yCoord="54.810998"/>
+	<point segment="9" xCoord="15.424472" yCoord="54.883891"/>
+	<point segment="9" xCoord="15.63029" yCoord="54.982512"/>
+	<point segment="9" xCoord="15.883274" yCoord="55.119724"/>
+	<point segment="9" xCoord="16.153409" yCoord="55.282663"/>
+	<point segment="9" xCoord="16.361603" yCoord="55.418454"/>
+	<point segment="9" xCoord="16.539317" yCoord="55.539935"/>
+	</seg>
+<seg>
+	<point segment="10" xCoord="16.539317" yCoord="55.539935"/>
+	<point segment="10" xCoord="16.605637" yCoord="55.59531"/>
+	<point segment="10" xCoord="16.655179" yCoord="55.639769"/>
+	<point segment="10" xCoord="16.781524" yCoord="55.75709"/>
+	<point segment="10" xCoord="16.871771" yCoord="55.856361"/>
+	<point segment="10" xCoord="16.96653" yCoord="55.991731"/>
+	<point segment="10" xCoord="17.047751" yCoord="56.136125"/>
+	<point segment="10" xCoord="17.077686" yCoord="56.210434"/>
+	<point segment="10" xCoord="17.110225" yCoord="56.306081"/>
+	<point segment="10" xCoord="17.138821" yCoord="56.429339"/>
+	<point segment="10" xCoord="17.15657" yCoord="56.526959"/>
+	<point segment="10" xCoord="17.20117" yCoord="56.749801"/>
+	<point segment="10" xCoord="17.232757" yCoord="56.88517"/>
+	<point segment="10" xCoord="17.282392" yCoord="57.047614"/>
+	<point segment="10" xCoord="17.345565" yCoord="57.205545"/>
+	<point segment="10" xCoord="17.402099" yCoord="57.312848"/>
+	<point segment="10" xCoord="17.45436" yCoord="57.398635"/>
+	<point segment="10" xCoord="17.542119" yCoord="57.512032"/>
+	<point segment="10" xCoord="17.620018" yCoord="57.602749"/>
+	<point segment="10" xCoord="17.702038" yCoord="57.697388"/>
+	<point segment="10" xCoord="17.777836" yCoord="57.777648"/>
+	<point segment="10" xCoord="17.855457" yCoord="57.846295"/>
+	<point segment="10" xCoord="17.921095" yCoord="57.897252"/>
+	<point segment="10" xCoord="18.014705" yCoord="57.963515"/>
+	<point segment="10" xCoord="18.069878" yCoord="57.995971"/>
+	<point segment="10" xCoord="18.126585" yCoord="58.024325"/>
+	<point segment="10" xCoord="18.17904" yCoord="58.04559"/>
+	<point segment="10" xCoord="18.219805" yCoord="58.060281"/>
+	<point segment="10" xCoord="18.276602" yCoord="58.072902"/>
+	<point segment="10" xCoord="18.308777" yCoord="58.07792"/>
+	<point segment="10" xCoord="18.346413" yCoord="58.081342"/>
+	<point segment="10" xCoord="18.391692" yCoord="58.08245"/>
+	<point segment="10" xCoord="18.438448" yCoord="58.082577"/>
+	<point segment="10" xCoord="18.488927" yCoord="58.079003"/>
+	<point segment="10" xCoord="18.541439" yCoord="58.071648"/>
+	<point segment="10" xCoord="18.604503" yCoord="58.058374"/>
+	</seg>
+<seg>
+	<point segment="11" xCoord="18.604503" yCoord="58.058374"/>
+	<point segment="11" xCoord="18.690013" yCoord="57.875397"/>
+	</seg>
+<seg>
+	<point segment="12" xCoord="17.987885" yCoord="59.33188"/>
+	<point segment="12" xCoord="18.046315" yCoord="59.33188"/>
+	<point segment="12" xCoord="18.114482" yCoord="59.329445"/>
+	<point segment="12" xCoord="18.153505" yCoord="59.336799"/>
+	<point segment="12" xCoord="18.189954" yCoord="59.348922"/>
+	<point segment="12" xCoord="18.248383" yCoord="59.370833"/>
+	<point segment="12" xCoord="18.277201" yCoord="59.379052"/>
+	<point segment="12" xCoord="18.304378" yCoord="59.383006"/>
+	<point segment="12" xCoord="18.339661" yCoord="59.387013"/>
+	<point segment="12" xCoord="18.370892" yCoord="59.398035"/>
+	<point segment="12" xCoord="18.399326" yCoord="59.419524"/>
+	<point segment="12" xCoord="18.426004" yCoord="59.442125"/>
+	<point segment="12" xCoord="18.457234" yCoord="59.458046"/>
+	<point segment="12" xCoord="18.4952" yCoord="59.465394"/>
+	<point segment="12" xCoord="18.533778" yCoord="59.468456"/>
+	<point segment="12" xCoord="18.565008" yCoord="59.467231"/>
+	<point segment="12" xCoord="18.5993" yCoord="59.46172"/>
+	<point segment="12" xCoord="18.632368" yCoord="59.45131"/>
+	<point segment="12" xCoord="18.658087" yCoord="59.437838"/>
+	<point segment="12" xCoord="18.697277" yCoord="59.401097"/>
+	<point segment="12" xCoord="18.762076" yCoord="59.309969"/>
+	<point segment="12" xCoord="18.802603" yCoord="59.242497"/>
+	<point segment="12" xCoord="18.837507" yCoord="59.176974"/>
+	<point segment="12" xCoord="18.860776" yCoord="59.124924"/>
+	<point segment="12" xCoord="18.880372" yCoord="59.06675"/>
+	<point segment="12" xCoord="18.899355" yCoord="59.004902"/>
+	<point segment="12" xCoord="18.909765" yCoord="58.962037"/>
+	<point segment="12" xCoord="18.917113" yCoord="58.909987"/>
+	<point segment="12" xCoord="18.917113" yCoord="58.862223"/>
+	<point segment="12" xCoord="18.915276" yCoord="58.816297"/>
+	<point segment="12" xCoord="18.908354" yCoord="58.755398"/>
+	<point segment="12" xCoord="18.897009" yCoord="58.670017"/>
+	<point segment="12" xCoord="18.884127" yCoord="58.61706"/>
+	<point segment="12" xCoord="18.872677" yCoord="58.574121"/>
+	<point segment="12" xCoord="18.85407" yCoord="58.515438"/>
+	<point segment="12" xCoord="18.834032" yCoord="58.472499"/>
+	<point segment="12" xCoord="18.806838" yCoord="58.422404"/>
+	<point segment="12" xCoord="18.761371" yCoord="58.359479"/>
+	<point segment="12" xCoord="18.73361" yCoord="58.326004"/>
+	<point segment="12" xCoord="18.705932" yCoord="58.296451"/>
+	<point segment="12" xCoord="18.674801" yCoord="58.261026"/>
+	<point segment="12" xCoord="18.651185" yCoord="58.224528"/>
+	<point segment="12" xCoord="18.623275" yCoord="58.167634"/>
+	<point segment="12" xCoord="18.61254" yCoord="58.133283"/>
+	<point segment="12" xCoord="18.607173" yCoord="58.093565"/>
+	<point segment="12" xCoord="18.604503" yCoord="58.058374"/>
+	</seg>
+<seg>
+	<point segment="13" xCoord="16.539317" yCoord="55.539935"/>
+	<point segment="13" xCoord="16.765963" yCoord="55.612159"/>
+	<point segment="13" xCoord="16.980313" yCoord="55.676464"/>
+	<point segment="13" xCoord="17.223243" yCoord="55.740769"/>
+	<point segment="13" xCoord="17.487608" yCoord="55.812219"/>
+	<point segment="13" xCoord="17.859148" yCoord="55.912249"/>
+	<point segment="13" xCoord="18.309283" yCoord="56.033714"/>
+	<point segment="13" xCoord="18.802288" yCoord="56.169469"/>
+	<point segment="13" xCoord="19.316729" yCoord="56.319514"/>
+	<point segment="13" xCoord="19.573949" yCoord="56.398109"/>
+	<point segment="13" xCoord="19.759719" yCoord="56.483849"/>
+	<point segment="13" xCoord="19.953826" yCoord="56.606076"/>
+	<point segment="13" xCoord="20.095666" yCoord="56.7227"/>
+	<point segment="13" xCoord="20.209138" yCoord="56.817261"/>
+	<point segment="13" xCoord="20.324174" yCoord="56.919694"/>
+	<point segment="13" xCoord="20.49282" yCoord="57.059966"/>
+	<point segment="13" xCoord="20.625204" yCoord="57.179742"/>
+	<point segment="13" xCoord="20.751284" yCoord="57.293214"/>
+	<point segment="13" xCoord="20.874339" yCoord="57.405554"/>
+	<point segment="13" xCoord="21.024384" yCoord="57.512729"/>
+	<point segment="13" xCoord="21.189414" yCoord="57.602112"/>
+	<point segment="13" xCoord="21.350167" yCoord="57.658848"/>
+	<point segment="13" xCoord="21.504615" yCoord="57.699824"/>
+	<point segment="13" xCoord="21.675883" yCoord="57.734059"/>
+	<point segment="13" xCoord="21.865375" yCoord="57.761129"/>
+	<point segment="13" xCoord="22.058734" yCoord="57.780465"/>
+	<point segment="13" xCoord="22.260469" yCoord="57.819965"/>
+	<point segment="13" xCoord="22.524834" yCoord="57.88427"/>
+	<point segment="13" xCoord="22.732039" yCoord="57.91285"/>
+	<point segment="13" xCoord="22.896374" yCoord="57.91285"/>
+	<point segment="13" xCoord="23.082144" yCoord="57.877125"/>
+	<point segment="13" xCoord="23.260769" yCoord="57.76995"/>
+	<point segment="13" xCoord="23.375089" yCoord="57.669919"/>
+	<point segment="13" xCoord="23.510844" yCoord="57.534164"/>
+	<point segment="13" xCoord="23.753774" yCoord="57.241219"/>
+	<point segment="13" xCoord="24.049386" yCoord="56.880471"/>
+	</seg>
+<seg>
+	<point segment="14" xCoord="18.762076" yCoord="59.309969"/>
+	<point segment="14" xCoord="18.815874" yCoord="59.284282"/>
+	<point segment="14" xCoord="18.881834" yCoord="59.260119"/>
+	<point segment="14" xCoord="18.965507" yCoord="59.235381"/>
+	<point segment="14" xCoord="19.07739" yCoord="59.212493"/>
+	<point segment="14" xCoord="19.201738" yCoord="59.195828"/>
+	<point segment="14" xCoord="19.315831" yCoord="59.186855"/>
+	<point segment="14" xCoord="19.45428" yCoord="59.180445"/>
+	<point segment="14" xCoord="19.576065" yCoord="59.175317"/>
+	<point segment="14" xCoord="19.77641" yCoord="59.169824"/>
+	<point segment="14" xCoord="21.364906" yCoord="59.159234"/>
+	<point segment="14" xCoord="21.703785" yCoord="59.164529"/>
+	<point segment="14" xCoord="22.026779" yCoord="59.180414"/>
+	<point segment="14" xCoord="22.498032" yCoord="59.217479"/>
+	<point segment="14" xCoord="22.911041" yCoord="59.275724"/>
+	<point segment="14" xCoord="23.4829" yCoord="59.376328"/>
+	<point segment="14" xCoord="23.911793" yCoord="59.471638"/>
+	<point segment="14" xCoord="24.203018" yCoord="59.540473"/>
+	<point segment="14" xCoord="24.568372" yCoord="59.625193"/>
+	<point segment="14" xCoord="24.896661" yCoord="59.699322"/>
+	<point segment="14" xCoord="25.262015" yCoord="59.784042"/>
+	<point segment="14" xCoord="25.569968" yCoord="59.844041"/>
+	<point segment="14" xCoord="25.874682" yCoord="59.881258"/>
+	<point segment="14" xCoord="26.088032" yCoord="59.889942"/>
+	<point segment="14" xCoord="26.305127" yCoord="59.889942"/>
+	<point segment="14" xCoord="26.580466" yCoord="59.868762"/>
+	<point segment="14" xCoord="26.866395" yCoord="59.821107"/>
+	<point segment="14" xCoord="27.263519" yCoord="59.741682"/>
+	<point segment="14" xCoord="27.586513" yCoord="59.672848"/>
+	<point segment="14" xCoord="27.872442" yCoord="59.604013"/>
+	<point segment="14" xCoord="28.078947" yCoord="59.551063"/>
+	<point segment="14" xCoord="28.280156" yCoord="59.503408"/>
+	<point segment="14" xCoord="28.49725" yCoord="59.461048"/>
+	<point segment="14" xCoord="28.820244" yCoord="59.386918"/>
+	<point segment="14" xCoord="29.148534" yCoord="59.302199"/>
+	<point segment="14" xCoord="29.535067" yCoord="59.217479"/>
+	<point segment="14" xCoord="30.027501" yCoord="59.074514"/>
+	<point segment="14" xCoord="30.498755" yCoord="58.936845"/>
+	<point segment="14" xCoord="30.821749" yCoord="58.809765"/>
+	<point segment="14" xCoord="31.27819" yCoord="58.551509"/>
+	</seg>
+<seg>
+	<point segment="15" xCoord="8.557802" yCoord="57.760841"/>
+	<point segment="15" xCoord="8.140948" yCoord="57.40325"/>
+	<point segment="15" xCoord="7.867372" yCoord="57.138793"/>
+	<point segment="15" xCoord="7.44789" yCoord="56.746668"/>
+	<point segment="15" xCoord="7.028407" yCoord="56.336305"/>
+	<point segment="15" xCoord="6.353587" yCoord="55.725319"/>
+	<point segment="15" xCoord="5.751721" yCoord="55.15993"/>
+	<point segment="15" xCoord="5.140735" yCoord="54.567183"/>
+		</seg>
+<seg>
+	<point segment="16" xCoord="5.140735" yCoord="54.567183"/>
+	<point segment="16" xCoord="4.856933" yCoord="54.376064"/>
+	<point segment="16" xCoord="4.453458" yCoord="54.145507"/>
+	<point segment="16" xCoord="3.946232" yCoord="53.88613"/>
+	<point segment="16" xCoord="3.41595" yCoord="53.690156"/>
+	<point segment="16" xCoord="3.005252" yCoord="53.56498"/>
+	<point segment="16" xCoord="2.694227" yCoord="53.491855"/>
+	<point segment="16" xCoord="2.460227" yCoord="53.45383"/>
+	<point segment="16" xCoord="2.141402" yCoord="53.427505"/>
+	<point segment="16" xCoord="1.767464" yCoord="53.413487"/>
+	<point segment="16" xCoord="1.331177" yCoord="53.409955"/>
+	<point segment="16" xCoord="0.977252" yCoord="53.421655"/>
+	<point segment="16" xCoord="0.757877" yCoord="53.427505"/>
+	<point segment="16" xCoord="0.558977" yCoord="53.433355"/>
+	<point segment="16" xCoord="0.392252" yCoord="53.445055"/>
+	<point segment="16" xCoord="0.251852" yCoord="53.468455"/>
+	<point segment="16" xCoord="0.126077" yCoord="53.503555"/>
+	<point segment="16" xCoord="0.029552" yCoord="53.53573"/>
+	<point segment="16" xCoord="-0.064048" yCoord="53.573755"/>
+	<point segment="16" xCoord="-0.151926" yCoord="53.620989"/>
+	<point segment="16" xCoord="-0.244149" yCoord="53.690156"/>
+	<point segment="16" xCoord="-0.3288" yCoord="53.76051"/>
+	</seg>
+<seg>
+	<point segment="17" xCoord="5.140735" yCoord="54.567183"/>
+	<point segment="17" xCoord="4.202551" yCoord="53.64298"/>
+	</seg>
+<seg>
+	<point segment="18" xCoord="4.202551" yCoord="53.64298"/>
+	<point segment="18" xCoord="4.015351" yCoord="53.47138"/>
+	<point segment="18" xCoord="3.812551" yCoord="53.26858"/>
+	<point segment="18" xCoord="3.547352" yCoord="52.99948"/>
+	</seg>
+<seg>
+	<point segment="19" xCoord="3.547352" yCoord="52.99948"/>
+	<point segment="19" xCoord="2.227547" yCoord="51.5977"/>
+	</seg>
+<seg>
+	<point segment="20" xCoord="2.227547" yCoord="51.5977"/>
+	<point segment="20" xCoord="1.87436" yCoord="51.23715"/>
+	<point segment="20" xCoord="1.541997" yCoord="50.957965"/>
+	<point segment="20" xCoord="1.278976" yCoord="50.759037"/>
+	<point segment="20" xCoord="0.983627" yCoord="50.585718"/>
+	<point segment="20" xCoord="0.742209" yCoord="50.458797"/>
+	<point segment="20" xCoord="0.599994" yCoord="50.38769"/>
+	<point segment="20" xCoord="0.454689" yCoord="50.332041"/>
+	<point segment="20" xCoord="0.290833" yCoord="50.282575"/>
+	<point segment="20" xCoord="0.086787" yCoord="50.236201"/>
+	<point segment="20" xCoord="-0.166349" yCoord="50.180236"/>
+	<point segment="20" xCoord="-0.594063" yCoord="50.105156"/>
+	<point segment="20" xCoord="-1.03714" yCoord="50.060585"/>
+	<point segment="20" xCoord="-1.783554" yCoord="49.986366"/>
+	<point segment="20" xCoord="-2.626108" yCoord="49.904828"/>
+	<point segment="20" xCoord="-3.293375" yCoord="49.762229"/>
+	<point segment="20" xCoord="-3.903529" yCoord="49.578678"/>
+	<point segment="20" xCoord="-4.555829" yCoord="49.306886"/>
+	<point segment="20" xCoord="-4.886293" yCoord="49.071964"/>
+	<point segment="20" xCoord="-5.126591" yCoord="48.844841"/>
+	<point segment="20" xCoord="-5.271248" yCoord="48.647186"/>
+	<point segment="20" xCoord="-5.371204" yCoord="48.382795"/>
+	<point segment="20" xCoord="-5.390717" yCoord="48.12285"/>
+	<point segment="20" xCoord="-5.344025" yCoord="47.784853"/>
+	<point segment="20" xCoord="-5.218151" yCoord="47.611789"/>
+	<point segment="20" xCoord="-4.979213" yCoord="47.406037"/>
+	<point segment="20" xCoord="-4.667413" yCoord="47.186803"/>
+	<point segment="20" xCoord="-4.375232" yCoord="47.027719"/>
+	<point segment="20" xCoord="-3.767633" yCoord="46.752045"/>
+	<point segment="20" xCoord="-3.142512" yCoord="46.534611"/>
+	<point segment="20" xCoord="-2.749422" yCoord="46.409537"/>
+	<point segment="20" xCoord="-2.544571" yCoord="46.344357"/>
+	<point segment="20" xCoord="-2.433537" yCoord="46.293691"/>
+	<point segment="20" xCoord="-2.350898" yCoord="46.244534"/>
+	<point segment="20" xCoord="-2.282559" yCoord="46.187685"/>
+	<point segment="20" xCoord="-2.231429" yCoord="46.125065"/>
+	<point segment="20" xCoord="-2.171734" yCoord="46.019039"/>
+	<point segment="20" xCoord="-2.13158" yCoord="45.937125"/>
+	<point segment="20" xCoord="-2.086608" yCoord="45.8263"/>
+	<point segment="20" xCoord="-2.030392" yCoord="45.658724"/>
+	<point segment="20" xCoord="-1.996067" yCoord="45.494285"/>
+	<point segment="20" xCoord="-1.95758" yCoord="45.258256"/>
+	<point segment="20" xCoord="-1.931881" yCoord="45.029111"/>
+	<point segment="20" xCoord="-1.921173" yCoord="44.802107"/>
+	<point segment="20" xCoord="-1.91689" yCoord="44.566538"/>
+	<point segment="20" xCoord="-1.921173" yCoord="44.465885"/>
+	<point segment="20" xCoord="-1.936164" yCoord="44.399497"/>
+	<point segment="20" xCoord="-1.966146" yCoord="44.330968"/>
+	<point segment="20" xCoord="-2.004694" yCoord="44.273146"/>
+	<point segment="20" xCoord="-2.062515" yCoord="44.211041"/>
+	<point segment="20" xCoord="-2.148177" yCoord="44.136087"/>
+	<point segment="20" xCoord="-2.248829" yCoord="44.078266"/>
+	<point segment="20" xCoord="-2.364473" yCoord="44.026869"/>
+	<point segment="20" xCoord="-2.512239" yCoord="43.984038"/>
+	<point segment="20" xCoord="-2.674996" yCoord="43.958339"/>
+	<point segment="20" xCoord="-2.833616" yCoord="43.953811"/>
+	<point segment="20" xCoord="-4.016641" yCoord="43.972892"/>
+	<point segment="20" xCoord="-5.425562" yCoord="44.034128"/>
+	<point segment="20" xCoord="-6.89698" yCoord="44.161861"/>
+	<point segment="20" xCoord="-7.726774" yCoord="44.18999"/>
+	<point segment="20" xCoord="-8.050253" yCoord="44.168893"/>
+	<point segment="20" xCoord="-8.331539" yCoord="44.126701"/>
+	<point segment="20" xCoord="-8.563599" yCoord="44.042315"/>
+	<point segment="20" xCoord="-8.837853" yCoord="43.915736"/>
+	<point segment="20" xCoord="-9.041786" yCoord="43.803222"/>
+	<point segment="20" xCoord="-9.191983" yCoord="43.713851"/>
+	<point segment="20" xCoord="-9.38308" yCoord="43.57547"/>
+	<point segment="20" xCoord="-9.626894" yCoord="43.364604"/>
+	<point segment="20" xCoord="-9.785044" yCoord="43.213044"/>
+	<point segment="20" xCoord="-9.936604" yCoord="43.054894"/>
+	<point segment="20" xCoord="-10.055216" yCoord="42.903334"/>
+	<point segment="20" xCoord="-10.14088" yCoord="42.712237"/>
+	<point segment="20" xCoord="-10.193597" yCoord="42.501371"/>
+	<point segment="20" xCoord="-10.246313" yCoord="42.185071"/>
+	<point segment="20" xCoord="-10.285851" yCoord="41.881951"/>
+	<point segment="20" xCoord="-10.318798" yCoord="41.539294"/>
+	<point segment="20" xCoord="-10.344992" yCoord="40.528015"/>
+	<point segment="20" xCoord="-10.344992" yCoord="39.141878"/>
+	<point segment="20" xCoord="-10.29244" yCoord="38.639885"/>
+	<point segment="20" xCoord="-10.233134" yCoord="38.41584"/>
+	<point segment="20" xCoord="-10.127701" yCoord="38.165437"/>
+	<point segment="20" xCoord="-10.015678" yCoord="37.882085"/>
+	<point segment="20" xCoord="-9.864118" yCoord="37.578965"/>
+	<point segment="20" xCoord="-9.725738" yCoord="37.289025"/>
+	<point segment="20" xCoord="-9.580767" yCoord="37.071569"/>
+	<point segment="20" xCoord="-9.435797" yCoord="36.887061"/>
+	<point segment="20" xCoord="-9.330364" yCoord="36.768449"/>
+	<point segment="20" xCoord="-9.152445" yCoord="36.702553"/>
+	<point segment="20" xCoord="-8.954758" yCoord="36.669605"/>
+	<point segment="20" xCoord="-8.381466" yCoord="36.643247"/>
+	<point segment="20" xCoord="-7.623666" yCoord="36.60371"/>
+	<point segment="20" xCoord="-7.299948" yCoord="36.588691"/>
+	</seg>
+<seg>
+	<point segment="21" xCoord="-4.783133" yCoord="38.538414"/>
+	<point segment="21" xCoord="-4.879907" yCoord="38.328733"/>
+	<point segment="21" xCoord="-4.96194" yCoord="38.179583"/>
+	<point segment="21" xCoord="-5.047701" yCoord="38.022975"/>
+	<point segment="21" xCoord="-5.148378" yCoord="37.866366"/>
+	<point segment="21" xCoord="-5.230411" yCoord="37.739588"/>
+	<point segment="21" xCoord="-5.308715" yCoord="37.620268"/>
+	<point segment="21" xCoord="-5.368375" yCoord="37.541964"/>
+	<point segment="21" xCoord="-5.476509" yCoord="37.422643"/>
+	<point segment="21" xCoord="-5.584244" yCoord="37.318886"/>
+	<point segment="21" xCoord="-5.653017" yCoord="37.258578"/>
+	<point segment="21" xCoord="-5.709094" yCoord="37.215198"/>
+	<point segment="21" xCoord="-5.775751" yCoord="37.162295"/>
+	<point segment="21" xCoord="-5.853114" yCoord="37.105698"/>
+	<point segment="21" xCoord="-5.921761" yCoord="37.059665"/>
+	<point segment="21" xCoord="-6.038146" yCoord="36.986659"/>
+	<point segment="21" xCoord="-6.125314" yCoord="36.937904"/>
+	<point segment="21" xCoord="-6.360227" yCoord="36.814855"/>
+	<point segment="21" xCoord="-6.56158" yCoord="36.721635"/>
+	<point segment="21" xCoord="-6.684629" yCoord="36.669433"/>
+	<point segment="21" xCoord="-6.841237" yCoord="36.624687"/>
+	<point segment="21" xCoord="-6.975473" yCoord="36.606044"/>
+	<point segment="21" xCoord="-7.113437" yCoord="36.594857"/>
+	<point segment="21" xCoord="-7.299948" yCoord="36.588691"/>
+	</seg>
+<seg>
+	<point segment="22" xCoord="-3.702516" yCoord="40.426525"/>
+	<point segment="22" xCoord="-3.85689" yCoord="40.307776"/>
+	<point segment="22" xCoord="-4.070639" yCoord="40.094027"/>
+	<point segment="22" xCoord="-4.272512" yCoord="39.78528"/>
+	<point segment="22" xCoord="-4.474385" yCoord="39.345908"/>
+	<point segment="22" xCoord="-4.605009" yCoord="39.001536"/>
+	<point segment="22" xCoord="-4.700009" yCoord="38.728413"/>
+	<point segment="22" xCoord="-4.783133" yCoord="38.538414"/>
+	</seg>
+<seg>
+	<point segment="23" xCoord="-6.217135" yCoord="35.988234"/>
+	<point segment="23" xCoord="-6.324104" yCoord="36.080521"/>
+	<point segment="23" xCoord="-6.443658" yCoord="36.1791"/>
+	<point segment="23" xCoord="-6.552724" yCoord="36.262997"/>
+	<point segment="23" xCoord="-6.651303" yCoord="36.332212"/>
+	<point segment="23" xCoord="-6.74359" yCoord="36.382551"/>
+	<point segment="23" xCoord="-6.850559" yCoord="36.437084"/>
+	<point segment="23" xCoord="-6.96382" yCoord="36.485325"/>
+	<point segment="23" xCoord="-7.060302" yCoord="36.520981"/>
+	<point segment="23" xCoord="-7.175661" yCoord="36.552443"/>
+	<point segment="23" xCoord="-7.320922" yCoord="36.588691"/>
+	</seg>
+<seg>
+	<point segment="24" xCoord="-6.217135" yCoord="35.988234"/>
+	<point segment="24" xCoord="-6.114986" yCoord="35.874376"/>
+	<point segment="24" xCoord="-5.999707" yCoord="35.731057"/>
+	<point segment="24" xCoord="-5.906238" yCoord="35.609547"/>
+	<point segment="24" xCoord="-5.819" yCoord="35.469343"/>
+	<point segment="24" xCoord="-5.762919" yCoord="35.37899"/>
+	<point segment="24" xCoord="-5.722415" yCoord="35.294868"/>
+	<point segment="24" xCoord="-5.688144" yCoord="35.213861"/>
+	<point segment="24" xCoord="-5.644525" yCoord="35.092352"/>
+	<point segment="24" xCoord="-5.613368" yCoord="34.992651"/>
+	<point segment="24" xCoord="-5.591559" yCoord="34.896067"/>
+	</seg>
+<seg>
+	<point segment="25" xCoord="-5.591559" yCoord="34.896067"/>
+	<point segment="25" xCoord="-5.573635" yCoord="34.776532"/>
+	<point segment="25" xCoord="-5.579726" yCoord="34.691259"/>
+	<point segment="25" xCoord="-5.597182" yCoord="34.634699"/>
+	<point segment="25" xCoord="-5.634326" yCoord="34.550721"/>
+	<point segment="25" xCoord="-5.668842" yCoord="34.472686"/>
+	<point segment="25" xCoord="-5.704589" yCoord="34.398895"/>
+	<point segment="25" xCoord="-5.747226" yCoord="34.331895"/>
+	<point segment="25" xCoord="-5.783771" yCoord="34.264895"/>
+	<point segment="25" xCoord="-5.818559" yCoord="34.188832"/>
+	<point segment="25" xCoord="-5.850133" yCoord="34.116663"/>
+	<point segment="25" xCoord="-5.869044" yCoord="34.051713"/>
+	<point segment="25" xCoord="-5.87818" yCoord="33.969486"/>
+	<point segment="25" xCoord="-5.881226" yCoord="33.86594"/>
+	<point segment="25" xCoord="-5.890362" yCoord="33.722804"/>
+	<point segment="25" xCoord="-5.902544" yCoord="33.585758"/>
+	<point segment="25" xCoord="-5.908635" yCoord="33.451758"/>
+	<point segment="25" xCoord="-5.914726" yCoord="33.360394"/>
+	<point segment="25" xCoord="-5.917771" yCoord="33.247712"/>
+	<point segment="25" xCoord="-5.914726" yCoord="33.141121"/>
+	<point segment="25" xCoord="-5.893167" yCoord="33.030147"/>
+	<point segment="25" xCoord="-5.859908" yCoord="32.927939"/>
+	<point segment="25" xCoord="-5.826408" yCoord="32.83353"/>
+	<point segment="25" xCoord="-5.771589" yCoord="32.714757"/>
+	<point segment="25" xCoord="-5.71068" yCoord="32.605121"/>
+	<point segment="25" xCoord="-5.658907" yCoord="32.492439"/>
+	<point segment="25" xCoord="-5.588862" yCoord="32.343211"/>
+	<point segment="25" xCoord="-5.528638" yCoord="32.195157"/>
+	<point segment="25" xCoord="-5.445725" yCoord="32.014302"/>
+	<point segment="25" xCoord="-5.354362" yCoord="31.819393"/>
+	<point segment="25" xCoord="-5.272134" yCoord="31.664074"/>
+	<point segment="25" xCoord="-5.159452" yCoord="31.460029"/>
+	<point segment="25" xCoord="-5.002096" yCoord="31.201269"/>
+	<point segment="25" xCoord="-4.896164" yCoord="31.023678"/>
+	<point segment="25" xCoord="-4.790233" yCoord="30.839856"/>
+	<point segment="25" xCoord="-4.699588" yCoord="30.674301"/>
+	<point segment="25" xCoord="-4.621988" yCoord="30.51583"/>
+	<point segment="25" xCoord="-4.568634" yCoord="30.384982"/>
+	<point segment="25" xCoord="-4.532088" yCoord="30.269255"/>
+	<point segment="25" xCoord="-4.504679" yCoord="30.165709"/>
+	<point segment="25" xCoord="-4.47727" yCoord="30.046936"/>
+	<point segment="25" xCoord="-4.446815" yCoord="29.931209"/>
+	<point segment="25" xCoord="-4.425497" yCoord="29.8368"/>
+	<point segment="25" xCoord="-4.407224" yCoord="29.7028"/>
+	<point segment="25" xCoord="-4.400778" yCoord="29.571792"/>
+	<point segment="25" xCoord="-4.419472" yCoord="29.285154"/>
+	<point segment="25" xCoord="-4.449861" yCoord="28.959708"/>
+	<point segment="25" xCoord="-4.483361" yCoord="28.694753"/>
+	<point segment="25" xCoord="-4.538179" yCoord="28.353662"/>
+	<point segment="25" xCoord="-4.589952" yCoord="28.076525"/>
+	<point segment="25" xCoord="-4.647815" yCoord="27.759798"/>
+	<point segment="25" xCoord="-4.690452" yCoord="27.461343"/>
+	<point segment="25" xCoord="-4.760497" yCoord="27.071524"/>
+	</seg>
+<seg>
+	<point segment="26" xCoord="-6.217135" yCoord="35.988234"/>
+	<point segment="26" xCoord="-6.168264" yCoord="35.96756"/>
+	<point segment="26" xCoord="-6.122016" yCoord="35.951633"/>
+	<point segment="26" xCoord="-6.076436" yCoord="35.940238"/>
+	<point segment="26" xCoord="-6.017183" yCoord="35.932262"/>
+	<point segment="26" xCoord="-5.947674" yCoord="35.934541"/>
+	<point segment="26" xCoord="-5.869689" yCoord="35.940184"/>
+	<point segment="26" xCoord="-5.664776" yCoord="35.95726"/>
+	<point segment="26" xCoord="-5.505926" yCoord="35.969684"/>
+	<point segment="26" xCoord="-5.323255" yCoord="35.991412"/>
+	<point segment="26" xCoord="-5.14111" yCoord="35.991412"/>
+	<point segment="26" xCoord="-4.927429" yCoord="35.97888"/>
+	<point segment="26" xCoord="-4.645255" yCoord="35.963342"/>
+	<point segment="26" xCoord="-4.224694" yCoord="35.940184"/>
+	<point segment="26" xCoord="-3.64944" yCoord="35.936978"/>
+	<point segment="26" xCoord="-3.257049" yCoord="35.936978"/>
+	<point segment="26" xCoord="-2.830147" yCoord="35.945876"/>
+	<point segment="26" xCoord="-2.494318" yCoord="35.991412"/>
+	<point segment="26" xCoord="-2.198333" yCoord="36.059716"/>
+	<point segment="26" xCoord="-1.890963" yCoord="36.128021"/>
+	<point segment="26" xCoord="-1.560826" yCoord="36.219093"/>
+	<point segment="26" xCoord="-1.219164" yCoord="36.355991"/>
+	</seg>
+<seg>
+	<point segment="27" xCoord="-1.219164" yCoord="36.355991"/>
+	<point segment="27" xCoord="-0.653497" yCoord="36.565498"/>
+	<point segment="27" xCoord="-0.066879" yCoord="36.837856"/>
+	<point segment="27" xCoord="0.446708" yCoord="37.1707"/>
+	<point segment="27" xCoord="0.8759" yCoord="37.487326"/>
+	</seg>
+<seg>
+	<point segment="28" xCoord="2.635755" yCoord="39.561441"/>
+	<point segment="28" xCoord="2.543153" yCoord="39.380723"/>
+	<point segment="28" xCoord="2.391717" yCoord="39.148836"/>
+	<point segment="28" xCoord="2.192957" yCoord="38.850696"/>
+	<point segment="28" xCoord="2.008394" yCoord="38.59988"/>
+	<point segment="28" xCoord="1.767042" yCoord="38.311204"/>
+	<point segment="28" xCoord="1.449973" yCoord="37.956276"/>
+	<point segment="28" xCoord="1.128171" yCoord="37.672333"/>
+	<point segment="28" xCoord="0.8759" yCoord="37.487326"/>
+	</seg>
+<seg>
+	<point segment="29" xCoord="-1.219164" yCoord="36.355991"/>
+	<point segment="29" xCoord="-1.617746" yCoord="36.372778"/>
+	<point segment="29" xCoord="-1.913731" yCoord="36.418314"/>
+	<point segment="29" xCoord="-2.141412" yCoord="36.486618"/>
+	<point segment="29" xCoord="-2.380477" yCoord="36.571999"/>
+	<point segment="29" xCoord="-2.636619" yCoord="36.674455"/>
+	<point segment="29" xCoord="-2.887068" yCoord="36.788296"/>
+	<point segment="29" xCoord="-3.109057" yCoord="36.902136"/>
+	<point segment="29" xCoord="-3.274125" yCoord="36.987517"/>
+	<point segment="29" xCoord="-3.481834" yCoord="37.110215"/>
+	<point segment="29" xCoord="-3.632723" yCoord="37.215198"/>
+	<point segment="29" xCoord="-3.797792" yCoord="37.346114"/>
+	<point segment="29" xCoord="-3.923016" yCoord="37.437187"/>
+	<point segment="29" xCoord="-4.036857" yCoord="37.533951"/>
+	<point segment="29" xCoord="-4.173466" yCoord="37.67056"/>
+	<point segment="29" xCoord="-4.315766" yCoord="37.807168"/>
+	<point segment="29" xCoord="-4.446683" yCoord="37.943777"/>
+	<point segment="29" xCoord="-4.554831" yCoord="38.080386"/>
+	<point segment="29" xCoord="-4.657288" yCoord="38.216994"/>
+	<point segment="29" xCoord="-4.731284" yCoord="38.370679"/>
+	<point segment="29" xCoord="-4.783133" yCoord="38.538414"/>
+	</seg>
+<seg>
+	<point segment="30" xCoord="-1.219164" yCoord="36.355991"/>
+	<point segment="30" xCoord="-0.811077" yCoord="36.343861"/>
+	<point segment="30" xCoord="-0.44399" yCoord="36.376942"/>
+	<point segment="30" xCoord="-0.038206" yCoord="36.479453"/>
+	<point segment="30" xCoord="0.35501" yCoord="36.615044"/>
+	<point segment="30" xCoord="0.788902" yCoord="36.777754"/>
+	<point segment="30" xCoord="1.209236" yCoord="36.981141"/>
+	<point segment="30" xCoord="1.438604" yCoord="37.087359"/>
+	<point segment="30" xCoord="1.693371" yCoord="37.174608"/>
+	<point segment="30" xCoord="1.969078" yCoord="37.230447"/>
+	<point segment="30" xCoord="2.321495" yCoord="37.27782"/>
+	<point segment="30" xCoord="2.782097" yCoord="37.333679"/>
+	<point segment="30" xCoord="3.180472" yCoord="37.382573"/>
+	<point segment="30" xCoord="3.788041" yCoord="37.445425"/>
+	<point segment="30" xCoord="4.267592" yCoord="37.476503"/>
+	<point segment="30" xCoord="4.859309" yCoord="37.520566"/>
+	<point segment="30" xCoord="5.356602" yCoord="37.56463"/>
+	<point segment="30" xCoord="5.828717" yCoord="37.596105"/>
+	<point segment="30" xCoord="6.451907" yCoord="37.640169"/>
+	<point segment="30" xCoord="7.093983" yCoord="37.677938"/>
+	<point segment="30" xCoord="7.705812" yCoord="37.717784"/>
+	<point segment="30" xCoord="8.355282" yCoord="37.759685"/>
+	<point segment="30" xCoord="8.983802" yCoord="37.759685"/>
+	<point segment="30" xCoord="9.465666" yCoord="37.759685"/>
+	<point segment="30" xCoord="9.873415" yCoord="37.739773"/>
+	<point segment="30" xCoord="10.136087" yCoord="37.696833"/>
+	<point segment="30" xCoord="10.513199" yCoord="37.59208"/>
+	<point segment="30" xCoord="10.722705" yCoord="37.487326"/>
+	</seg>
+<seg>
+	<point segment="31" xCoord="-5.591559" yCoord="34.896067"/>
+	<point segment="31" xCoord="-5.472246" yCoord="34.698234"/>
+	<point segment="31" xCoord="-5.328008" yCoord="34.560267"/>
+	<point segment="31" xCoord="-5.202584" yCoord="34.453656"/>
+	<point segment="31" xCoord="-4.958006" yCoord="34.290605"/>
+	<point segment="31" xCoord="-4.732243" yCoord="34.183994"/>
+	<point segment="31" xCoord="-4.519021" yCoord="34.089926"/>
+	<point segment="31" xCoord="-4.293258" yCoord="34.020943"/>
+	<point segment="31" xCoord="-3.985968" yCoord="33.926874"/>
+	<point segment="31" xCoord="-3.615967" yCoord="33.876705"/>
+	<point segment="31" xCoord="-3.104723" yCoord="33.841913"/>
+	<point segment="31" xCoord="-2.539055" yCoord="33.841913"/>
+	<point segment="31" xCoord="-1.897654" yCoord="33.85162"/>
+	<point segment="31" xCoord="-1.490025" yCoord="33.876705"/>
+	<point segment="31" xCoord="-1.170193" yCoord="33.920603"/>
+	<point segment="31" xCoord="-0.821102" yCoord="34.009519"/>
+	<point segment="31" xCoord="-0.318287" yCoord="34.114272"/>
+	<point segment="31" xCoord="0.268332" yCoord="34.260926"/>
+	<point segment="31" xCoord="1.031003" yCoord="34.466199"/>
+	<point segment="31" xCoord="1.708294" yCoord="34.622979"/>
+	<point segment="31" xCoord="2.235076" yCoord="34.72959"/>
+	<point segment="31" xCoord="2.837113" yCoord="34.861285"/>
+	<point segment="31" xCoord="3.445421" yCoord="35.011795"/>
+	<point segment="31" xCoord="4.08135" yCoord="35.140854"/>
+	<point segment="31" xCoord="4.705935" yCoord="35.287728"/>
+	<point segment="31" xCoord="5.505994" yCoord="35.476064"/>
+	<point segment="31" xCoord="6.155464" yCoord="35.601768"/>
+	<point segment="31" xCoord="6.875775" yCoord="35.789425"/>
+	<point segment="31" xCoord="7.36493" yCoord="35.921121"/>
+	<point segment="31" xCoord="7.741202" yCoord="36.015189"/>
+	<point segment="31" xCoord="8.124825" yCoord="36.125534"/>
+	<point segment="31" xCoord="8.690492" yCoord="36.293139"/>
+	<point segment="31" xCoord="9.083242" yCoord="36.416546"/>
+	<point segment="31" xCoord="9.472058" yCoord="36.548242"/>
+	<point segment="31" xCoord="9.773076" yCoord="36.667395"/>
+	<point segment="31" xCoord="10.157038" yCoord="36.816906"/>
+	</seg>
+<seg>
+	<point segment="32" xCoord="10.722705" yCoord="37.487326"/>
+	<point segment="32" xCoord="10.637618" yCoord="37.387611"/>
+	<point segment="32" xCoord="10.569292" yCoord="37.295686"/>
+	<point segment="32" xCoord="10.525622" yCoord="37.219262"/>
+	<point segment="32" xCoord="10.507355" yCoord="37.167508"/>
+	<point segment="32" xCoord="10.497999" yCoord="37.116783"/>
+	<point segment="32" xCoord="10.489588" yCoord="37.059589"/>
+	<point segment="32" xCoord="10.484541" yCoord="36.992303"/>
+	<point segment="32" xCoord="10.479495" yCoord="36.945202"/>
+	<point segment="32" xCoord="10.477813" yCoord="36.899784"/>
+	<point segment="32" xCoord="10.474448" yCoord="36.859412"/>
+	<point segment="32" xCoord="10.469402" yCoord="36.839226"/>
+	<point segment="32" xCoord="10.457627" yCoord="36.817358"/>
+	<point segment="32" xCoord="10.440805" yCoord="36.802219"/>
+	<point segment="32" xCoord="10.417255" yCoord="36.792126"/>
+	<point segment="32" xCoord="10.365108" yCoord="36.787079"/>
+	<point segment="32" xCoord="10.318007" yCoord="36.788762"/>
+	<point segment="32" xCoord="10.274271" yCoord="36.79549"/>
+	<point segment="32" xCoord="10.207517" yCoord="36.808965"/>
+	<point segment="32" xCoord="10.157038" yCoord="36.816906"/>
+	</seg>
+<seg>
+	<point segment="33" xCoord="10.157038" yCoord="36.816906"/>
+	<point segment="33" xCoord="10.06545" yCoord="36.683126"/>
+	<point segment="33" xCoord="9.923697" yCoord="36.494122"/>
+	<point segment="33" xCoord="9.795444" yCoord="36.278116"/>
+	<point segment="33" xCoord="9.63344" yCoord="36.03511"/>
+	<point segment="33" xCoord="9.451185" yCoord="35.690852"/>
+	<point segment="33" xCoord="9.322932" yCoord="35.319592"/>
+	<point segment="33" xCoord="9.24868" yCoord="34.921332"/>
+	<point segment="33" xCoord="9.201429" yCoord="34.509572"/>
+	<point segment="33" xCoord="9.198004" yCoord="34.266424"/>
+	<point segment="33" xCoord="9.194679" yCoord="34.03031"/>
+	<point segment="33" xCoord="9.214929" yCoord="33.827805"/>
+	<point segment="33" xCoord="9.275681" yCoord="33.564548"/>
+	<point segment="33" xCoord="9.356683" yCoord="33.368794"/>
+	<point segment="33" xCoord="9.491686" yCoord="33.186539"/>
+	<point segment="33" xCoord="9.65369" yCoord="32.990784"/>
+	<point segment="33" xCoord="9.795444" yCoord="32.849031"/>
+	<point segment="33" xCoord="10.011449" yCoord="32.673526"/>
+	<point segment="33" xCoord="10.234205" yCoord="32.525023"/>
+	<point segment="33" xCoord="10.429959" yCoord="32.41702"/>
+	<point segment="33" xCoord="10.652715" yCoord="32.329268"/>
+	<point segment="33" xCoord="10.86872" yCoord="32.268516"/>
+	<point segment="33" xCoord="11.172478" yCoord="32.228015"/>
+	<point segment="33" xCoord="11.449235" yCoord="32.228015"/>
+	<point segment="33" xCoord="11.732742" yCoord="32.255016"/>
+	<point segment="33" xCoord="11.962248" yCoord="32.302267"/>
+	<point segment="33" xCoord="12.137752" yCoord="32.369769"/>
+	<point segment="33" xCoord="12.333507" yCoord="32.450771"/>
+	<point segment="33" xCoord="12.536012" yCoord="32.552023"/>
+	<point segment="33" xCoord="12.794671" yCoord="32.68896"/>
+	<point segment="33" xCoord="12.995023" yCoord="32.795029"/>
+	<point segment="33" xCoord="13.157027" yCoord="32.889532"/>
+	</seg>
+<seg>
+	<point segment="34" xCoord="15.020074" yCoord="34.975334"/>
+	<point segment="34" xCoord="14.898571" yCoord="34.772829"/>
+	<point segment="34" xCoord="14.783818" yCoord="34.590574"/>
+	<point segment="34" xCoord="14.642065" yCoord="34.388069"/>
+	<point segment="34" xCoord="14.547562" yCoord="34.246316"/>
+	<point segment="34" xCoord="14.345057" yCoord="33.989809"/>
+	<point segment="34" xCoord="14.115551" yCoord="33.733303"/>
+	<point segment="34" xCoord="13.960298" yCoord="33.564548"/>
+	<point segment="34" xCoord="13.778043" yCoord="33.402544"/>
+	<point segment="34" xCoord="13.541787" yCoord="33.200039"/>
+	<point segment="34" xCoord="13.332532" yCoord="33.024535"/>
+	<point segment="34" xCoord="13.150277" yCoord="32.889532"/>
+	</seg>
+<seg>
+	<point segment="35" xCoord="15.66134" yCoord="37.911657"/>
+	<point segment="35" xCoord="15.65459" yCoord="36.548123"/>
+	<point segment="35" xCoord="15.64784" yCoord="36.345618"/>
+	<point segment="35" xCoord="15.638328" yCoord="36.246178"/>
+	<point segment="35" xCoord="15.611887" yCoord="36.124308"/>
+	<point segment="35" xCoord="15.589169" yCoord="36.027753"/>
+	<point segment="35" xCoord="15.55827" yCoord="35.925948"/>
+	<point segment="35" xCoord="15.522287" yCoord="35.838005"/>
+	<point segment="35" xCoord="15.472736" yCoord="35.73241"/>
+	<point segment="35" xCoord="15.418334" yCoord="35.63685"/>
+	<point segment="35" xCoord="15.360283" yCoord="35.519397"/>
+	<point segment="35" xCoord="15.303581" yCoord="35.420845"/>
+	<point segment="35" xCoord="15.236079" yCoord="35.299342"/>
+	<point segment="35" xCoord="15.168578" yCoord="35.191339"/>
+	<point segment="35" xCoord="15.101076" yCoord="35.087387"/>
+	<point segment="35" xCoord="15.020074" yCoord="34.975334"/>
+	</seg>
+<seg>
+	<point segment="36" xCoord="0.8759" yCoord="37.487326"/>
+	<point segment="36" xCoord="0.980654" yCoord="37.654932"/>
+	<point segment="36" xCoord="1.04638" yCoord="37.783136"/>
+	<point segment="36" xCoord="1.100516" yCoord="37.92028"/>
+	<point segment="36" xCoord="1.127308" yCoord="38.052994"/>
+	<point segment="36" xCoord="1.151043" yCoord="38.187352"/>
+	<point segment="36" xCoord="1.165479" yCoord="38.295624"/>
+	<point segment="36" xCoord="1.16921" yCoord="38.409155"/>
+	<point segment="36" xCoord="1.16921" yCoord="38.483295"/>
+	<point segment="36" xCoord="1.158261" yCoord="38.598786"/>
+	<point segment="36" xCoord="1.127308" yCoord="38.702464"/>
+	<point segment="36" xCoord="1.08608" yCoord="38.786457"/>
+	<point segment="36" xCoord="1.022555" yCoord="38.89102"/>
+	<point segment="36" xCoord="0.938752" yCoord="39.016724"/>
+	<point segment="36" xCoord="0.819009" yCoord="39.136537"/>
+	<point segment="36" xCoord="0.681864" yCoord="39.230373"/>
+	<point segment="36" xCoord="0.548328" yCoord="39.291727"/>
+	<point segment="36" xCoord="0.360656" yCoord="39.338645"/>
+	<point segment="36" xCoord="0.183812" yCoord="39.371127"/>
+	<point segment="36" xCoord="0.017795" yCoord="39.4"/>
+	<point segment="36" xCoord="-0.137395" yCoord="39.425263"/>
+	<point segment="36" xCoord="-0.285367" yCoord="39.454136"/>
+	<point segment="36" xCoord="-0.381138" yCoord="39.477638"/>
+	</seg>
+<seg>
+	<point segment="37" xCoord="-0.381138" yCoord="39.477638"/>
+	<point segment="37" xCoord="-0.166268" yCoord="39.490226"/>
+	<point segment="37" xCoord="0.11524" yCoord="39.504663"/>
+	<point segment="37" xCoord="0.411183" yCoord="39.529926"/>
+	<point segment="37" xCoord="0.577201" yCoord="39.551581"/>
+	<point segment="37" xCoord="0.746827" yCoord="39.584062"/>
+	<point segment="37" xCoord="0.887581" yCoord="39.620153"/>
+	<point segment="37" xCoord="1.075253" yCoord="39.681507"/>
+	<point segment="37" xCoord="1.230443" yCoord="39.746471"/>
+	<point segment="37" xCoord="1.450596" yCoord="39.861961"/>
+	<point segment="37" xCoord="1.696013" yCoord="40.017151"/>
+	<point segment="37" xCoord="1.912557" yCoord="40.157905"/>
+	<point segment="37" xCoord="2.049702" yCoord="40.269786"/>
+	<point segment="37" xCoord="2.125492" yCoord="40.356404"/>
+	<point segment="37" xCoord="2.194065" yCoord="40.443021"/>
+	<point segment="37" xCoord="2.248201" yCoord="40.544075"/>
+	<point segment="37" xCoord="2.280683" yCoord="40.648738"/>
+	<point segment="37" xCoord="2.29151" yCoord="40.775056"/>
+	<point segment="37" xCoord="2.29151" yCoord="40.897764"/>
+	<point segment="37" xCoord="2.277073" yCoord="41.016864"/>
+	<point segment="37" xCoord="2.255419" yCoord="41.161227"/>
+	<point segment="37" xCoord="2.208501" yCoord="41.276717"/>
+	<point segment="37" xCoord="2.154365" yCoord="41.363335"/>
+	</seg>
+<seg>
+	<point segment="38" xCoord="2.154365" yCoord="41.363335"/>
+	<point segment="38" xCoord="1.81868" yCoord="41.384147"/>
+	<point segment="38" xCoord="1.567272" yCoord="41.384147"/>
+	<point segment="38" xCoord="1.176307" yCoord="41.323635"/>
+	<point segment="38" xCoord="0.815399" yCoord="41.218972"/>
+	<point segment="38" xCoord="0.486974" yCoord="41.071"/>
+	<point segment="38" xCoord="0.205466" yCoord="40.923028"/>
+	<point segment="38" xCoord="-0.029123" yCoord="40.782274"/>
+	<point segment="38" xCoord="-0.288976" yCoord="40.619866"/>
+	<point segment="38" xCoord="-0.42973" yCoord="40.52603"/>
+	<point segment="38" xCoord="-0.550864" yCoord="40.42773"/>
+	<point segment="38" xCoord="-0.630043" yCoord="40.332714"/>
+	<point segment="38" xCoord="-0.68151" yCoord="40.229781"/>
+	<point segment="38" xCoord="-0.713181" yCoord="40.146643"/>
+	<point segment="38" xCoord="-0.729017" yCoord="40.019956"/>
+	<point segment="38" xCoord="-0.729017" yCoord="39.920981"/>
+	<point segment="38" xCoord="-0.71714" yCoord="39.806171"/>
+	<point segment="38" xCoord="-0.696801" yCoord="39.724816"/>
+	<point segment="38" xCoord="-0.657102" yCoord="39.652635"/>
+	<point segment="38" xCoord="-0.605729" yCoord="39.588544"/>
+	<point segment="38" xCoord="-0.54522" yCoord="39.537144"/>
+	<point segment="38" xCoord="-0.451889" yCoord="39.493412"/>
+	<point segment="38" xCoord="-0.381138" yCoord="39.477638"/>
+	</seg>
+<seg>
+	<point segment="39" xCoord="5.377479" yCoord="43.284642"/>
+	<point segment="39" xCoord="5.359339" yCoord="43.269705"/>
+	<point segment="39" xCoord="5.339125" yCoord="43.220718"/>
+	<point segment="39" xCoord="5.296487" yCoord="42.997347"/>
+	<point segment="39" xCoord="5.246435" yCoord="42.766856"/>
+	<point segment="39" xCoord="5.195295" yCoord="42.581475"/>
+	<point segment="39" xCoord="5.105801" yCoord="42.389703"/>
+	<point segment="39" xCoord="4.982228" yCoord="42.201222"/>
+	<point segment="39" xCoord="4.811253" yCoord="42.010134"/>
+	<point segment="39" xCoord="4.626369" yCoord="41.833561"/>
+	<point segment="39" xCoord="4.511306" yCoord="41.740871"/>
+	<point segment="39" xCoord="4.36428" yCoord="41.644985"/>
+	<point segment="39" xCoord="4.175485" yCoord="41.562529"/>
+	<point segment="39" xCoord="4.003108" yCoord="41.504352"/>
+	<point segment="39" xCoord="3.760195" yCoord="41.430839"/>
+	<point segment="39" xCoord="3.49491" yCoord="41.370111"/>
+	<point segment="39" xCoord="3.213643" yCoord="41.315775"/>
+	<point segment="39" xCoord="2.894022" yCoord="41.287009"/>
+	<point segment="39" xCoord="2.670287" yCoord="41.279394"/>
+	<point segment="39" xCoord="2.430571" yCoord="41.299794"/>
+	<point segment="39" xCoord="2.275206" yCoord="41.329878"/>
+	<point segment="39" xCoord="2.154365" yCoord="41.363335"/>
+	</seg>
+<seg>
+	<point segment="40" xCoord="10.343896" yCoord="38.804741"/>
+	<point segment="40" xCoord="10.102374" yCoord="38.804741"/>
+	<point segment="40" xCoord="9.702615" yCoord="38.779756"/>
+	<point segment="40" xCoord="9.344496" yCoord="38.763099"/>
+	<point segment="40" xCoord="8.886438" yCoord="38.738114"/>
+	<point segment="40" xCoord="8.311783" yCoord="38.688144"/>
+	<point segment="40" xCoord="7.753785" yCoord="38.638174"/>
+	<point segment="40" xCoord="7.154145" yCoord="38.571547"/>
+	<point segment="40" xCoord="6.57949" yCoord="38.479936"/>
+	<point segment="40" xCoord="5.996507" yCoord="38.404981"/>
+	<point segment="40" xCoord="5.346897" yCoord="38.355011"/>
+	<point segment="40" xCoord="4.505735" yCoord="38.338354"/>
+	<point segment="40" xCoord="3.964394" yCoord="38.346682"/>
+	<point segment="40" xCoord="3.506335" yCoord="38.388324"/>
+	<point segment="40" xCoord="3.2315" yCoord="38.463279"/>
+	<point segment="40" xCoord="2.998307" yCoord="38.596532"/>
+	<point segment="40" xCoord="2.848397" yCoord="38.738114"/>
+	<point segment="40" xCoord="2.756785" yCoord="38.937994"/>
+	<point segment="40" xCoord="2.68183" yCoord="39.154531"/>
+	<point segment="40" xCoord="2.640189" yCoord="39.371067"/>
+	<point segment="40" xCoord="2.635755" yCoord="39.561441"/>
+	</seg>
+<seg>
+	<point segment="41" xCoord="10.343896" yCoord="38.804741"/>
+	<point segment="41" xCoord="10.343896" yCoord="38.679816"/>
+	<point segment="41" xCoord="10.343896" yCoord="38.529906"/>
+	<point segment="41" xCoord="10.351891" yCoord="38.421971"/>
+	<point segment="41" xCoord="10.373878" yCoord="38.316034"/>
+	<point segment="41" xCoord="10.413854" yCoord="38.244077"/>
+	<point segment="41" xCoord="10.49645" yCoord="38.152716"/>
+	<point segment="41" xCoord="10.577089" yCoord="38.063519"/>
+	<point segment="41" xCoord="10.657708" yCoord="37.968243"/>
+	<point segment="41" xCoord="10.718671" yCoord="37.880296"/>
+	<point segment="41" xCoord="10.763257" yCoord="37.815444"/>
+	<point segment="41" xCoord="10.793626" yCoord="37.770362"/>
+	<point segment="41" xCoord="10.81961" yCoord="37.724389"/>
+	<point segment="41" xCoord="10.826939" yCoord="37.672088"/>
+	<point segment="41" xCoord="10.81961" yCoord="37.612457"/>
+	<point segment="41" xCoord="10.795625" yCoord="37.554491"/>
+	<point segment="41" xCoord="10.759646" yCoord="37.514515"/>
+	<point segment="41" xCoord="10.722705" yCoord="37.487326"/>
+	</seg>
+<seg>
+	<point segment="42" xCoord="13.150277" yCoord="32.889532"/>
+	<point segment="42" xCoord="13.183339" yCoord="33.010282"/>
+	<point segment="42" xCoord="13.212163" yCoord="33.142871"/>
+	<point segment="42" xCoord="13.246655" yCoord="33.40158"/>
+	<point segment="42" xCoord="13.28134" yCoord="33.719349"/>
+	<point segment="42" xCoord="13.298635" yCoord="34.04794"/>
+	<point segment="42" xCoord="13.301299" yCoord="34.330532"/>
+	<point segment="42" xCoord="13.264869" yCoord="34.640182"/>
+	<point segment="42" xCoord="13.16028" yCoord="34.929951"/>
+	<point segment="42" xCoord="13.056514" yCoord="35.189365"/>
+	<point segment="42" xCoord="12.88236" yCoord="35.496275"/>
+	<point segment="42" xCoord="12.658745" yCoord="35.886903"/>
+	<point segment="42" xCoord="12.480037" yCoord="36.117493"/>
+	<point segment="42" xCoord="12.2898" yCoord="36.353849"/>
+	<point segment="42" xCoord="12.130276" yCoord="36.546219"/>
+	<point segment="42" xCoord="11.953408" yCoord="36.734878"/>
+	<point segment="42" xCoord="11.716617" yCoord="36.953455"/>
+	</seg>
+<seg>
+	<point segment="43" xCoord="11.716617" yCoord="36.953455"/>
+	<point segment="43" xCoord="12.02462" yCoord="36.797737"/>
+	<point segment="43" xCoord="12.433919" yCoord="36.57291"/>
+	<point segment="43" xCoord="12.718427" yCoord="36.407012"/>
+	<point segment="43" xCoord="13.073808" yCoord="36.175141"/>
+	<point segment="43" xCoord="13.410587" yCoord="35.988073"/>
+	<point segment="43" xCoord="13.782875" yCoord="35.754313"/>
+	<point segment="43" xCoord="14.212036" yCoord="35.496275"/>
+	<point segment="43" xCoord="14.572649" yCoord="35.275837"/>
+	<point segment="43" xCoord="14.831337" yCoord="35.113766"/>
+	<point segment="43" xCoord="15.020074" yCoord="34.975334"/>
+	</seg>
+<seg>
+	<point segment="44" xCoord="11.716617" yCoord="36.953455"/>
+	<point segment="44" xCoord="11.583783" yCoord="37.046065"/>
+	<point segment="44" xCoord="11.395749" yCoord="37.155579"/>
+	<point segment="44" xCoord="11.224819" yCoord="37.24489"/>
+	<point segment="44" xCoord="11.042671" yCoord="37.335964"/>
+	<point segment="44" xCoord="10.926698" yCoord="37.393204"/>
+	<point segment="44" xCoord="10.82252" yCoord="37.441272"/>
+	<point segment="44" xCoord="10.722705" yCoord="37.487326"/>
+	</seg>
+<seg>
+	<point segment="45" xCoord="10.343896" yCoord="38.804741"/>
+	<point segment="45" xCoord="10.638682" yCoord="38.810681"/>
+	<point segment="45" xCoord="10.934563" yCoord="38.835338"/>
+	<point segment="45" xCoord="11.218116" yCoord="38.878487"/>
+	<point segment="45" xCoord="11.483176" yCoord="38.933965"/>
+	<point segment="45" xCoord="11.816042" yCoord="39.057248"/>
+	<point segment="45" xCoord="12.081102" yCoord="39.16204"/>
+	<point segment="45" xCoord="12.339998" yCoord="39.285323"/>
+	<point segment="45" xCoord="12.543416" yCoord="39.402443"/>
+	<point segment="45" xCoord="12.74067" yCoord="39.550383"/>
+	<point segment="45" xCoord="12.987238" yCoord="39.753802"/>
+	<point segment="45" xCoord="13.233805" yCoord="40.000369"/>
+	<point segment="45" xCoord="13.412567" yCoord="40.179131"/>
+	<point segment="45" xCoord="13.65297" yCoord="40.394877"/>
+	<point segment="45" xCoord="13.911866" yCoord="40.610624"/>
+	<point segment="45" xCoord="14.078299" yCoord="40.721579"/>
+	<point segment="45" xCoord="14.178282" yCoord="40.787732"/>
+	<point segment="45" xCoord="14.249359" yCoord="40.833501"/>
+	</seg>
+<seg>
+	<point segment="46" xCoord="14.249359" yCoord="40.833501"/>
+	<point segment="46" xCoord="14.217859" yCoord="40.792309"/>
+	<point segment="46" xCoord="14.196321" yCoord="40.758386"/>
+	<point segment="46" xCoord="14.172803" yCoord="40.712137"/>
+	<point segment="46" xCoord="14.146105" yCoord="40.622952"/>
+	<point segment="46" xCoord="14.12729" yCoord="40.511119"/>
+	<point segment="46" xCoord="14.115912" yCoord="40.38975"/>
+	<point segment="46" xCoord="14.133777" yCoord="40.234608"/>
+	<point segment="46" xCoord="14.165218" yCoord="40.116669"/>
+	<point segment="46" xCoord="14.233488" yCoord="39.980129"/>
+	<point segment="46" xCoord="14.343479" yCoord="39.836003"/>
+	<point segment="46" xCoord="14.472807" yCoord="39.698324"/>
+	<point segment="46" xCoord="14.633076" yCoord="39.538055"/>
+	<point segment="46" xCoord="14.9043" yCoord="39.297652"/>
+	<point segment="46" xCoord="15.128586" yCoord="39.119166"/>
+	<point segment="46" xCoord="15.304973" yCoord="38.977114"/>
+	<point segment="46" xCoord="15.446749" yCoord="38.859994"/>
+	<point segment="46" xCoord="15.547194" yCoord="38.746678"/>
+	<point segment="46" xCoord="15.618195" yCoord="38.64853"/>
+	<point segment="46" xCoord="15.664137" yCoord="38.529499"/>
+	<point segment="46" xCoord="15.680843" yCoord="38.43135"/>
+	<point segment="46" xCoord="15.682931" yCoord="38.322761"/>
+	<point segment="46" xCoord="15.666225" yCoord="38.274731"/>
+	<point segment="46" xCoord="15.616107" yCoord="38.232965"/>
+	<point segment="46" xCoord="15.597312" yCoord="38.195376"/>
+	<point segment="46" xCoord="15.588959" yCoord="38.145258"/>
+	<point segment="46" xCoord="15.586871" yCoord="38.09514"/>
+	<point segment="46" xCoord="15.591047" yCoord="38.03458"/>
+	<point segment="46" xCoord="15.616107" yCoord="37.971932"/>
+	<point segment="46" xCoord="15.66134" yCoord="37.911657"/>
+	</seg>
+<seg>
+	<point segment="47" xCoord="15.66134" yCoord="37.911657"/>
+	<point segment="47" xCoord="15.70092" yCoord="37.869549"/>
+	<point segment="47" xCoord="15.752778" yCoord="37.815097"/>
+	<point segment="47" xCoord="15.817601" yCoord="37.75546"/>
+	<point segment="47" xCoord="15.890203" yCoord="37.695823"/>
+	<point segment="47" xCoord="15.980955" yCoord="37.625814"/>
+	</seg>
+<seg>
+	<point segment="48" xCoord="15.980955" yCoord="37.625814"/>
+	<point segment="48" xCoord="16.079743" yCoord="37.601471"/>
+	<point segment="48" xCoord="16.178683" yCoord="37.590006"/>
+	<point segment="48" xCoord="16.29998" yCoord="37.600708"/>
+	<point segment="48" xCoord="16.485494" yCoord="37.679195"/>
+	<point segment="48" xCoord="16.667651" yCoord="37.75951"/>
+	<point segment="48" xCoord="16.857298" yCoord="37.860656"/>
+	<point segment="48" xCoord="17.025544" yCoord="37.955065"/>
+	<point segment="48" xCoord="17.213278" yCoord="38.064492"/>
+	<point segment="48" xCoord="17.348845" yCoord="38.157249"/>
+	<point segment="48" xCoord="17.472674" yCoord="38.258715"/>
+	<point segment="48" xCoord="17.634251" yCoord="38.403411"/>
+	<point segment="48" xCoord="17.862575" yCoord="38.649573"/>
+	<point segment="48" xCoord="18.087332" yCoord="38.913574"/>
+	<point segment="48" xCoord="18.340629" yCoord="39.238222"/>
+	<point segment="48" xCoord="18.447657" yCoord="39.384493"/>
+	<point segment="48" xCoord="18.639986" yCoord="39.655986"/>
+	<point segment="48" xCoord="18.785382" yCoord="39.90885"/>
+	</seg>
+<seg>
+	<point segment="49" xCoord="15.980955" yCoord="37.625814"/>
+	<point segment="49" xCoord="16.064521" yCoord="37.561465"/>
+	<point segment="49" xCoord="16.143007" yCoord="37.522222"/>
+	<point segment="49" xCoord="16.217926" yCoord="37.497249"/>
+	<point segment="49" xCoord="16.324953" yCoord="37.482979"/>
+	<point segment="49" xCoord="16.453386" yCoord="37.475844"/>
+	<point segment="49" xCoord="16.606791" yCoord="37.475844"/>
+	<point segment="49" xCoord="16.835116" yCoord="37.493681"/>
+	<point segment="49" xCoord="17.034303" yCoord="37.525612"/>
+	<point segment="49" xCoord="17.2989" yCoord="37.586438"/>
+	<point segment="49" xCoord="17.489457" yCoord="37.645722"/>
+	<point segment="49" xCoord="17.769819" yCoord="37.725573"/>
+	<point segment="49" xCoord="18.044521" yCoord="37.80406"/>
+	<point segment="49" xCoord="18.308521" yCoord="37.889681"/>
+	<point segment="49" xCoord="18.519876" yCoord="37.961801"/>
+	</seg>
+<seg>
+	<point segment="50" xCoord="15.980955" yCoord="37.625814"/>
+	<point segment="50" xCoord="16.135872" yCoord="37.479411"/>
+	<point segment="50" xCoord="16.300999" yCoord="37.329643"/>
+	<point segment="50" xCoord="16.506899" yCoord="37.147627"/>
+	<point segment="50" xCoord="16.731656" yCoord="36.965681"/>
+	<point segment="50" xCoord="16.981386" yCoord="36.801573"/>
+	<point segment="50" xCoord="17.238251" yCoord="36.669573"/>
+	<point segment="50" xCoord="17.498683" yCoord="36.555411"/>
+	<point segment="50" xCoord="17.702035" yCoord="36.487627"/>
+	<point segment="50" xCoord="17.948197" yCoord="36.412708"/>
+	<point segment="50" xCoord="18.235404" yCoord="36.356118"/>
+	<point segment="50" xCoord="18.529711" yCoord="36.316384"/>
+	<point segment="50" xCoord="18.886528" yCoord="36.286581"/>
+	<point segment="50" xCoord="19.366968" yCoord="36.280259"/>
+	<point segment="50" xCoord="19.784193" yCoord="36.273938"/>
+	</seg>
+<seg>
+	<point segment="51" xCoord="18.785382" yCoord="39.90885"/>
+	<point segment="51" xCoord="18.7723" yCoord="39.783854"/>
+	<point segment="51" xCoord="18.746633" yCoord="39.645917"/>
+	<point segment="51" xCoord="18.687612" yCoord="39.425559"/>
+	<point segment="51" xCoord="18.638941" yCoord="39.262662"/>
+	<point segment="51" xCoord="18.567204" yCoord="39.072616"/>
+	<point segment="51" xCoord="18.532118" yCoord="38.967271"/>
+	<point segment="51" xCoord="18.506582" yCoord="38.861938"/>
+	<point segment="51" xCoord="18.485664" yCoord="38.70897"/>
+	<point segment="51" xCoord="18.466121" yCoord="38.500507"/>
+	<point segment="51" xCoord="18.466121" yCoord="38.220386"/>
+	<point segment="51" xCoord="18.481047" yCoord="38.092683"/>
+	<point segment="51" xCoord="18.519876" yCoord="37.961801"/>
+	</seg>
+<seg>
+	<point segment="52" xCoord="18.519876" yCoord="37.961801"/>
+	<point segment="52" xCoord="18.707155" yCoord="38.018438"/>
+	<point segment="52" xCoord="18.949346" yCoord="38.109729"/>
+	<point segment="52" xCoord="19.231244" yCoord="38.236425"/>
+	<point segment="52" xCoord="19.462831" yCoord="38.337646"/>
+	<point segment="52" xCoord="19.703866" yCoord="38.461421"/>
+	<point segment="52" xCoord="19.874226" yCoord="38.553165"/>
+	<point segment="52" xCoord="20.029588" yCoord="38.630796"/>
+	<point segment="52" xCoord="20.244565" yCoord="38.748056"/>
+	<point segment="52" xCoord="20.457027" yCoord="38.860402"/>
+	<point segment="52" xCoord="20.564718" yCoord="38.904746"/>
+	<point segment="52" xCoord="20.753426" yCoord="38.96029"/>
+	</seg>
+<seg>
+	<point segment="53" xCoord="15.020074" yCoord="34.975334"/>
+	<point segment="53" xCoord="15.209098" yCoord="34.860751"/>
+	<point segment="53" xCoord="15.392602" yCoord="34.752317"/>
+	<point segment="53" xCoord="15.542741" yCoord="34.660565"/>
+	<point segment="53" xCoord="15.734586" yCoord="34.54379"/>
+	<point segment="53" xCoord="15.890604" yCoord="34.447298"/>
+	<point segment="53" xCoord="16.126617" yCoord="34.31024"/>
+	<point segment="53" xCoord="16.435237" yCoord="34.185123"/>
+	<point segment="53" xCoord="16.793903" yCoord="34.051666"/>
+	<point segment="53" xCoord="17.052477" yCoord="33.968255"/>
+	<point segment="53" xCoord="17.319391" yCoord="33.92655"/>
+	<point segment="53" xCoord="17.644693" yCoord="33.893186"/>
+	<point segment="53" xCoord="18.136817" yCoord="33.893186"/>
+	<point segment="53" xCoord="19.062676" yCoord="33.901527"/>
+	<point segment="53" xCoord="20.422272" yCoord="33.901527"/>
+	<point segment="53" xCoord="21.398178" yCoord="33.901527"/>
+	<point segment="53" xCoord="22.057431" yCoord="33.898418"/>
+	<point segment="53" xCoord="22.735459" yCoord="33.898418"/>
+	<point segment="53" xCoord="23.235909" yCoord="33.849988"/>
+	<point segment="53" xCoord="23.625246" yCoord="33.801434"/>
+	<point segment="53" xCoord="23.93008" yCoord="33.736983"/>
+	<point segment="53" xCoord="24.333668" yCoord="33.640122"/>
+	<point segment="53" xCoord="24.801338" yCoord="33.54286"/>
+	<point segment="53" xCoord="25.108558" yCoord="33.462543"/>
+	<point segment="53" xCoord="25.463715" yCoord="33.365682"/>
+	<point segment="53" xCoord="25.738155" yCoord="33.284964"/>
+	<point segment="53" xCoord="26.17403" yCoord="33.123529"/>
+	<point segment="53" xCoord="26.544624" yCoord="32.984008"/>
+	<point segment="53" xCoord="26.878267" yCoord="32.84221"/>
+	<point segment="53" xCoord="27.337026" yCoord="32.625342"/>
+	<point segment="53" xCoord="27.675378" yCoord="32.461644"/>
+	<point segment="53" xCoord="28.071041" yCoord="32.275017"/>
+	<point segment="53" xCoord="28.514842" yCoord="32.041913"/>
+	<point segment="53" xCoord="28.880126" yCoord="31.849622"/>
+	<point segment="53" xCoord="29.347226" yCoord="31.591048"/>
+	<point segment="53" xCoord="29.68921" yCoord="31.37418"/>
+	<point segment="53" xCoord="29.935472" yCoord="31.218593"/>
+	</seg>
+<seg>
+	<point segment="54" xCoord="18.519876" yCoord="37.961801"/>
+	<point segment="54" xCoord="18.596281" yCoord="37.674823"/>
+	<point segment="54" xCoord="18.727025" yCoord="37.332877"/>
+	<point segment="54" xCoord="18.928169" yCoord="37.011046"/>
+	<point segment="54" xCoord="19.119257" yCoord="36.77973"/>
+	<point segment="54" xCoord="19.340516" yCoord="36.578585"/>
+	<point segment="54" xCoord="19.521546" yCoord="36.427727"/>
+	<point segment="54" xCoord="19.784193" yCoord="36.273938"/>
+	</seg>
+<seg>
+	<point segment="55" xCoord="19.784193" yCoord="36.273938"/>
+	<point segment="55" xCoord="20.165209" yCoord="36.256754"/>
+	<point segment="55" xCoord="20.587613" yCoord="36.206468"/>
+	<point segment="55" xCoord="21.100531" yCoord="36.146124"/>
+	<point segment="55" xCoord="21.553107" yCoord="36.065666"/>
+	</seg>
+<seg>
+	<point segment="56" xCoord="20.753426" yCoord="38.96029"/>
+	<point segment="56" xCoord="20.61002" yCoord="38.882199"/>
+	<point segment="56" xCoord="20.429616" yCoord="38.777313"/>
+	<point segment="56" xCoord="20.274385" yCoord="38.676623"/>
+	<point segment="56" xCoord="20.214877" yCoord="38.630424"/>
+	<point segment="56" xCoord="20.15483" yCoord="38.572092"/>
+	<point segment="56" xCoord="20.097767" yCoord="38.500704"/>
+	<point segment="56" xCoord="20.035245" yCoord="38.41231"/>
+	<point segment="56" xCoord="19.951336" yCoord="38.261275"/>
+	<point segment="56" xCoord="19.880014" yCoord="38.080871"/>
+	<point segment="56" xCoord="19.833864" yCoord="37.908858"/>
+	<point segment="56" xCoord="19.812887" yCoord="37.795581"/>
+	<point segment="56" xCoord="19.821277" yCoord="37.64035"/>
+	<point segment="56" xCoord="19.838059" yCoord="37.543855"/>
+	<point segment="56" xCoord="19.880014" yCoord="37.434773"/>
+	<point segment="56" xCoord="19.934554" yCoord="37.338278"/>
+	<point segment="56" xCoord="20.034465" yCoord="37.192076"/>
+	<point segment="56" xCoord="20.165417" yCoord="37.023709"/>
+	<point segment="56" xCoord="20.341512" yCoord="36.864194"/>
+	<point segment="56" xCoord="20.584847" yCoord="36.658618"/>
+	<point segment="56" xCoord="20.9037" yCoord="36.436259"/>
+	<point segment="56" xCoord="21.247726" yCoord="36.218097"/>
+	<point segment="56" xCoord="21.553107" yCoord="36.065666"/>
+	</seg>
+<seg>
+	<point segment="57" xCoord="21.553107" yCoord="36.065666"/>
+	<point segment="57" xCoord="21.708292" yCoord="36.016249"/>
+	<point segment="57" xCoord="21.894756" yCoord="35.96404"/>
+	<point segment="57" xCoord="22.222932" yCoord="35.896913"/>
+	<point segment="57" xCoord="22.59586" yCoord="35.852161"/>
+	<point segment="57" xCoord="22.901661" yCoord="35.852161"/>
+	<point segment="57" xCoord="23.16271" yCoord="35.881995"/>
+	<point segment="57" xCoord="23.408842" yCoord="35.978957"/>
+	<point segment="57" xCoord="23.602765" yCoord="36.105752"/>
+	<point segment="57" xCoord="23.789229" yCoord="36.232548"/>
+	<point segment="57" xCoord="23.930941" yCoord="36.396636"/>
+	<point segment="57" xCoord="24.057737" yCoord="36.568183"/>
+	<point segment="57" xCoord="24.147239" yCoord="36.739729"/>
+	<point segment="57" xCoord="24.259118" yCoord="36.903818"/>
+	<point segment="57" xCoord="24.378455" yCoord="37.090281"/>
+	<point segment="57" xCoord="24.520167" yCoord="37.239452"/>
+	<point segment="57" xCoord="24.71409" yCoord="37.351331"/>
+	<point segment="57" xCoord="24.900553" yCoord="37.403541"/>
+	<point segment="57" xCoord="25.236188" yCoord="37.485585"/>
+	<point segment="57" xCoord="25.467404" yCoord="37.530336"/>
+	<point segment="57" xCoord="25.698619" yCoord="37.567629"/>
+	</seg>
+<seg>
+	<point segment="58" xCoord="25.698619" yCoord="37.567629"/>
+	<point segment="58" xCoord="25.809442" yCoord="37.449418"/>
+	<point segment="58" xCoord="25.986827" yCoord="37.264542"/>
+	<point segment="58" xCoord="26.169409" yCoord="37.102575"/>
+	<point segment="58" xCoord="26.346684" yCoord="36.917906"/>
+	<point segment="58" xCoord="26.481564" yCoord="36.734468"/>
+	<point segment="58" xCoord="26.578744" yCoord="36.560721"/>
+	<point segment="58" xCoord="26.611046" yCoord="36.414996"/>
+	<point segment="58" xCoord="26.629912" yCoord="36.22094"/>
+	</seg>
+<seg>
+	<point segment="59" xCoord="29.935472" yCoord="31.218593"/>
+	<point segment="59" xCoord="29.900271" yCoord="31.441669"/>
+	<point segment="59" xCoord="29.848319" yCoord="31.606186"/>
+	<point segment="59" xCoord="29.713893" yCoord="31.883438"/>
+	<point segment="59" xCoord="29.587869" yCoord="32.093478"/>
+	<point segment="59" xCoord="29.404787" yCoord="32.336552"/>
+	<point segment="59" xCoord="29.232699" yCoord="32.534453"/>
+	<point segment="59" xCoord="29.050168" yCoord="32.715196"/>
+	<point segment="59" xCoord="28.901431" yCoord="32.831304"/>
+	<point segment="59" xCoord="28.706903" yCoord="32.966529"/>
+	<point segment="59" xCoord="28.608881" yCoord="33.029205"/>
+	<point segment="59" xCoord="28.458247" yCoord="33.116933"/>
+	<point segment="59" xCoord="28.232244" yCoord="33.249418"/>
+	<point segment="59" xCoord="28.075409" yCoord="33.338963"/>
+	<point segment="59" xCoord="27.881811" yCoord="33.45082"/>
+	<point segment="59" xCoord="27.685909" yCoord="33.563214"/>
+	<point segment="59" xCoord="27.523063" yCoord="33.652716"/>
+	<point segment="59" xCoord="27.335432" yCoord="33.756276"/>
+	<point segment="59" xCoord="27.098811" yCoord="33.898249"/>
+	<point segment="59" xCoord="26.810772" yCoord="34.053821"/>
+	<point segment="59" xCoord="26.548131" yCoord="34.160682"/>
+	<point segment="59" xCoord="26.320165" yCoord="34.252716"/>
+	<point segment="59" xCoord="26.143217" yCoord="34.311498"/>
+	<point segment="59" xCoord="25.803039" yCoord="34.411831"/>
+	<point segment="59" xCoord="25.622319" yCoord="34.471128"/>
+	<point segment="59" xCoord="25.109822" yCoord="34.622357"/>
+	<point segment="59" xCoord="24.807364" yCoord="34.706373"/>
+	<point segment="59" xCoord="24.530112" yCoord="34.783102"/>
+	<point segment="59" xCoord="24.278064" yCoord="34.840798"/>
+	<point segment="59" xCoord="23.925197" yCoord="34.899609"/>
+	<point segment="59" xCoord="23.589134" yCoord="34.958421"/>
+	<point segment="59" xCoord="23.236267" yCoord="35.05924"/>
+	<point segment="59" xCoord="22.925408" yCoord="35.16846"/>
+	<point segment="59" xCoord="22.660501" yCoord="35.300228"/>
+	<point segment="59" xCoord="22.295289" yCoord="35.53813"/>
+	<point segment="59" xCoord="22.051643" yCoord="35.731367"/>
+	<point segment="59" xCoord="21.833201" yCoord="35.890997"/>
+	<point segment="59" xCoord="21.553107" yCoord="36.065666"/>
+	</seg>
+<seg>
+	<point segment="60" xCoord="26.629912" yCoord="36.22094"/>
+	<point segment="60" xCoord="26.635303" yCoord="36.10235"/>
+	<point segment="60" xCoord="26.654169" yCoord="35.91638"/>
+	<point segment="60" xCoord="26.664116" yCoord="35.815383"/>
+	<point segment="60" xCoord="26.678426" yCoord="35.722324"/>
+	<point segment="60" xCoord="26.705379" yCoord="35.633381"/>
+	<point segment="60" xCoord="26.756533" yCoord="35.529729"/>
+	<point segment="60" xCoord="26.84553" yCoord="35.404287"/>
+	<point segment="60" xCoord="26.999158" yCoord="35.221012"/>
+	<point segment="60" xCoord="27.126203" yCoord="35.101248"/>
+	<point segment="60" xCoord="27.31944" yCoord="34.941617"/>
+	<point segment="60" xCoord="27.524726" yCoord="34.805948"/>
+	<point segment="60" xCoord="27.672307" yCoord="34.731578"/>
+	<point segment="60" xCoord="27.873945" yCoord="34.647562"/>
+	<point segment="60" xCoord="28.21841" yCoord="34.47953"/>
+	<point segment="60" xCoord="28.58808" yCoord="34.294695"/>
+	<point segment="60" xCoord="28.856931" yCoord="34.151868"/>
+	<point segment="60" xCoord="29.142585" yCoord="33.941828"/>
+	<point segment="60" xCoord="29.361027" yCoord="33.765395"/>
+	<point segment="60" xCoord="29.579468" yCoord="33.513347"/>
+	<point segment="60" xCoord="29.755901" yCoord="33.252898"/>
+	<point segment="60" xCoord="29.881012" yCoord="33.00779"/>
+	<point segment="60" xCoord="29.949138" yCoord="32.79081"/>
+	<point segment="60" xCoord="29.989502" yCoord="32.593921"/>
+	<point segment="60" xCoord="30.005575" yCoord="32.405068"/>
+	<point segment="60" xCoord="30.005575" yCoord="32.24836"/>
+	<point segment="60" xCoord="30.005575" yCoord="31.926908"/>
+	<point segment="60" xCoord="29.999547" yCoord="31.606186"/>
+	<point segment="60" xCoord="29.977448" yCoord="31.432675"/>
+	<point segment="60" xCoord="29.935472" yCoord="31.218593"/>
+	</seg>
+<seg>
+	<point segment="61" xCoord="28.995285" yCoord="41.066027"/>
+	<point segment="61" xCoord="28.959198" yCoord="40.964984"/>
+	<point segment="61" xCoord="28.917573" yCoord="40.902037"/>
+	<point segment="61" xCoord="28.83741" yCoord="40.831305"/>
+	<point segment="61" xCoord="28.738385" yCoord="40.798297"/>
+	<point segment="61" xCoord="28.57806" yCoord="40.798297"/>
+	<point segment="61" xCoord="28.396243" yCoord="40.791767"/>
+	<point segment="61" xCoord="28.194156" yCoord="40.791767"/>
+	<point segment="61" xCoord="27.927113" yCoord="40.770114"/>
+	<point segment="61" xCoord="27.762284" yCoord="40.760573"/>
+	<point segment="61" xCoord="27.550088" yCoord="40.713419"/>
+	<point segment="61" xCoord="27.314315" yCoord="40.609678"/>
+	<point segment="61" xCoord="27.068245" yCoord="40.524724"/>
+	<point segment="61" xCoord="26.822854" yCoord="40.45255"/>
+	<point segment="61" xCoord="26.64242" yCoord="40.351507"/>
+	<point segment="61" xCoord="26.50529" yCoord="40.257681"/>
+	<point segment="61" xCoord="26.418376" yCoord="40.190002"/>
+	<point segment="61" xCoord="26.346507" yCoord="40.098898"/>
+	<point segment="61" xCoord="26.149594" yCoord="40.001383"/>
+	<point segment="61" xCoord="25.880813" yCoord="39.831626"/>
+	<point segment="61" xCoord="25.696943" yCoord="39.629769"/>
+	<point segment="61" xCoord="25.607316" yCoord="39.46382"/>
+	<point segment="61" xCoord="25.522437" yCoord="39.279917"/>
+	<point segment="61" xCoord="25.461136" yCoord="39.124306"/>
+	<point segment="61" xCoord="25.408248" yCoord="38.908031"/>
+	<point segment="61" xCoord="25.390404" yCoord="38.685768"/>
+	<point segment="61" xCoord="25.404551" yCoord="38.435848"/>
+	<point segment="61" xCoord="25.437559" yCoord="38.223652"/>
+	<point segment="61" xCoord="25.465852" yCoord="38.039749"/>
+	<point segment="61" xCoord="25.527153" yCoord="37.8417"/>
+	<point segment="61" xCoord="25.606876" yCoord="37.680144"/>
+	<point segment="61" xCoord="25.698619" yCoord="37.567629"/>
+	</seg>
+<seg>
+	<point segment="62" xCoord="19.451567" yCoord="41.325526"/>
+	<point segment="62" xCoord="19.409415" yCoord="41.265351"/>
+	<point segment="62" xCoord="19.355443" yCoord="41.170107"/>
+	<point segment="62" xCoord="19.288772" yCoord="41.052638"/>
+	<point segment="62" xCoord="19.227584" yCoord="40.946715"/>
+	<point segment="62" xCoord="19.16885" yCoord="40.79721"/>
+	<point segment="62" xCoord="19.104776" yCoord="40.578291"/>
+	<point segment="62" xCoord="19.084215" yCoord="40.368184"/>
+	<point segment="62" xCoord="19.091636" yCoord="40.234601"/>
+	<point segment="62" xCoord="19.11761" yCoord="40.015674"/>
+	<point segment="62" xCoord="19.158427" yCoord="39.87467"/>
+	<point segment="62" xCoord="19.217797" yCoord="39.715113"/>
+	<point segment="62" xCoord="19.303142" yCoord="39.562977"/>
+	<point segment="62" xCoord="19.404053" yCoord="39.419868"/>
+	<point segment="62" xCoord="19.533201" yCoord="39.258706"/>
+	<point segment="62" xCoord="19.688589" yCoord="39.150422"/>
+	<point segment="62" xCoord="19.811498" yCoord="39.073174"/>
+	<point segment="62" xCoord="19.948791" yCoord="39.028647"/>
+	<point segment="62" xCoord="20.108349" yCoord="39.010094"/>
+	<point segment="62" xCoord="20.29388" yCoord="38.998962"/>
+	<point segment="62" xCoord="20.505386" yCoord="38.991541"/>
+	<point segment="62" xCoord="20.753426" yCoord="38.96029"/>
+	</seg>
+<seg>
+	<point segment="63" xCoord="28.995285" yCoord="41.066027"/>
+	<point segment="63" xCoord="28.789811" yCoord="41.147208"/>
+	<point segment="63" xCoord="28.548195" yCoord="41.2359"/>
+	<point segment="63" xCoord="28.338642" yCoord="41.318066"/>
+	<point segment="63" xCoord="28.123552" yCoord="41.401615"/>
+	</seg>
+<seg>
+	<point segment="64" xCoord="28.123552" yCoord="41.401615"/>
+	<point segment="64" xCoord="27.914133" yCoord="41.420208"/>
+	<point segment="64" xCoord="27.685704" yCoord="41.424967"/>
+	<point segment="64" xCoord="27.43824" yCoord="41.439244"/>
+	<point segment="64" xCoord="27.143186" yCoord="41.467798"/>
+	<point segment="64" xCoord="26.839267" yCoord="41.505186"/>
+	<point segment="64" xCoord="26.491213" yCoord="41.562976"/>
+	<point segment="64" xCoord="26.162847" yCoord="41.620083"/>
+	<point segment="64" xCoord="25.958213" yCoord="41.667673"/>
+	<point segment="64" xCoord="25.75358" yCoord="41.734298"/>
+	<point segment="64" xCoord="25.544624" yCoord="41.8159"/>
+	<point segment="64" xCoord="25.349071" yCoord="41.90086"/>
+	<point segment="64" xCoord="25.177749" yCoord="41.972244"/>
+	<point segment="64" xCoord="24.992151" yCoord="42.053146"/>
+	<point segment="64" xCoord="24.792276" yCoord="42.110253"/>
+	<point segment="64" xCoord="24.550339" yCoord="42.157686"/>
+	<point segment="64" xCoord="24.00141" yCoord="42.230186"/>
+	<point segment="64" xCoord="23.659625" yCoord="42.261257"/>
+	</seg>
+<seg>
+	<point segment="65" xCoord="29.822123" yCoord="46.890899"/>
+	<point segment="65" xCoord="29.532123" yCoord="46.611257"/>
+	<point segment="65" xCoord="29.169624" yCoord="46.259114"/>
+	<point segment="65" xCoord="28.765695" yCoord="45.906971"/>
+	<point segment="65" xCoord="28.247838" yCoord="45.420185"/>
+	<point segment="65" xCoord="27.895695" yCoord="45.068043"/>
+	<point segment="65" xCoord="27.685704" yCoord="44.860913"/>
+	<point segment="65" xCoord="27.485829" yCoord="44.627726"/>
+	<point segment="65" xCoord="27.284624" yCoord="44.3534"/>
+	<point segment="65" xCoord="27.098195" yCoord="44.011614"/>
+	<point segment="65" xCoord="27.014695" yCoord="43.85202"/>
+	<point segment="65" xCoord="26.929035" yCoord="43.637869"/>
+	<point segment="65" xCoord="26.839267" yCoord="43.317686"/>
+	<point segment="65" xCoord="26.791026" yCoord="43.090592"/>
+	<point segment="65" xCoord="26.766767" yCoord="42.861972"/>
+	<point segment="65" xCoord="26.752954" yCoord="42.70036"/>
+	<point segment="65" xCoord="26.757713" yCoord="42.519521"/>
+	<point segment="65" xCoord="26.766767" yCoord="42.3234"/>
+	<point segment="65" xCoord="26.790567" yCoord="42.238375"/>
+	<point segment="65" xCoord="26.827118" yCoord="42.157579"/>
+	<point segment="65" xCoord="26.8906" yCoord="42.07486"/>
+	<point segment="65" xCoord="26.9637" yCoord="42.001759"/>
+	<point segment="65" xCoord="27.077481" yCoord="41.929829"/>
+	<point segment="65" xCoord="27.225324" yCoord="41.844016"/>
+	<point segment="65" xCoord="27.356136" yCoord="41.770915"/>
+	<point segment="65" xCoord="27.499001" yCoord="41.692081"/>
+	<point segment="65" xCoord="27.714258" yCoord="41.577253"/>
+	<point segment="65" xCoord="27.904615" yCoord="41.486833"/>
+	<point segment="65" xCoord="28.123552" yCoord="41.401615"/>
+	</seg>
+<seg>
+	<point segment="66" xCoord="18.094292" yCoord="42.652668"/>
+	<point segment="66" xCoord="18.084917" yCoord="42.504237"/>
+	<point segment="66" xCoord="18.088112" yCoord="42.359878"/>
+	<point segment="66" xCoord="18.102651" yCoord="42.209635"/>
+	<point segment="66" xCoord="18.12625" yCoord="42.124482"/>
+	<point segment="66" xCoord="18.162418" yCoord="42.00823"/>
+	<point segment="66" xCoord="18.232169" yCoord="41.879062"/>
+	<point segment="66" xCoord="18.327753" yCoord="41.74731"/>
+	<point segment="66" xCoord="18.418171" yCoord="41.664642"/>
+	<point segment="66" xCoord="18.534423" yCoord="41.571641"/>
+	<point segment="66" xCoord="18.658424" yCoord="41.491557"/>
+	<point segment="66" xCoord="18.779842" yCoord="41.432139"/>
+	<point segment="66" xCoord="18.919344" yCoord="41.372722"/>
+	<point segment="66" xCoord="19.022679" yCoord="41.341721"/>
+	<point segment="66" xCoord="19.164764" yCoord="41.318471"/>
+	<point segment="66" xCoord="19.317183" yCoord="41.313304"/>
+	<point segment="66" xCoord="19.451567" yCoord="41.325526"/>
+	</seg>
+<seg>
+	<point segment="67" xCoord="18.094292" yCoord="42.652668"/>
+	<point segment="67" xCoord="18.068383" yCoord="42.602403"/>
+	<point segment="67" xCoord="18.029356" yCoord="42.551368"/>
+	<point segment="67" xCoord="17.989332" yCoord="42.511987"/>
+	<point segment="67" xCoord="17.945299" yCoord="42.479319"/>
+	<point segment="67" xCoord="17.86533" yCoord="42.437069"/>
+	<point segment="67" xCoord="17.798198" yCoord="42.407269"/>
+	<point segment="67" xCoord="17.732153" yCoord="42.381752"/>
+	<point segment="67" xCoord="17.666108" yCoord="42.359236"/>
+	<point segment="67" xCoord="17.574546" yCoord="42.33522"/>
+	<point segment="67" xCoord="17.506242" yCoord="42.323401"/>
+	<point segment="67" xCoord="17.436451" yCoord="42.314206"/>
+	<point segment="67" xCoord="17.346073" yCoord="42.305318"/>
+	<point segment="67" xCoord="17.238081" yCoord="42.298305"/>
+	<point segment="67" xCoord="17.147154" yCoord="42.292401"/>
+	<point segment="67" xCoord="17.061195" yCoord="42.288688"/>
+	<point segment="67" xCoord="16.954622" yCoord="42.285686"/>
+	<point segment="67" xCoord="16.855234" yCoord="42.284651"/>
+	<point segment="67" xCoord="16.746732" yCoord="42.287234"/>
+	<point segment="67" xCoord="16.656314" yCoord="42.294984"/>
+	</seg>
+<seg>
+	<point segment="68" xCoord="18.785382" yCoord="39.90885"/>
+	<point segment="68" xCoord="18.794461" yCoord="39.962684"/>
+	<point segment="68" xCoord="18.803171" yCoord="40.019196"/>
+	<point segment="68" xCoord="18.807587" yCoord="40.066308"/>
+	<point segment="68" xCoord="18.803171" yCoord="40.135505"/>
+	<point segment="68" xCoord="18.78992" yCoord="40.206173"/>
+	<point segment="68" xCoord="18.77667" yCoord="40.259175"/>
+	<point segment="68" xCoord="18.760475" yCoord="40.322482"/>
+	<point segment="68" xCoord="18.739819" yCoord="40.380859"/>
+	<point segment="68" xCoord="18.691281" yCoord="40.493103"/>
+	<point segment="68" xCoord="18.61544" yCoord="40.629617"/>
+	<point segment="68" xCoord="18.508899" yCoord="40.776919"/>
+	<point segment="68" xCoord="18.369715" yCoord="40.942082"/>
+	<point segment="68" xCoord="18.242302" yCoord="41.09073"/>
+	<point segment="68" xCoord="18.080558" yCoord="41.259286"/>
+	<point segment="68" xCoord="17.918482" yCoord="41.413643"/>
+	<point segment="68" xCoord="17.793323" yCoord="41.524541"/>
+	<point segment="68" xCoord="17.687146" yCoord="41.618584"/>
+	<point segment="68" xCoord="17.482423" yCoord="41.760947"/>
+	<point segment="68" xCoord="17.262392" yCoord="41.920123"/>
+	<point segment="68" xCoord="17.13503" yCoord="42.006018"/>
+	<point segment="68" xCoord="16.989898" yCoord="42.100799"/>
+	<point segment="68" xCoord="16.835879" yCoord="42.192618"/>
+	<point segment="68" xCoord="16.656314" yCoord="42.294984"/>
+		</seg>
+<seg>
+	<point segment="69" xCoord="16.656314" yCoord="42.294984"/>
+	<point segment="69" xCoord="16.537522" yCoord="42.337783"/>
+	<point segment="69" xCoord="16.368357" yCoord="42.396116"/>
+	<point segment="69" xCoord="16.152526" yCoord="42.489448"/>
+	<point segment="69" xCoord="15.884196" yCoord="42.61778"/>
+	<point segment="69" xCoord="15.487533" yCoord="42.868611"/>
+	<point segment="69" xCoord="15.230869" yCoord="43.043609"/>
+	<point segment="69" xCoord="14.974205" yCoord="43.27694"/>
+	<point segment="69" xCoord="14.688374" yCoord="43.545271"/>
+	<point segment="69" xCoord="14.373378" yCoord="43.842768"/>
+	<point segment="69" xCoord="14.070047" yCoord="44.140265"/>
+	<point segment="69" xCoord="13.679218" yCoord="44.484428"/>
+	<point segment="69" xCoord="13.329222" yCoord="44.793591"/>
+	<point segment="69" xCoord="13.055058" yCoord="44.997756"/>
+	<point segment="69" xCoord="12.786727" yCoord="45.172754"/>
+	<point segment="69" xCoord="12.537863" yCoord="45.330951"/>
+	<point segment="69" xCoord="12.308035" yCoord="45.510912"/>
+	</seg>
+<seg>
+	<point segment="70" xCoord="14.249359" yCoord="40.833501"/>
+	<point segment="70" xCoord="14.241785" yCoord="40.869922"/>
+	<point segment="70" xCoord="14.238883" yCoord="40.939562"/>
+	<point segment="70" xCoord="14.209867" yCoord="41.052728"/>
+	<point segment="70" xCoord="14.172145" yCoord="41.165893"/>
+	<point segment="70" xCoord="14.093799" yCoord="41.302272"/>
+	<point segment="70" xCoord="13.942912" yCoord="41.467668"/>
+	<point segment="70" xCoord="13.850058" yCoord="41.554719"/>
+	<point segment="70" xCoord="13.687564" yCoord="41.650474"/>
+	<point segment="70" xCoord="13.568595" yCoord="41.723016"/>
+	<point segment="70" xCoord="13.452528" yCoord="41.760738"/>
+	<point segment="70" xCoord="13.118835" yCoord="41.836181"/>
+	<point segment="70" xCoord="12.921521" yCoord="41.856493"/>
+	<point segment="70" xCoord="12.698091" yCoord="41.88551"/>
+	<point segment="70" xCoord="12.518187" yCoord="41.879707"/>
+	</seg>
+<seg>
+	<point segment="71" xCoord="12.518187" yCoord="41.879707"/>
+	<point segment="71" xCoord="12.425334" yCoord="41.900018"/>
+	<point segment="71" xCoord="12.291856" yCoord="41.987069"/>
+	<point segment="71" xCoord="12.135166" yCoord="42.108939"/>
+	<point segment="71" xCoord="11.992983" yCoord="42.236613"/>
+	<point segment="71" xCoord="11.810177" yCoord="42.486158"/>
+	<point segment="71" xCoord="11.64188" yCoord="42.764719"/>
+	<point segment="71" xCoord="11.476484" yCoord="43.057789"/>
+	<point segment="71" xCoord="11.398139" yCoord="43.194168"/>
+	<point segment="71" xCoord="11.329769" yCoord="43.317567"/>
+	</seg>
+<seg>
+	<point segment="72" xCoord="11.329769" yCoord="43.317567"/>
+	<point segment="72" xCoord="11.304453" yCoord="43.366321"/>
+	<point segment="72" xCoord="11.275927" yCoord="43.432477"/>
+	<point segment="72" xCoord="11.248615" yCoord="43.511378"/>
+	<point segment="72" xCoord="11.231621" yCoord="43.5921"/>
+	<point segment="72" xCoord="11.22009" yCoord="43.670394"/>
+	<point segment="72" xCoord="11.210379" yCoord="43.741405"/>
+	<point segment="72" xCoord="11.207344" yCoord="43.781463"/>
+	</seg>
+<seg>
+	<point segment="73" xCoord="11.207344" yCoord="43.781463"/>
+	<point segment="73" xCoord="11.208873" yCoord="43.961582"/>
+	<point segment="73" xCoord="11.246387" yCoord="44.160406"/>
+	<point segment="73" xCoord="11.310161" yCoord="44.359231"/>
+	<point segment="73" xCoord="11.490229" yCoord="44.663095"/>
+	<point segment="73" xCoord="11.68155" yCoord="44.940699"/>
+	<point segment="73" xCoord="11.846612" yCoord="45.147026"/>
+	<point segment="73" xCoord="12.015425" yCoord="45.315839"/>
+	<point segment="73" xCoord="12.172984" yCoord="45.443387"/>
+	<point segment="73" xCoord="12.308035" yCoord="45.510912"/>
+	</seg>
+<seg>
+	<point segment="74" xCoord="8.869324" yCoord="44.414917"/>
+	<point segment="74" xCoord="8.921885" yCoord="44.477989"/>
+	<point segment="74" xCoord="8.953421" yCoord="44.499013"/>
+	<point segment="74" xCoord="9.037517" yCoord="44.541061"/>
+	<point segment="74" xCoord="9.153149" yCoord="44.625157"/>
+	<point segment="74" xCoord="9.25827" yCoord="44.709253"/>
+	<point segment="74" xCoord="9.331854" yCoord="44.84591"/>
+	<point segment="74" xCoord="9.331854" yCoord="45.066662"/>
+	<point segment="74" xCoord="9.331854" yCoord="45.224343"/>
+	<point segment="74" xCoord="9.25827" yCoord="45.339975"/>
+	<point segment="74" xCoord="9.184685" yCoord="45.476632"/>
+	</seg>
+<seg>
+	<point segment="75" xCoord="9.184685" yCoord="45.476632"/>
+	<point segment="75" xCoord="9.037517" yCoord="45.455608"/>
+	<point segment="75" xCoord="8.921885" yCoord="45.445096"/>
+	<point segment="75" xCoord="8.74318" yCoord="45.413559"/>
+	<point segment="75" xCoord="8.574988" yCoord="45.392535"/>
+	<point segment="75" xCoord="8.354235" yCoord="45.276903"/>
+	<point segment="75" xCoord="8.112458" yCoord="45.203319"/>
+	<point segment="75" xCoord="7.849657" yCoord="45.119223"/>
+	<point segment="75" xCoord="7.681465" yCoord="45.024614"/>
+	<point segment="75" xCoord="7.492248" yCoord="44.95103"/>
+	<point segment="75" xCoord="7.155863" yCoord="44.667205"/>
+	<point segment="75" xCoord="6.77743" yCoord="44.530549"/>
+	<point segment="75" xCoord="6.451557" yCoord="44.372868"/>
+	<point segment="75" xCoord="6.178244" yCoord="44.17314"/>
+	<point segment="75" xCoord="6.083636" yCoord="44.141604"/>
+	<point segment="75" xCoord="5.957492" yCoord="44.004947"/>
+	<point segment="75" xCoord="5.768275" yCoord="43.889315"/>
+	<point segment="75" xCoord="5.505474" yCoord="43.65805"/>
+	<point segment="75" xCoord="5.377479" yCoord="43.284642"/>
+	</seg>
+<seg>
+	<point segment="76" xCoord="5.377479" yCoord="43.284642"/>
+	<point segment="76" xCoord="5.337282" yCoord="43.437298"/>
+	<point segment="76" xCoord="5.263698" yCoord="43.563442"/>
+	<point segment="76" xCoord="5.116529" yCoord="43.721122"/>
+	<point segment="76" xCoord="4.979873" yCoord="43.847267"/>
+	<point segment="76" xCoord="4.790656" yCoord="43.952387"/>
+	</seg>
+<seg>
+	<point segment="77" xCoord="8.881719" yCoord="44.413712"/>
+	<point segment="77" xCoord="8.868943" yCoord="44.384753"/>
+	<point segment="77" xCoord="8.860426" yCoord="44.355794"/>
+	<point segment="77" xCoord="8.853612" yCoord="44.321725"/>
+	<point segment="77" xCoord="8.852761" yCoord="44.276584"/>
+	<point segment="77" xCoord="8.852761" yCoord="44.235701"/>
+	<point segment="77" xCoord="8.85444" yCoord="44.199856"/>
+	<point segment="77" xCoord="8.859574" yCoord="44.147973"/>
+	<point segment="77" xCoord="8.874906" yCoord="44.09261"/>
+	<point segment="77" xCoord="8.887681" yCoord="44.0628"/>
+	<point segment="77" xCoord="8.90642" yCoord="44.026175"/>
+	<point segment="77" xCoord="8.928564" yCoord="43.989551"/>
+	<point segment="77" xCoord="8.955915" yCoord="43.953416"/>
+	<point segment="77" xCoord="8.99578" yCoord="43.909927"/>
+	<point segment="77" xCoord="9.055578" yCoord="43.850129"/>
+	<point segment="77" xCoord="9.126248" yCoord="43.793955"/>
+	<point segment="77" xCoord="9.205709" yCoord="43.731635"/>
+	<point segment="77" xCoord="9.352878" yCoord="43.594978"/>
+	<point segment="77" xCoord="9.477083" yCoord="43.451787"/>
+	<point segment="77" xCoord="9.615679" yCoord="43.258593"/>
+	<point segment="77" xCoord="9.702505" yCoord="43.103408"/>
+	<point segment="77" xCoord="9.815407" yCoord="42.911696"/>
+	<point segment="77" xCoord="9.973088" yCoord="42.627871"/>
+	<point segment="77" xCoord="10.071377" yCoord="42.427142"/>
+	<point segment="77" xCoord="10.162304" yCoord="42.123294"/>
+	<point segment="77" xCoord="10.23532" yCoord="41.839679"/>
+	<point segment="77" xCoord="10.276306" yCoord="41.586933"/>
+	<point segment="77" xCoord="10.30363" yCoord="41.388835"/>
+	<point segment="77" xCoord="10.319985" yCoord="41.156187"/>
+	<point segment="77" xCoord="10.337785" yCoord="40.739893"/>
+	<point segment="77" xCoord="10.344616" yCoord="40.282218"/>
+	<point segment="77" xCoord="10.343896" yCoord="38.804741"/>
+	</seg>
+<seg>
+	<point segment="78" xCoord="10.394135" yCoord="43.71641"/>
+	<point segment="78" xCoord="10.267425" yCoord="43.689586"/>
+	<point segment="78" xCoord="10.172816" yCoord="43.679074"/>
+	<point segment="78" xCoord="10.060765" yCoord="43.67367"/>
+	<point segment="78" xCoord="9.969587" yCoord="43.675094"/>
+	<point segment="78" xCoord="9.888991" yCoord="43.679074"/>
+	<point segment="78" xCoord="9.783871" yCoord="43.700098"/>
+	<point segment="78" xCoord="9.703175" yCoord="43.732081"/>
+	<point segment="78" xCoord="9.60671" yCoord="43.777128"/>
+	<point segment="78" xCoord="9.479022" yCoord="43.836755"/>
+	<point segment="78" xCoord="9.321342" yCoord="43.920851"/>
+	<point segment="78" xCoord="9.195197" yCoord="44.015459"/>
+	<point segment="78" xCoord="9.090077" yCoord="44.099556"/>
+	<point segment="78" xCoord="9.044982" yCoord="44.139534"/>
+	<point segment="78" xCoord="8.993694" yCoord="44.192246"/>
+	<point segment="78" xCoord="8.940982" yCoord="44.249232"/>
+	<point segment="78" xCoord="8.922602" yCoord="44.277435"/>
+	<point segment="78" xCoord="8.904716" yCoord="44.307246"/>
+	<point segment="78" xCoord="8.891088" yCoord="44.33365"/>
+	<point segment="78" xCoord="8.885126" yCoord="44.357498"/>
+	<point segment="78" xCoord="8.881719" yCoord="44.379643"/>
+	<point segment="78" xCoord="8.881719" yCoord="44.413712"/>
+	</seg>
+<seg>
+	<point segment="79" xCoord="14.249359" yCoord="40.833501"/>
+	<point segment="79" xCoord="14.009708" yCoord="40.75673"/>
+	<point segment="79" xCoord="13.862539" yCoord="40.75673"/>
+	<point segment="79" xCoord="13.631274" yCoord="40.767242"/>
+	<point segment="79" xCoord="13.484106" yCoord="40.767242"/>
+	<point segment="79" xCoord="13.306352" yCoord="40.774961"/>
+	<point segment="79" xCoord="13.073341" yCoord="40.80873"/>
+	<point segment="79" xCoord="12.877477" yCoord="40.845877"/>
+	<point segment="79" xCoord="12.681612" yCoord="40.893155"/>
+	<point segment="79" xCoord="12.499256" yCoord="40.937055"/>
+	<point segment="79" xCoord="12.303391" yCoord="40.994464"/>
+	<point segment="79" xCoord="12.096518" yCoord="41.072091"/>
+	<point segment="79" xCoord="11.915039" yCoord="41.153182"/>
+	<point segment="79" xCoord="11.759699" yCoord="41.247737"/>
+	<point segment="79" xCoord="11.621243" yCoord="41.332161"/>
+	<point segment="79" xCoord="11.459148" yCoord="41.436847"/>
+	<point segment="79" xCoord="11.318628" yCoord="41.53462"/>
+	<point segment="79" xCoord="11.202995" yCoord="41.608204"/>
+	<point segment="79" xCoord="11.104566" yCoord="41.679989"/>
+	<point segment="79" xCoord="10.976241" yCoord="41.777922"/>
+	<point segment="79" xCoord="10.893372" yCoord="41.850322"/>
+	<point segment="79" xCoord="10.816718" yCoord="41.91556"/>
+	<point segment="79" xCoord="10.746587" yCoord="41.977536"/>
+	<point segment="79" xCoord="10.671563" yCoord="42.046036"/>
+	<point segment="79" xCoord="10.603064" yCoord="42.103119"/>
+	<point segment="79" xCoord="10.518254" yCoord="42.183035"/>
+	<point segment="79" xCoord="10.435617" yCoord="42.25995"/>
+	<point segment="79" xCoord="10.351521" yCoord="42.344046"/>
+	<point segment="79" xCoord="10.283398" yCoord="42.412999"/>
+	<point segment="79" xCoord="10.231208" yCoord="42.48313"/>
+	<point segment="79" xCoord="10.188984" yCoord="42.556736"/>
+	<point segment="79" xCoord="10.136272" yCoord="42.64649"/>
+	<point segment="79" xCoord="10.099232" yCoord="42.732992"/>
+	<point segment="79" xCoord="10.08872" yCoord="42.785552"/>
+	<point segment="79" xCoord="10.084984" yCoord="42.845942"/>
+	<point segment="79" xCoord="10.083559" yCoord="42.9186"/>
+	<point segment="79" xCoord="10.083559" yCoord="42.994107"/>
+	<point segment="79" xCoord="10.08872" yCoord="43.079889"/>
+	<point segment="79" xCoord="10.094957" yCoord="43.152244"/>
+	<point segment="79" xCoord="10.106354" yCoord="43.234874"/>
+	<point segment="79" xCoord="10.127724" yCoord="43.314655"/>
+	<point segment="79" xCoord="10.151792" yCoord="43.384737"/>
+	<point segment="79" xCoord="10.197532" yCoord="43.459971"/>
+	<point segment="79" xCoord="10.241697" yCoord="43.516957"/>
+	<point segment="79" xCoord="10.274464" yCoord="43.565396"/>
+	<point segment="79" xCoord="10.309473" yCoord="43.616002"/>
+	<point segment="79" xCoord="10.355669" yCoord="43.675094"/>
+	<point segment="79" xCoord="10.394135" yCoord="43.71641"/>
+	</seg>
+<seg>
+	<point segment="80" xCoord="-3.702516" yCoord="40.426525"/>
+	<point segment="80" xCoord="-3.586891" yCoord="40.444265"/>
+	<point segment="80" xCoord="-3.386591" yCoord="40.444265"/>
+	<point segment="80" xCoord="-3.062295" yCoord="40.511032"/>
+	<point segment="80" xCoord="-2.842919" yCoord="40.673179"/>
+	<point segment="80" xCoord="-2.547238" yCoord="40.854403"/>
+	<point segment="80" xCoord="-2.327862" yCoord="41.054703"/>
+	<point segment="80" xCoord="-2.003567" yCoord="41.302693"/>
+	<point segment="80" xCoord="-1.88911" yCoord="41.436227"/>
+	<point segment="80" xCoord="-1.612505" yCoord="41.684217"/>
+	<point segment="80" xCoord="-1.450357" yCoord="41.884517"/>
+	<point segment="80" xCoord="-1.230981" yCoord="42.142046"/>
+	<point segment="80" xCoord="-1.049757" yCoord="42.609413"/>
+	<point segment="80" xCoord="-0.973452" yCoord="43.086317"/>
+	<point segment="80" xCoord="-0.9353" yCoord="43.496455"/>
+	<point segment="80" xCoord="-0.868533" yCoord="44.021051"/>
+	<point segment="80" xCoord="-0.811305" yCoord="44.354884"/>
+	<point segment="80" xCoord="-0.773152" yCoord="44.621951"/>
+	<point segment="80" xCoord="-0.611005" yCoord="44.841327"/>
+	</seg>
+<seg>
+	<point segment="81" xCoord="-0.611005" yCoord="44.841327"/>
+	<point segment="81" xCoord="-0.458395" yCoord="44.72687"/>
+	<point segment="81" xCoord="-0.401167" yCoord="44.545646"/>
+	<point segment="81" xCoord="-0.305786" yCoord="44.37396"/>
+	<point segment="81" xCoord="-0.200867" yCoord="44.259503"/>
+	<point segment="81" xCoord="0.11389" yCoord="44.240427"/>
+	<point segment="81" xCoord="0.371419" yCoord="44.221351"/>
+	<point segment="81" xCoord="0.848324" yCoord="44.17366"/>
+	<point segment="81" xCoord="1.0677" yCoord="44.106894"/>
+	<point segment="81" xCoord="1.172619" yCoord="43.916132"/>
+	<point segment="81" xCoord="1.172619" yCoord="43.715832"/>
+	<point segment="81" xCoord="1.144005" yCoord="43.448765"/>
+	<point segment="81" xCoord="1.105852" yCoord="43.057703"/>
+	<point segment="81" xCoord="1.105852" yCoord="42.77156"/>
+	<point segment="81" xCoord="1.163081" yCoord="42.409113"/>
+	<point segment="81" xCoord="1.239386" yCoord="42.151584"/>
+	<point segment="81" xCoord="1.353843" yCoord="41.913132"/>
+	<point segment="81" xCoord="1.582757" yCoord="41.674679"/>
+	<point segment="81" xCoord="1.802133" yCoord="41.502993"/>
+	<point segment="81" xCoord="2.059662" yCoord="41.417151"/>
+	<point segment="81" xCoord="2.154365" yCoord="41.363335"/>
+	</seg>
+<seg>
+	<point segment="82" xCoord="4.790656" yCoord="43.952387"/>
+	<point segment="82" xCoord="4.596795" yCoord="43.906594"/>
+	<point segment="82" xCoord="4.329729" yCoord="43.839827"/>
+	<point segment="82" xCoord="4.062662" yCoord="43.734908"/>
+	<point segment="82" xCoord="3.852824" yCoord="43.620451"/>
+	</seg>
+<seg>
+	<point segment="83" xCoord="3.852824" yCoord="43.620451"/>
+	<point segment="83" xCoord="3.652524" yCoord="43.553684"/>
+	<point segment="83" xCoord="3.280538" yCoord="43.429689"/>
+	<point segment="83" xCoord="2.965781" yCoord="43.286617"/>
+	<point segment="83" xCoord="2.746405" yCoord="43.143546"/>
+	<point segment="83" xCoord="2.374419" yCoord="42.857403"/>
+	<point segment="83" xCoord="2.231348" yCoord="42.580798"/>
+	<point segment="83" xCoord="2.231348" yCoord="42.275579"/>
+	<point segment="83" xCoord="2.164581" yCoord="41.960822"/>
+	<point segment="83" xCoord="2.164581" yCoord="41.665141"/>
+	<point segment="83" xCoord="2.154365" yCoord="41.363335"/>
+	</seg>
+<seg>
+	<point segment="84" xCoord="4.790656" yCoord="43.952387"/>
+	<point segment="84" xCoord="4.8734" yCoord="44.059203"/>
+	<point segment="84" xCoord="4.930629" yCoord="44.17366"/>
+	<point segment="84" xCoord="4.978319" yCoord="44.354884"/>
+	<point segment="84" xCoord="4.987857" yCoord="44.688717"/>
+	<point segment="84" xCoord="4.949705" yCoord="44.936708"/>
+	<point segment="84" xCoord="4.959243" yCoord="45.165622"/>
+	<point segment="84" xCoord="4.892476" yCoord="45.442227"/>
+	<point segment="84" xCoord="4.816172" yCoord="45.718832"/>
+	<point segment="84" xCoord="4.768481" yCoord="45.861903"/>
+	<point segment="84" xCoord="4.6731" yCoord="46.148046"/>
+	<point segment="84" xCoord="4.548389" yCoord="46.615677"/>
+	</seg>
+<seg>
+	<point segment="85" xCoord="9.184685" yCoord="45.476632"/>
+	<point segment="85" xCoord="9.052401" yCoord="45.503709"/>
+	<point segment="85" xCoord="8.870045" yCoord="45.508919"/>
+	<point segment="85" xCoord="8.442812" yCoord="45.508919"/>
+	<point segment="85" xCoord="7.973897" yCoord="45.508919"/>
+	<point segment="85" xCoord="7.400779" yCoord="45.503709"/>
+	<point segment="85" xCoord="6.80161" yCoord="45.508919"/>
+	<point segment="85" xCoord="6.332695" yCoord="45.514129"/>
+	<point segment="85" xCoord="5.962774" yCoord="45.55581"/>
+	<point segment="85" xCoord="5.446968" yCoord="45.795478"/>
+	<point segment="85" xCoord="5.134358" yCoord="46.029935"/>
+	<point segment="85" xCoord="4.790487" yCoord="46.358175"/>
+	<point segment="85" xCoord="4.548389" yCoord="46.615677"/>
+	</seg>
+<seg>
+	<point segment="86" xCoord="8.383419" yCoord="48.33227"/>
+	<point segment="86" xCoord="8.259424" yCoord="48.103356"/>
+	<point segment="86" xCoord="8.211734" yCoord="47.826751"/>
+	<point segment="86" xCoord="8.211734" yCoord="47.521532"/>
+	<point segment="86" xCoord="8.221272" yCoord="47.159084"/>
+	<point segment="86" xCoord="8.402495" yCoord="46.825251"/>
+	<point segment="86" xCoord="8.650486" yCoord="46.520032"/>
+	<point segment="86" xCoord="8.984319" yCoord="45.947746"/>
+	<point segment="86" xCoord="9.089238" yCoord="45.690217"/>
+	<point segment="86" xCoord="9.184685" yCoord="45.476632"/>
+	</seg>
+<seg>
+	<point segment="87" xCoord="10.8824" yCoord="48.360884"/>
+	<point segment="87" xCoord="10.691638" yCoord="48.360884"/>
+	<point segment="87" xCoord="10.367343" yCoord="48.360884"/>
+	<point segment="87" xCoord="9.728291" yCoord="48.37996"/>
+	<point segment="87" xCoord="9.241848" yCoord="48.37996"/>
+	<point segment="87" xCoord="8.383419" yCoord="48.33227"/>
+	</seg>
+<seg>
+	<point segment="88" xCoord="2.851324" yCoord="48.761484"/>
+	<point segment="88" xCoord="3.204233" yCoord="48.475341"/>
+	<point segment="88" xCoord="3.662062" yCoord="48.065203"/>
+	<point segment="88" xCoord="3.995895" yCoord="47.655065"/>
+	<point segment="88" xCoord="4.262962" yCoord="47.140008"/>
+	<point segment="88" xCoord="4.548389" yCoord="46.615677"/>
+	</seg>
+<seg>
+	<point segment="89" xCoord="2.851324" yCoord="48.761484"/>
+	<point segment="89" xCoord="2.679638" yCoord="48.828251"/>
+	<point segment="89" xCoord="2.42211" yCoord="48.885479"/>
+	</seg>
+<seg>
+	<point segment="90" xCoord="2.851324" yCoord="48.761484"/>
+	<point segment="90" xCoord="3.089776" yCoord="48.771022"/>
+	<point segment="90" xCoord="3.394995" yCoord="48.761484"/>
+	<point segment="90" xCoord="3.6716" yCoord="48.799637"/>
+	<point segment="90" xCoord="3.967281" yCoord="48.914094"/>
+	<point segment="90" xCoord="4.453724" yCoord="48.990398"/>
+	<point segment="90" xCoord="4.882938" yCoord="48.971322"/>
+	<point segment="90" xCoord="5.455224" yCoord="48.809175"/>
+	<point segment="90" xCoord="5.989357" yCoord="48.666103"/>
+	<point segment="90" xCoord="6.456724" yCoord="48.523032"/>
+	<point segment="90" xCoord="7.000395" yCoord="48.399037"/>
+	<point segment="90" xCoord="7.467762" yCoord="48.37996"/>
+	<point segment="90" xCoord="7.944667" yCoord="48.370422"/>
+	<point segment="90" xCoord="8.383419" yCoord="48.33227"/>
+	</seg>
+<seg>
+	<point segment="91" xCoord="2.42211" yCoord="48.885479"/>
+	<point segment="91" xCoord="2.298114" yCoord="48.437189"/>
+	<point segment="91" xCoord="2.126429" yCoord="48.007975"/>
+	<point segment="91" xCoord="1.878438" yCoord="47.483379"/>
+	<point segment="91" xCoord="1.563681" yCoord="47.073241"/>
+	<point segment="91" xCoord="1.315691" yCoord="46.758484"/>
+	<point segment="91" xCoord="0.810171" yCoord="46.281579"/>
+	<point segment="91" xCoord="0.352343" yCoord="45.709294"/>
+	<point segment="91" xCoord="-0.239019" yCoord="45.32777"/>
+	<point segment="91" xCoord="-0.611005" yCoord="44.841327"/>
+	</seg>
+<seg>
+	<point segment="92" xCoord="3.213772" yCoord="51.231851"/>
+	<point segment="92" xCoord="3.061162" yCoord="51.117394"/>
+	<point segment="92" xCoord="2.860862" yCoord="50.831251"/>
+	<point segment="92" xCoord="2.603333" yCoord="50.468803"/>
+	<point segment="92" xCoord="2.517491" yCoord="50.077741"/>
+	<point segment="92" xCoord="2.450724" yCoord="49.820213"/>
+	<point segment="92" xCoord="2.441186" yCoord="49.33377"/>
+	<point segment="92" xCoord="2.42211" yCoord="48.885479"/>
+	</seg>
+<seg>
+	<point segment="93" xCoord="8.383419" yCoord="48.33227"/>
+	<point segment="93" xCoord="8.373881" yCoord="48.542108"/>
+	<point segment="93" xCoord="8.354805" yCoord="48.923632"/>
+	<point segment="93" xCoord="8.23081" yCoord="49.247927"/>
+	<point segment="93" xCoord="8.03051" yCoord="49.543608"/>
+	<point segment="93" xCoord="7.916053" yCoord="49.78206"/>
+	<point segment="93" xCoord="7.715753" yCoord="50.077741"/>
+	<point segment="93" xCoord="7.544067" yCoord="50.344808"/>
+	<point segment="93" xCoord="7.353305" yCoord="50.554646"/>
+	<point segment="93" xCoord="7.114853" yCoord="50.754946"/>
+	<point segment="93" xCoord="6.924091" yCoord="50.964784"/>
+	</seg>
+<seg>
+	<point segment="94" xCoord="6.924091" yCoord="50.964784"/>
+	<point segment="94" xCoord="6.819172" yCoord="51.117394"/>
+	<point segment="94" xCoord="6.752405" yCoord="51.270003"/>
+	<point segment="94" xCoord="6.637948" yCoord="51.470303"/>
+	<point segment="94" xCoord="6.265962" yCoord="51.708756"/>
+	<point segment="94" xCoord="5.537242" yCoord="51.853238"/>
+	<point segment="94" xCoord="5.087765" yCoord="51.895889"/>
+	<point segment="94" xCoord="4.638597" yCoord="51.938511"/>
+	<point segment="94" xCoord="4.329729" yCoord="51.956746"/>
+	<point segment="94" xCoord="3.910052" yCoord="51.975822"/>
+	<point segment="94" xCoord="3.800626" yCoord="51.968029"/>
+	<point segment="94" xCoord="3.672717" yCoord="51.94999"/>
+	<point segment="94" xCoord="3.500531" yCoord="51.917193"/>
+	<point segment="94" xCoord="3.215195" yCoord="51.861438"/>
+	<point segment="94" xCoord="2.879938" yCoord="51.78506"/>
+	<point segment="94" xCoord="2.565181" yCoord="51.699218"/>
+	<point segment="94" xCoord="2.227547" yCoord="51.5977"/>
+	</seg>
+<seg>
+	<point segment="95" xCoord="2.227547" yCoord="51.5977"/>
+	<point segment="95" xCoord="2.12416" yCoord="51.559411"/>
+	<point segment="95" xCoord="2.07262" yCoord="51.541664"/>
+	<point segment="95" xCoord="2.001286" yCoord="51.523216"/>
+	<point segment="95" xCoord="1.895861" yCoord="51.502418"/>
+	<point segment="95" xCoord="1.741847" yCoord="51.483749"/>
+	<point segment="95" xCoord="1.544994" yCoord="51.4691"/>
+	<point segment="95" xCoord="1.34698" yCoord="51.458031"/>
+	<point segment="95" xCoord="1.172461" yCoord="51.451079"/>
+	<point segment="95" xCoord="1.080092" yCoord="51.450652"/>
+	<point segment="95" xCoord="1.000149" yCoord="51.458031"/>
+	<point segment="95" xCoord="0.918104" yCoord="51.474415"/>
+	<point segment="95" xCoord="0.855021" yCoord="51.487549"/>
+	<point segment="95" xCoord="0.791675" yCoord="51.494488"/>
+	<point segment="95" xCoord="0.709893" yCoord="51.502308"/>
+	<point segment="95" xCoord="0.637329" yCoord="51.507227"/>
+	<point segment="95" xCoord="0.535071" yCoord="51.500671"/>
+	<point segment="95" xCoord="0.463914" yCoord="51.488779"/>
+	<point segment="95" xCoord="0.39904" yCoord="51.469755"/>
+	<point segment="95" xCoord="0.263009" yCoord="51.46048"/>
+	<point segment="95" xCoord="0.043504" yCoord="51.472846"/>
+	<point segment="95" xCoord="-0.182184" yCoord="51.488304"/>
+	</seg>
+<seg>
+	<point segment="96" xCoord="3.547352" yCoord="52.99948"/>
+	<point segment="96" xCoord="3.801612" yCoord="53.099566"/>
+	<point segment="96" xCoord="4.061165" yCoord="53.198944"/>
+	<point segment="96" xCoord="4.279796" yCoord="53.271431"/>
+	<point segment="96" xCoord="4.503948" yCoord="53.35009"/>
+	<point segment="96" xCoord="4.873336" yCoord="53.456157"/>
+	<point segment="96" xCoord="5.100932" yCoord="53.52163"/>
+	<point segment="96" xCoord="5.572295" yCoord="53.651837"/>
+	<point segment="96" xCoord="5.899074" yCoord="53.718394"/>
+	<point segment="96" xCoord="6.151323" yCoord="53.757857"/>
+	<point segment="96" xCoord="6.439482" yCoord="53.795991"/>
+	<point segment="96" xCoord="6.81084" yCoord="53.809848"/>
+	<point segment="96" xCoord="7.317535" yCoord="53.814944"/>
+	<point segment="96" xCoord="7.481501" yCoord="53.815391"/>
+	<point segment="96" xCoord="7.722606" yCoord="53.815391"/>
+	<point segment="96" xCoord="7.921029" yCoord="53.806788"/>
+	<point segment="96" xCoord="8.046852" yCoord="53.790449"/>
+	<point segment="96" xCoord="8.160476" yCoord="53.762735"/>
+	<point segment="96" xCoord="8.263552" yCoord="53.71708"/>
+	<point segment="96" xCoord="8.360012" yCoord="53.676824"/>
+	<point segment="96" xCoord="8.457008" yCoord="53.610312"/>
+	<point segment="96" xCoord="8.504121" yCoord="53.571514"/>
+	<point segment="96" xCoord="8.554004" yCoord="53.510545"/>
+	<point segment="96" xCoord="8.858891" yCoord="53.080965"/>
+	</seg>
+<seg>
+	<point segment="97" xCoord="10.016947" yCoord="53.562129"/>
+	<point segment="97" xCoord="9.861996" yCoord="53.553973"/>
+	<point segment="97" xCoord="9.764132" yCoord="53.553973"/>
+	<point segment="97" xCoord="9.726911" yCoord="53.556522"/>
+	<point segment="97" xCoord="9.694188" yCoord="53.561184"/>
+	<point segment="97" xCoord="9.660846" yCoord="53.568977"/>
+	<point segment="97" xCoord="9.627272" yCoord="53.579807"/>
+	<point segment="97" xCoord="9.59287" yCoord="53.59475"/>
+	<point segment="97" xCoord="9.568247" yCoord="53.610132"/>
+	<point segment="97" xCoord="9.543121" yCoord="53.629851"/>
+	<point segment="97" xCoord="9.511077" yCoord="53.657317"/>
+	<point segment="97" xCoord="9.446074" yCoord="53.71708"/>
+	<point segment="97" xCoord="9.413418" yCoord="53.745821"/>
+	<point segment="97" xCoord="9.396649" yCoord="53.763888"/>
+	<point segment="97" xCoord="9.387069" yCoord="53.774767"/>
+	<point segment="97" xCoord="9.378936" yCoord="53.78516"/>
+	<point segment="97" xCoord="9.371315" yCoord="53.796862"/>
+	<point segment="97" xCoord="9.365154" yCoord="53.807301"/>
+	<point segment="97" xCoord="9.358485" yCoord="53.817539"/>
+	<point segment="97" xCoord="9.347983" yCoord="53.830797"/>
+	<point segment="97" xCoord="9.338946" yCoord="53.838931"/>
+	<point segment="97" xCoord="9.323389" yCoord="53.849584"/>
+	<point segment="97" xCoord="9.302955" yCoord="53.859593"/>
+	<point segment="97" xCoord="9.282189" yCoord="53.866369"/>
+	<point segment="97" xCoord="9.261135" yCoord="53.871656"/>
+	<point segment="97" xCoord="9.23942" yCoord="53.875677"/>
+	<point segment="97" xCoord="9.2181" yCoord="53.87705"/>
+	<point segment="97" xCoord="9.070085" yCoord="53.873998"/>
+	<point segment="97" xCoord="8.951063" yCoord="53.880102"/>
+	<point segment="97" xCoord="8.867164" yCoord="53.89853"/>
+	<point segment="97" xCoord="8.764901" yCoord="53.92588"/>
+	<point segment="97" xCoord="8.681485" yCoord="53.962271"/>
+	<point segment="97" xCoord="8.573404" yCoord="54.009383"/>
+	<point segment="97" xCoord="8.491761" yCoord="54.040324"/>
+	<point segment="97" xCoord="8.377727" yCoord="54.067759"/>
+	<point segment="97" xCoord="8.22625" yCoord="54.087628"/>
+	<point segment="97" xCoord="8.060708" yCoord="54.098066"/>
+	<point segment="97" xCoord="7.747548" yCoord="54.109151"/>
+	<point segment="97" xCoord="7.456175" yCoord="54.124846"/>
+	<point segment="97" xCoord="6.673264" yCoord="54.124846"/>
+	<point segment="97" xCoord="6.328629" yCoord="54.114694"/>
+	<point segment="97" xCoord="6.10138" yCoord="54.095295"/>
+	<point segment="97" xCoord="5.857732" yCoord="54.067759"/>
+	<point segment="97" xCoord="5.513859" yCoord="54.003841"/>
+	<point segment="97" xCoord="5.091131" yCoord="53.904652"/>
+	<point segment="97" xCoord="4.798511" yCoord="53.830287"/>
+	<point segment="97" xCoord="4.517914" yCoord="53.746107"/>
+	<point segment="97" xCoord="4.202551" yCoord="53.64298"/>
+	</seg>
+<seg>
+	<point segment="98" xCoord="10.8824" yCoord="48.360884"/>
+	<point segment="98" xCoord="10.8001" yCoord="48.536113"/>
+	<point segment="98" xCoord="10.693819" yCoord="48.695535"/>
+	<point segment="98" xCoord="10.661934" yCoord="48.886842"/>
+	<point segment="98" xCoord="10.661934" yCoord="49.120662"/>
+	<point segment="98" xCoord="10.661934" yCoord="49.354481"/>
+	<point segment="98" xCoord="10.661934" yCoord="49.545788"/>
+		</seg>
+<seg>
+	<point segment="99" xCoord="10.661934" yCoord="49.545788"/>
+	<point segment="99" xCoord="10.661934" yCoord="49.747723"/>
+	<point segment="99" xCoord="10.68319" yCoord="49.93903"/>
+	<point segment="99" xCoord="10.736331" yCoord="50.130337"/>
+	<point segment="99" xCoord="10.768216" yCoord="50.332272"/>
+	<point segment="99" xCoord="10.8001" yCoord="50.661745"/>
+	<point segment="99" xCoord="10.8001" yCoord="51.054987"/>
+	<point segment="99" xCoord="10.481255" yCoord="51.533255"/>
+	<point segment="99" xCoord="10.119898" yCoord="51.915869"/>
+	<point segment="99" xCoord="9.747912" yCoord="52.351623"/>
+	<point segment="99" xCoord="9.460952" yCoord="52.627956"/>
+	<point segment="99" xCoord="9.290901" yCoord="52.766122"/>
+	<point segment="99" xCoord="8.858891" yCoord="53.080965"/>
+	</seg>
+<seg>
+	<point segment="100" xCoord="10.661934" yCoord="49.545788"/>
+	<point segment="100" xCoord="10.736331" yCoord="49.82212"/>
+	<point segment="100" xCoord="10.927638" yCoord="49.992171"/>
+	<point segment="100" xCoord="11.182714" yCoord="50.162222"/>
+	<point segment="100" xCoord="11.459046" yCoord="50.321644"/>
+	<point segment="100" xCoord="11.746007" yCoord="50.491695"/>
+	<point segment="100" xCoord="11.969198" yCoord="50.651117"/>
+	<point segment="100" xCoord="12.160505" yCoord="50.874309"/>
+	<point segment="100" xCoord="12.341184" yCoord="51.140013"/>
+	<point segment="100" xCoord="12.383697" yCoord="51.373832"/>
+	</seg>
+<seg>
+	<point segment="101" xCoord="12.383697" yCoord="51.373832"/>
+	<point segment="101" xCoord="12.404953" yCoord="50.969962"/>
+	<point segment="101" xCoord="12.404953" yCoord="50.725514"/>
+	<point segment="101" xCoord="12.532491" yCoord="50.257875"/>
+	<point segment="101" xCoord="12.71317" yCoord="49.970915"/>
+	<point segment="101" xCoord="13.053271" yCoord="49.779608"/>
+	<point segment="101" xCoord="13.616563" yCoord="49.439506"/>
+	<point segment="101" xCoord="13.956665" yCoord="49.396994"/>
+	<point segment="101" xCoord="14.530586" yCoord="49.195059"/>
+	<point segment="101" xCoord="14.955712" yCoord="49.184431"/>
+	<point segment="101" xCoord="15.433979" yCoord="49.035636"/>
+	<point segment="101" xCoord="15.699684" yCoord="48.950611"/>
+	<point segment="101" xCoord="16.039785" yCoord="48.738048"/>
+	<point segment="101" xCoord="16.209835" yCoord="48.557369"/>
+	<point segment="101" xCoord="16.305489" yCoord="48.196011"/>
+	</seg>
+<seg>
+	<point segment="102" xCoord="16.305489" yCoord="48.196011"/>
+	<point segment="102" xCoord="15.827221" yCoord="48.249152"/>
+	<point segment="102" xCoord="15.359582" yCoord="48.238524"/>
+	<point segment="102" xCoord="14.743149" yCoord="48.238524"/>
+	<point segment="102" xCoord="13.701589" yCoord="48.291665"/>
+	<point segment="102" xCoord="12.936361" yCoord="48.25978"/>
+	<point segment="102" xCoord="12.032967" yCoord="48.25978"/>
+	<point segment="102" xCoord="11.235855" yCoord="48.312921"/>
+	<point segment="102" xCoord="10.8824" yCoord="48.360884"/>
+	</seg>
+<seg>
+	<point segment="103" xCoord="12.383697" yCoord="51.373832"/>
+	<point segment="103" xCoord="12.373068" yCoord="51.650165"/>
+	<point segment="103" xCoord="12.128621" yCoord="52.043407"/>
+	<point segment="103" xCoord="11.67161" yCoord="52.383508"/>
+	<point segment="103" xCoord="11.20397" yCoord="52.670468"/>
+	<point segment="103" xCoord="10.831985" yCoord="52.829891"/>
+	<point segment="103" xCoord="10.449371" yCoord="53.053082"/>
+	<point segment="103" xCoord="10.151782" yCoord="53.340043"/>
+	<point segment="103" xCoord="10.016947" yCoord="53.562129"/>
+	</seg>
+<seg>
+	<point segment="104" xCoord="16.305489" yCoord="48.196011"/>
+	<point segment="104" xCoord="16.496796" yCoord="48.025961"/>
+	<point segment="104" xCoord="16.783756" yCoord="47.877166"/>
+	<point segment="104" xCoord="17.208883" yCoord="47.845282"/>
+	<point segment="104" xCoord="17.538356" yCoord="47.824026"/>
+	<point segment="104" xCoord="17.835944" yCoord="47.824026"/>
+	<point segment="104" xCoord="18.44175" yCoord="47.707116"/>
+	<point segment="104" xCoord="18.877504" yCoord="47.600834"/>
+	<point segment="104" xCoord="19.068811" yCoord="47.515809"/>
+	</seg>
+<seg>
+	<point segment="105" xCoord="19.068811" yCoord="47.515809"/>
+	<point segment="105" xCoord="19.302631" yCoord="47.33513"/>
+	<point segment="105" xCoord="19.525822" yCoord="47.122567"/>
+	<point segment="105" xCoord="19.759642" yCoord="46.750581"/>
+	<point segment="105" xCoord="19.834039" yCoord="46.463621"/>
+	<point segment="105" xCoord="19.897808" yCoord="46.049122"/>
+	<point segment="105" xCoord="20.078487" yCoord="45.560227"/>
+	<point segment="105" xCoord="20.152884" yCoord="45.092588"/>
+	<point segment="105" xCoord="20.248538" yCoord="44.869396"/>
+	<point segment="105" xCoord="20.386704" yCoord="44.794999"/>
+	</seg>
+<seg>
+	<point segment="106" xCoord="21.885275" yCoord="43.317684"/>
+	<point segment="106" xCoord="21.874647" yCoord="43.508991"/>
+	<point segment="106" xCoord="21.800249" yCoord="43.742811"/>
+	<point segment="106" xCoord="21.704596" yCoord="43.92349"/>
+	<point segment="106" xCoord="21.513289" yCoord="44.157309"/>
+	<point segment="106" xCoord="21.236957" yCoord="44.337988"/>
+	<point segment="106" xCoord="20.822458" yCoord="44.571808"/>
+	<point segment="106" xCoord="20.386704" yCoord="44.794999"/>
+	</seg>
+<seg>
+	<point segment="107" xCoord="23.659625" yCoord="42.261257"/>
+	<point segment="107" xCoord="23.564525" yCoord="42.308009"/>
+	<point segment="107" xCoord="23.330705" yCoord="42.382406"/>
+	<point segment="107" xCoord="23.065001" yCoord="42.467431"/>
+	<point segment="107" xCoord="22.671759" yCoord="42.669366"/>
+	<point segment="107" xCoord="22.267889" yCoord="42.828789"/>
+	<point segment="107" xCoord="22.044697" yCoord="42.966955"/>
+	<point segment="107" xCoord="21.906531" yCoord="43.137006"/>
+	<point segment="107" xCoord="21.885275" yCoord="43.317684"/>
+	</seg>
+<seg>
+	<point segment="108" xCoord="23.659625" yCoord="42.261257"/>
+	<point segment="108" xCoord="23.24568" yCoord="42.265496"/>
+	<point segment="108" xCoord="22.533593" yCoord="42.254868"/>
+	<point segment="108" xCoord="21.85339" yCoord="42.24424"/>
+	<point segment="108" xCoord="21.04565" yCoord="42.233612"/>
+	<point segment="108" xCoord="20.322935" yCoord="42.382406"/>
+	<point segment="108" xCoord="19.515194" yCoord="42.679994"/>
+	<point segment="108" xCoord="18.834992" yCoord="42.828789"/>
+	<point segment="108" xCoord="18.32484" yCoord="42.818161"/>
+	<point segment="108" xCoord="18.094292" yCoord="42.652668"/>
+	</seg>
+<seg>
+	<point segment="109" xCoord="19.948098" yCoord="50.060307"/>
+	<point segment="109" xCoord="20.03801" yCoord="50.111685"/>
+	<point segment="109" xCoord="20.179299" yCoord="50.188752"/>
+	<point segment="109" xCoord="20.320588" yCoord="50.278663"/>
+	<point segment="109" xCoord="20.423344" yCoord="50.330041"/>
+	<point segment="109" xCoord="20.577478" yCoord="50.458486"/>
+	<point segment="109" xCoord="20.577478" yCoord="50.586931"/>
+	<point segment="109" xCoord="20.590323" yCoord="50.715376"/>
+	<point segment="109" xCoord="20.705923" yCoord="50.856665"/>
+	<point segment="109" xCoord="20.795834" yCoord="50.920887"/>
+	<point segment="109" xCoord="20.937124" yCoord="50.997954"/>
+	<point segment="109" xCoord="21.065569" yCoord="51.036488"/>
+	<point segment="109" xCoord="21.219702" yCoord="51.190622"/>
+	<point segment="109" xCoord="21.373836" yCoord="51.408978"/>
+	<point segment="109" xCoord="21.41237" yCoord="51.575956"/>
+	<point segment="109" xCoord="21.386681" yCoord="51.717245"/>
+	<point segment="109" xCoord="21.283925" yCoord="51.84569"/>
+	<point segment="109" xCoord="21.052724" yCoord="51.974135"/>
+	<point segment="109" xCoord="20.860057" yCoord="52.076891"/>
+	<point segment="109" xCoord="20.577478" yCoord="52.21818"/>
+	<point segment="109" xCoord="20.204988" yCoord="52.282403"/>
+	<point segment="109" xCoord="19.793964" yCoord="52.333781"/>
+	<point segment="109" xCoord="19.421474" yCoord="52.526448"/>
+	<point segment="109" xCoord="19.126051" yCoord="52.680582"/>
+	<point segment="109" xCoord="18.77925" yCoord="52.873249"/>
+	<point segment="109" xCoord="18.458138" yCoord="53.117294"/>
+	<point segment="109" xCoord="18.278315" yCoord="53.348495"/>
+	<point segment="109" xCoord="18.278315" yCoord="53.618229"/>
+	<point segment="109" xCoord="18.329693" yCoord="53.977875"/>
+	<point segment="109" xCoord="18.432449" yCoord="54.22192"/>
+	<point segment="109" xCoord="18.623794" yCoord="54.366202"/>
+	</seg>
+<seg>
+	<point segment="110" xCoord="19.948098" yCoord="50.060307"/>
+	<point segment="110" xCoord="19.588453" yCoord="49.996084"/>
+	<point segment="110" xCoord="19.228807" yCoord="49.98324"/>
+	<point segment="110" xCoord="18.907695" yCoord="49.931862"/>
+	<point segment="110" xCoord="18.458138" yCoord="49.816262"/>
+	<point segment="110" xCoord="18.021425" yCoord="49.72635"/>
+	<point segment="110" xCoord="17.918669" yCoord="49.649283"/>
+	<point segment="110" xCoord="17.186534" yCoord="49.302482"/>
+	<point segment="110" xCoord="16.814044" yCoord="49.09697"/>
+	<point segment="110" xCoord="16.428709" yCoord="48.698791"/>
+	<point segment="110" xCoord="16.305489" yCoord="48.196011"/>
+	</seg>
+<seg>
+	<point segment="111" xCoord="25.034515" yCoord="49.482305"/>
+	<point segment="111" xCoord="24.687714" yCoord="49.61075"/>
+	<point segment="111" xCoord="24.225312" yCoord="49.713506"/>
+	<point segment="111" xCoord="23.865666" yCoord="49.764884"/>
+	<point segment="111" xCoord="23.223442" yCoord="49.790573"/>
+	<point segment="111" xCoord="22.671129" yCoord="49.829106"/>
+	<point segment="111" xCoord="22.067438" yCoord="49.931862"/>
+	<point segment="111" xCoord="21.502281" yCoord="49.931862"/>
+	<point segment="111" xCoord="20.949968" yCoord="49.944706"/>
+	<point segment="111" xCoord="20.371966" yCoord="50.021773"/>
+	<point segment="111" xCoord="19.948098" yCoord="50.060307"/>
+	</seg>
+<seg>
+	<point segment="112" xCoord="25.034515" yCoord="49.482305"/>
+	<point segment="112" xCoord="25.445538" yCoord="49.456616"/>
+	<point segment="112" xCoord="25.997851" yCoord="49.430927"/>
+	<point segment="112" xCoord="26.537319" yCoord="49.46946"/>
+	<point segment="112" xCoord="27.115321" yCoord="49.623594"/>
+	<point segment="112" xCoord="27.898835" yCoord="49.803417"/>
+	<point segment="112" xCoord="28.309859" yCoord="49.841951"/>
+	<point segment="112" xCoord="28.785104" yCoord="49.919017"/>
+	<point segment="112" xCoord="29.170439" yCoord="50.124529"/>
+	<point segment="112" xCoord="29.504396" yCoord="50.265819"/>
+	<point segment="112" xCoord="29.876886" yCoord="50.35573"/>
+	<point segment="112" xCoord="30.249376" yCoord="50.394263"/>
+	<point segment="112" xCoord="30.493421" yCoord="50.445641"/>
+	</seg>
+<seg>
+	<point segment="113" xCoord="29.822123" yCoord="46.890899"/>
+	<point segment="113" xCoord="29.851197" yCoord="47.157453"/>
+	<point segment="113" xCoord="29.851197" yCoord="47.555632"/>
+	<point segment="113" xCoord="29.51724" yCoord="48.069412"/>
+	<point segment="113" xCoord="28.810793" yCoord="48.557502"/>
+	<point segment="113" xCoord="27.911679" yCoord="48.904303"/>
+	<point segment="113" xCoord="27.230922" yCoord="48.929992"/>
+	<point segment="113" xCoord="26.39603" yCoord="49.058437"/>
+	<point segment="113" xCoord="25.676739" yCoord="49.174037"/>
+	<point segment="113" xCoord="25.034515" yCoord="49.482305"/>
+	</seg>
+<seg>
+	<point segment="114" xCoord="30.493421" yCoord="50.445641"/>
+	<point segment="114" xCoord="30.609021" yCoord="50.291508"/>
+	<point segment="114" xCoord="30.724622" yCoord="50.085996"/>
+	<point segment="114" xCoord="30.968667" yCoord="49.957551"/>
+	<point segment="114" xCoord="31.199868" yCoord="49.777728"/>
+	<point segment="114" xCoord="31.379691" yCoord="49.700661"/>
+		</seg>
+<seg>
+	<point segment="115" xCoord="31.379691" yCoord="49.700661"/>
+	<point segment="115" xCoord="31.40538" yCoord="49.366705"/>
+	<point segment="115" xCoord="31.328313" yCoord="48.827236"/>
+	<point segment="115" xCoord="30.917289" yCoord="48.107945"/>
+	<point segment="115" xCoord="30.467732" yCoord="47.671232"/>
+	<point segment="115" xCoord="30.120931" yCoord="47.157453"/>
+	<point segment="115" xCoord="29.822123" yCoord="46.890899"/>
+	</seg>
+<seg>
+	<point segment="116" xCoord="30.493421" yCoord="50.445641"/>
+	<point segment="116" xCoord="30.51911" yCoord="50.599775"/>
+	<point segment="116" xCoord="30.506266" yCoord="50.997954"/>
+	<point segment="116" xCoord="30.506266" yCoord="51.396133"/>
+	<point segment="116" xCoord="30.506266" yCoord="51.999824"/>
+	<point segment="116" xCoord="30.429199" yCoord="52.757649"/>
+	<point segment="116" xCoord="30.442043" yCoord="53.22005"/>
+	<point segment="116" xCoord="30.313598" yCoord="53.785208"/>
+	<point segment="116" xCoord="30.082398" yCoord="54.157698"/>
+	<point segment="116" xCoord="29.337417" yCoord="54.517343"/>
+	<point segment="116" xCoord="28.759416" yCoord="54.722855"/>
+	<point segment="116" xCoord="27.821768" yCoord="55.031123"/>
+	<point segment="116" xCoord="27.128166" yCoord="55.210946"/>
+	<point segment="116" xCoord="26.755676" yCoord="55.467835"/>
+	<point segment="116" xCoord="26.447408" yCoord="55.634814"/>
+	<point segment="116" xCoord="26.151985" yCoord="55.917392"/>
+	</seg>
+<seg>
+	<point segment="117" xCoord="24.049386" yCoord="56.880471"/>
+	<point segment="117" xCoord="24.238157" yCoord="56.649528"/>
+	<point segment="117" xCoord="24.64918" yCoord="56.495394"/>
+	<point segment="117" xCoord="25.124426" yCoord="56.431172"/>
+	<point segment="117" xCoord="25.445538" yCoord="56.328416"/>
+	<point segment="117" xCoord="25.933629" yCoord="56.148593"/>
+	<point segment="117" xCoord="26.151985" yCoord="55.917392"/>
+	</seg>
+<seg>
+	<point segment="118" xCoord="31.27819" yCoord="58.551509"/>
+	<point segment="118" xCoord="30.904445" yCoord="58.524823"/>
+	<point segment="118" xCoord="30.596177" yCoord="58.409223"/>
+	<point segment="118" xCoord="29.979642" yCoord="58.2294"/>
+	<point segment="118" xCoord="28.926394" yCoord="57.97251"/>
+	<point segment="118" xCoord="28.335547" yCoord="57.831221"/>
+	</seg>
+<seg>
+	<point segment="119" xCoord="28.335547" yCoord="57.831221"/>
+	<point segment="119" xCoord="28.001591" yCoord="57.612864"/>
+	<point segment="119" xCoord="27.731857" yCoord="57.381664"/>
+	<point segment="119" xCoord="27.423589" yCoord="57.009174"/>
+	<point segment="119" xCoord="27.14101" yCoord="56.662373"/>
+	<point segment="119" xCoord="26.717142" yCoord="56.302727"/>
+	<point segment="119" xCoord="26.151985" yCoord="55.917392"/>
+	</seg>
+<seg>
+	<point segment="120" xCoord="26.151985" yCoord="55.917392"/>
+	<point segment="120" xCoord="25.574028" yCoord="55.604067"/>
+	<point segment="120" xCoord="25.138076" yCoord="55.398914"/>
+	<point segment="120" xCoord="24.522615" yCoord="55.142472"/>
+	<point segment="120" xCoord="23.663534" yCoord="54.924496"/>
+	<point segment="120" xCoord="22.663409" yCoord="54.642409"/>
+	<point segment="120" xCoord="22.086414" yCoord="54.578299"/>
+	<point segment="120" xCoord="21.099112" yCoord="54.578299"/>
+	<point segment="120" xCoord="20.483651" yCoord="54.70652"/>
+	</seg>
+<seg>
+	<point segment="121" xCoord="10.8824" yCoord="48.360884"/>
+	<point segment="121" xCoord="10.943473" yCoord="48.290132"/>
+	<point segment="121" xCoord="11.081142" yCoord="48.078712"/>
+	<point segment="121" xCoord="11.13031" yCoord="47.911543"/>
+	<point segment="121" xCoord="11.169644" yCoord="47.74929"/>
+	<point segment="121" xCoord="11.115559" yCoord="47.53787"/>
+	<point segment="121" xCoord="11.105726" yCoord="47.483786"/>
+	<point segment="121" xCoord="11.125393" yCoord="47.360867"/>
+	<point segment="121" xCoord="11.213894" yCoord="47.262532"/>
+	<point segment="121" xCoord="11.351563" yCoord="47.183864"/>
+	<point segment="121" xCoord="11.420398" yCoord="47.070779"/>
+	<point segment="121" xCoord="11.484315" yCoord="46.923277"/>
+	<point segment="121" xCoord="11.612151" yCoord="46.770858"/>
+	<point segment="121" xCoord="11.558066" yCoord="46.598772"/>
+	<point segment="121" xCoord="11.449898" yCoord="46.431603"/>
+	<point segment="121" xCoord="11.425314" yCoord="46.293934"/>
+	<point segment="121" xCoord="11.430231" yCoord="46.131681"/>
+	<point segment="121" xCoord="11.562983" yCoord="45.984179"/>
+	<point segment="121" xCoord="12.308035" yCoord="45.510912"/>
+	</seg>
+
+</data>

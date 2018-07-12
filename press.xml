@@ -1,0 +1,2669 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<location place="Augsburg" xCoord="10.9" yCoord="48.35">
+		<printer>Günther Zainer</printer>
+		<year>1468</year>
+		<firstWork>
+			<title>Meditationes vitae Christi</title>
+			<author>Bonaventura, S</author>
+			<istc>ib00893000</istc>
+		</firstWork>
+	</location>
+	<location place="Bamberg" xCoord="10.9" yCoord="49.9">
+		<printer>Johann Gutenberg [?]</printer>
+		<year>1460</year>
+		<firstWork>
+			<title>Biblia latina. 36 lines</title>
+			<istc>ib00527000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>The location and printer of the 36-line Biblia latina is uncertain. ISTC note: "[Bamberg: Printer of the 36-line Bible, not after 1461] [Mainz: n.pr., before 1460]. The date of rubrication 1461 is found on a single leaf, Paris BN (DeR(M) 23,13), formerly the last leaf of the Wolfenbüttel HAB copy. For arguments favouring Gutenberg as printer see G.D. Painter, Gutenberg and the B36 group. A re-consideration, in Essays in honour of Victor Scholderer (1970) p.292-322. Polain assigns to Mainz, before 1460." Because of this discrepancy, the next known Bamberg printing, Ackermann von Böhmen of 1463, is also listed. </text>
+		</mouseOverData>
+	</location>
+	<location place="Basel" xCoord="7.566809" yCoord="47.519419">
+		<printer>Berthold Ruppel</printer>
+		<year>1468</year>
+		<firstWork>
+			<title>Biblia latina</title>
+			<istc>ib00532000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Dated by BSB-Ink. See also V. Scholderer in The Library 5th ser. 3 (1949) pp. 50-54 (reprinted in 50 Essays (Amsterdam, 1966) pp.192ff). Dated not before 1470 by G. Piccard , in AGB 8 (1967) coll.25-322.</text>
+		</mouseOverData>
+	</location>
+	<location place="Beromünster" xCoord="8.2" yCoord="47.2167">
+		<printer>Helias Heliae</printer>
+		<year>1470</year>
+		<firstWork>
+			<title>Mammotrectus super Bibliam</title>
+			<author>Marchesinus, Johannes</author>
+			<istc>im00233000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Cologne" xCoord="6.959927" yCoord="50.918744">
+		<printer>Ulrich Zel</printer>
+		<year>1465</year>
+		<firstWork>
+			<title>De officiis</title>
+			<author>Cicero, Marcus Tullius</author>
+			<istc>ic00575500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Constance" xCoord="9.1667" yCoord="47.667">
+		<printer>Printer of the Constance Breviary</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Graduale</title>
+			<istc>ig00329700</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Proctor and BMC originally assigned to Augsburg. Cf. however GfT 1323 and 1324 </text>
+		</mouseOverData>
+	</location>
+	<location place="Eltville" xCoord="8.1333" yCoord="50.0333">
+		<printer>Heinrich Bechtermüntze, Nicolaus Bechtermüntze and Wigandus Spyes of Orthenberg</printer>
+		<year>1467</year>
+		<firstWork>
+			<title>Vocabularius ex quo [Latin and German]</title>
+			<istc>iv00361700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Foligno" xCoord="12.7" yCoord="42.95">
+		<printer>Johann Neumeister and Aemilianus de Orfinis</printer>
+		<year>1470</year>
+		<firstWork>
+			<title>De bello Italico adversus Gothos gesto</title>
+			<author>Brunus Aretinus, Leonardus</author>
+			<istc>ib01234000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Mainz" xCoord="8.239811" yCoord="49.992808">
+		<printer>Johann Gutenberg</printer>
+		<year>1452</year>
+		<firstWork>
+			<title>Biblia latina, 42 lines</title>
+			<istc>ib00526000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Majority of sources cite 1454-1455. ISTC note: Sheets were seen by Aeneas Sylvius Piccolomini some time before his letter of 12 Mar. 1455 (E. Meuthen in Gb Jb 1982, pp.108-18). Aeneas's letter is printed in the edition of ther Hoernen about 1480, Voull(K) 967 (M. Davies in The Library, 18 (1996), 193-201, with plate). Copies at München BSB and Vienna ÖNB have a printed rubrication guide in four leaves</text>
+		</mouseOverData>
+	</location>
+	<location place="Milan" xCoord="9.21758" yCoord="45.445423">
+		<printer>unknown</printer>
+		<year>1470</year>
+		<firstWork>
+			<title>Confessionale: Omnis mortalium cura </title>
+			<author>Antoninus Florentinus</author>
+			<istc>ia00842300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Nuremberg" xCoord="11.0667" yCoord="49.45">
+		<printer>Johann Sensenschmidt</printer>
+		<year>1468</year>
+		<firstWork>
+			<title>Compendium theologicae veritatis. Add: Bernoldus de Caesarea: Distinctiones de tempore et de sanctis quarum declarationes ex compendio... capiuntur</title>
+			<author>Magnus, Albertus</author>
+			<istc>ia00229000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Louvain copy has rubricator's date 1469 (Polain Suppl.). Dated about 1470-72 in Goff Also attributed to Hugo (Ripelin) Argentinensis (M. Grabmann, Mittelalterliches Geistesleben vol.1 (München, 1926) pp.174-185)</text>
+		</mouseOverData>
+	</location>
+	<location place="Paris" xCoord="2.442191" yCoord="48.836029">
+		<printer>Ulrich Gering, Martin Crantz and Michael Friburger</printer>
+		<year>1470</year>
+		<firstWork>
+			<title>Epistolae</title>
+			<author>Barzizius, Gasparinus </author>
+			<istc>ib00260500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Rome" xCoord="12.492419" yCoord="41.870803">
+		<printer>Conradus Sweynheym and Arnoldus Pannartz</printer>
+		<year>1467</year>
+		<firstWork>
+			<title>Epistolae ad familiares</title>
+			<author>Cicero, Marcus Tullius</author>
+			<istc>ic00503500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Savigliano" xCoord="7.65" yCoord="44.65">
+		<printer>Christophorus Beyamus and Johannes Glim</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Manipulus curatorum. Add: Hugo de Sancto Caro: Expositio missae</title>
+			<author>Guido de Monte Rochen</author>
+			<istc>ig00567000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Strassburg" xCoord="7.75" yCoord="48.5833">
+		<printer>Johann Mentelin</printer>
+		<year>1460</year>
+		<firstWork>
+			<title>Biblia latina</title>
+			<istc>ib00528000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Subiaco" xCoord="13.1" yCoord="41.9333">
+		<printer>Conradus Sweynheym and Arnoldus Pannartz</printer>
+		<year>1465</year>
+		<firstWork>
+			<title>De oratore</title>
+			<author>Cicero, Marcus Tullius</author>
+			<istc>ic00654000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Trevi" xCoord="12.9333" yCoord="42.8333">
+		<printer>Johann Reinhard</printer>
+		<year>1470</year>
+		<firstWork>
+			<title>Quomodo beatus Franciscus petivit a Christo indulgentiam pro ecclesia Sanctae Mariae de Angelis</title>
+			<author>Franciscus de Assisio</author>
+			<istc>if00290400</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Utrecht" xCoord="5.121194" yCoord="52.07242">
+		<printer>Printer of the Speculum</printer>
+		<year>1467</year>
+		<firstWork>
+			<title>Speculum humanae salvationis</title>
+			<istc>is00656000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC note: "Imprint: [The Netherlands: Prototypography, about 1466-67]. Speculum type. The first Latin edition. Date based on paper research by A.H. Stevenson (BMC)." ISTC references Goff S-656, who lists place of printing as Utrecht.</text>
+		</mouseOverData>
+	</location>
+	<location place="Venice" xCoord="12.398297" yCoord="45.433967">
+		<printer>Johannes de Spira</printer>
+		<year>1469</year>
+		<firstWork>
+			<title>Epistolae ad familiares</title>
+			<author>Cicero, Marcus Tullius</author>
+			<istc>ic00505000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	
+	<location place="Ferrara" xCoord="11.6333" yCoord="44.833">
+		<printer>Andreas Belfortis</printer>
+		<year>1471</year>
+		<firstWork>
+			<title>Elegantiolae</title>
+			<author>Augustinus Datus</author>
+			<istc>id00053200</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Milan" xCoord="9.21758" yCoord="45.445423">
+		<printer>Anon.</printer>
+		<year>1470</year>
+		<firstWork>
+			<title>Confessionale: Omnis mortalium cura [Italian] Specchio di coscienza. Add: Trattado dell' excommunicazione; Li dieci comandamenti; Credo volgare in prosa; Thomas Aquinas: Orazione la quale diceva quando andava a celebrare; Orazione che si fa dopo la comunione</title>
+			<author>Antoninus Florentinus</author>
+			<istc>ia00842300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Speyer" xCoord="8.4333" yCoord="49.3167">
+		<printer>Printer of the 'Postilla Scolastica super Apocalypsin'</printer>
+		<year>1471</year>
+		<firstWork>
+			<title>Postilla scholastica super Apocalypsim</title>
+			<istc>ip00947000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Lauingen" xCoord="10.4333" yCoord="48.566">
+		<printer>Printer of Augustinus, 'De consensu evangelistarum'</printer>
+		<year>1472</year>
+		<firstWork>
+			<title>De anima et spiritu. Add: De ebrietate. De vanitate saeculi. De vita christiana. De sobrietate. De quattuor virtutibus caritatis. De contritione cordis;</title>
+			<author>Augustinus, Aurelius</author>
+			<istc>ia01224000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Mondovi" xCoord="7.817" yCoord="44.38333">
+		<printer>Antonius Mathiae and Baltasar Corderius</printer>
+		<year>1471</year>
+		<firstWork>
+			<title>Oratio habita apud Sixtum IV contra Turcos</title>
+			<author>Justinianus, Bernardus</author>
+			<istc>ij00606500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Parma" xCoord="10.3167" yCoord="44.8">
+		<printer>Andreas Portilia</printer>
+		<year>1472</year>
+		<firstWork>
+			<title>De liberis educandis (Tr: Guarinus Veronensis). Add: S. Hieronymus: De officiis liberorum erga parentes admonitio. Basilius Magnus: De legendis antiquorum libris sive De liberalibus studiis (Tr: Leonardus Brunus Aretinus)</title>
+			<author>Plutarchus</author>
+			<istc>ip00822000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Barcelona" xCoord="2.168195" yCoord="41.348803">
+		<printer>Heinrich Botel, Georgius vom Holtz, and Johann Planck</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Ethica ad Nicomachum. Add: Politica; Oeconomica (Tr: Leonardus Brunus Aretinus)</title>
+			<author>Aristoteles</author>
+			<istc>ia00984000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Brescia" xCoord="10.2167" yCoord="45.55">
+		<printer> [Georgius de Augusta?] for Petrus Villa</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Opera [Bucolica, Georgica, Aeneis, with argumenta]</title>
+			<author>Vergilius Maro, Publius</author>
+			<istc>iv00156000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Cremona" xCoord="10.0167" yCoord="45.1333">
+		<printer>Dionysius Paravisinus and Stephanus de Merlinis, de Leucho</printer>
+		<year>1472</year>
+		<firstWork>
+			<title>Super prima parte Digesti novi</title>
+			<author>Angelus de Ubaldis</author>
+			<istc>iu00006000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Cracow" xCoord="19.97258" yCoord="50.089577">
+		<printer>Printer of Turrecremata (Kaspar Straube?)</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Almanac 1474, for Cracow [Latin]</title>
+			<istc>ia00491550</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Lyons" xCoord="4.827416" yCoord="45.719419">
+		<printer>Guillaume Le Roy for Barthélemy Buyer</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Compendium breve quinque libros continens</title>
+			<author>Innocentius III, Pont. Max. (Lotharius de Conti)</author>
+			<istc>ii00081800</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Matelica" xCoord="13.0167" yCoord="43.25">
+		<printer>Bartholomaeus de Columnis de Chio</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Vita della Vergine Maria</title>
+			<author>Cornazzano, Antonio</author>
+			<istc>ic00913600</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Pavia" xCoord="9.15" yCoord="45.2">
+		<printer>Johannes de Sidriano</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Lectura super Institutionibus</title>
+			<author>Angelus de Gambilionibus</author>
+			<istc>ig00050400</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Ulm" xCoord="10" yCoord="48.4">
+		<printer>Johann Zainer</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Büchlein der Ordnung (Pest Regiment) [German]</title>
+			<author>Steinhöwel, Heinrich</author>
+			<istc>is00762800</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Como" xCoord="9.0833" yCoord="45.8">
+		<printer>Ambrosius de Orchi and Dionysius Paravisinus</printer>
+		<year>1474</year>
+		<firstWork>
+			<title>Tractatus appellationum</title>
+			<author>Sancto Georgio, Johannes Antonius de</author>
+			<istc>is00140000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Vicenza" xCoord="11.5333" yCoord="45.55">
+		<printer>Leonardus Achates de Basilea</printer>
+		<year>1474</year>
+		<firstWork>
+			<title>Dittamondo [Italian verse]</title>
+			<author>Uberti, Fazio degli</author>
+			<istc>iu00053000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Alost" xCoord="4.05" yCoord="50.95">
+		<printer>[Johannes de Westfalia and Thierry Martens]</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>De duobus amantibus Euryalo et Lucretia</title>
+			<author>Pius II, Pont. Max. (formerly Aeneas Sylvius Piccolomini)</author>
+			<istc>ip00671700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Blaubeuren" xCoord="9.7833" yCoord="48.4167">
+		<printer>Printer of Lotharius (Conrad Mancz)?</printer>
+		<year>1474</year>
+		<firstWork>
+			<title>Liber de contemptu mundi, sive De miseria humanae conditionis</title>
+			<author>Innocentius III, Pont. Max. (Lotharius de Conti)</author>
+			<istc>ii00084000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Amelung (Frühdruck I, p.XVII) identifies the printer tentatively as Conrad Mancz. For discussion of the date, see BMC </text>
+		</mouseOverData>
+	</location>
+	<location place="Brussels" xCoord="4.377191" yCoord="50.809423">
+		<printer>Fratres Vitae Communis</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>Opuscula</title>
+			<author>Johannes Gerson</author>
+			<istc>ig00246000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Burgdorf" xCoord="7.6333" yCoord="47.05">
+		<printer> Printer of Jacobus de Clusa (H 9349*)</printer>
+		<year>1474</year>
+		<firstWork>
+			<title>De periculis contingentibus circa sacramentum eucharistiae</title>
+			<author>Thomas Aquinas</author>
+			<istc>it00317500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Caselle" xCoord="7.65" yCoord="45.1667">
+		<printer>Johannes Fabri Lingonensis</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>Vitae Sanctorum Patrum</title>
+			<author>Hieronymus</author>
+			<istc>ih00196500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Piacenza" xCoord="9.6833" yCoord="45.05">
+		<printer>Johannes Petrus de Ferratis</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>Biblia Latina</title>
+			<istc>ib00542000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Piove di Sacco" xCoord="12.0333" yCoord="45.2833">
+		<printer>Meshullam Cuzi</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>Arba'ah Turim</title>
+			<author>Jacob Ben Aser: [Hebrew]</author>
+			<istc>ij00000200</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Reggio di Calabria" xCoord="15.65" yCoord="38.1">
+		<printer>Abraham ben Garton</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>Perush ha-Torah</title>
+			<author>Solomon ben Isaac</author>
+			<istc>is00625180</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Zaragoza" xCoord="-0.9" yCoord="41.65">
+		<printer>Mathaeus Flander (of Flanders)</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>Manipulus curatorum</title>
+			<author>Guido de Monte Rochen</author>
+			<istc>ig00569000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Faenza" xCoord="11.8833" yCoord="44.2833">
+		<printer>Chilianus Fer and Henricus Chandler</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>Doctrinale</title>
+			<author>Alexander de Villa Dei</author>
+			<istc>ia00420950</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Pilsen" xCoord="13.4167" yCoord="49.75">
+		<printer>[Printer of 'Statuta synodalia']</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>Heading: Statuta Pragensia (Prague); Title: Synodalia. Ed: Ernestus, archiepiscopus Pragensis. Add: Thomas de Hibernia: De tribus punctis essentialibus christianae religionis</title>
+			<istc>is00751000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Pojano (nr. Verona)" xCoord="11.01" yCoord="45.473">
+		<printer>Felix Antiquarius and Innocens Ziletus</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>De viris illustribus [Italian] Libro degli uomini famosi. Tr: Donato degli Albanzani;</title>
+			<author>Petrarca, Francesco</author>
+			<istc>ip00415000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Reutlingen" xCoord="9.2167" yCoord="48.5">
+		<printer>Michael Greyff</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>Schreiben an Herzog Sigismund von Oesterreich betreffend die Herrschaft Hohenberg. Issued at Urach, 18 Oct. 1476</title>
+			<author>Eberhard der Ältere, Graf von Württemberg</author>
+			<istc>ie00002100</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Ascoli Piceno" xCoord="13.5833" yCoord="42.8667">
+		<printer>Golielmo de Linis de Alamania</printer>
+		<year>1477</year>
+		<firstWork>
+			<title>Chronicon [Italian] La Cronica</title>
+			<author>Isidorus Hispalensis</author>
+			<istc>ii00178700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Delft" xCoord="4.35" yCoord="52.0167">
+		<printer>Jacob Jacobszoon van der Meer and Mauricius Yemantszoon</printer>
+		<year>1477</year>
+		<firstWork>
+			<title>Biblia: Vetus Testamentum [Dutch]. Without the Psalms, but including the Apocrypha</title>
+			<istc>ib00648000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Deventer" xCoord="6.1667" yCoord="52.25">
+		<printer>Richardus Pafraet</printer>
+		<year>1477</year>
+		<firstWork>
+			<title>Liber Bibliae moralis [or other 1477]</title>
+			<author>Petrus Berchorius</author>
+			<istc>ib00338000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Gouda" xCoord="4.7167" yCoord="52.0167">
+		<printer>Gerard Leeu</printer>
+		<year>1477</year>
+		<firstWork>
+			<title>Epistolae et Evangelia [Dutch]</title>
+			<istc>ie00064700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Tortosa" xCoord="0.5167" yCoord="40.8167">
+		<printer>Nicolaus Spindeler and Petrus Brun</printer>
+		<year>1477</year>
+		<firstWork>
+			<title>Rudimenta grammatices</title>
+			<author>Nicolas Perottus</author>
+			<istc>ip00307900</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Chablis" xCoord="3.8" yCoord="47.8167">
+		<printer>Pierre Le Rouge</printer>
+		<year>1478</year>
+		<firstWork>
+			<title>Le livre de bonnes moeurs</title>
+			<author>Magni, Jacobus, aka Jacques Legrand</author>
+			<istc>im00034200</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Cosenza" xCoord="16.2667" yCoord="39.2833">
+		<printer>Octavianus Salamonius</printer>
+		<year>1478</year>
+		<firstWork>
+			<title>Disticha de moribus</title>
+			<author>Cato, Dionysius</author>
+			<istc>ic00288100</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Geneva" xCoord="6.124811" yCoord="46.174423">
+		<printer>Adam Steinschaber</printer>
+		<year>1478</year>
+		<firstWork>
+			<title>Libre des angels [French] Le livre des saints anges</title>
+			<author>Ximenes, Franciscus, Author also recorded as Francesc Eiximenis</author>
+			<istc>ix00009000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Messina" xCoord="15.55" yCoord="38.1833">
+		<printer>Henricus Alding</printer>
+		<year>1474</year>
+		<firstWork>
+			<title>Aesopus moralisatus. Preceded by Vita (abbreviated). Add: Epitaph by Pomphilius</title>
+			<author>Aesopus</author>
+			<istc>ia00128500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Oxford" xCoord="-1.25" yCoord="51.7667">
+		<printer>[Printer of the 'Expositio in symbolum apostolorum'] [Theodoricus Rood]</printer>
+		<year>1478</year>
+		<firstWork>
+			<title>Expositio in symbolum apostolorum</title>
+			<author>Rufinus, Tyrannius</author>
+			<istc>ir00352000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Palermo" xCoord="13.386578" yCoord="38.111809">
+		<printer>Andreas Vyel</printer>
+		<year>1478</year>
+		<firstWork>
+			<title>Heading: Statuta Panormi (Palermo); Title: Consuetudines urbis Panormi. Prelim: Johannes Naso, Epistola praetori iuratisque Panormitanis; Antoninus Baiamontius, Epigramma. Add: Alexander IV, Forma confirmationis papalis praesentium consuetudinum; Ludovicus Rex Siciliae, Privilegium civium Panormitanorum de non renunciandis privilegiis et beneficiis civitatis; Fridericus Rex Siciliae, Litterae officialibus Siciliae; Declaratio corrigens fraudes contra tenorem Panormitanae consuetudinis</title>
+			<istc>is00720350</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Schussenried" xCoord="9.65" yCoord="48.0167">
+		<printer>[Printer of 'Gracchus et Poliscena']</printer>
+		<year>1478</year>
+		<firstWork>
+			<title>Gracchus et Poliscena comoedia The work is also known as 'Calphurnia et Gurgulio comoedia'. </title>
+			<author>Brunus Aretinus, Leonardus The true author is Leonardo della Serrata (G. Nonni, in Giornale italiano di filologia 5 (1974) pp.278 ff., H.-W. Nörenberg, in Humanistica Lovaniensia 24 (1975) pp.5-8)</author>
+			<istc>ib01245000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="St. Maartensdijk" xCoord="4.0833" yCoord="51.55">
+		<printer>Pieter Werrecoren</printer>
+		<year>1478</year>
+		<firstWork>
+			<title>Seelentrost [Dutch] Der zyelen Troeste</title>
+			<istc>is00359500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Torre Belvicino" xCoord="11.3167" yCoord="45.7167">
+		<printer>Giovanni Leonardo Longo</printer>
+		<year>1478</year>
+		<firstWork>
+			<title>Heading: Officium; Title: Officium Immaculatae Conceptionis. Ed: Leonardus Nogarolus. Add: Sixtus IV, Bulla 27 Feb. 147677 "Cum praecelsa". Introitus ad Missam de Immaculata Conceptione</title>
+			<istc>io00051600</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Lérida" xCoord="0.6333" yCoord="41.6167">
+		<printer>Heinrich Botel, for Antonio Palares</printer>
+		<year>1479</year>
+		<firstWork>
+			<title>Breviarium Ilerdense (Lérida)</title>
+			<istc>ib01162475</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Magdeburg" xCoord="11.599808" yCoord="52.102417">
+		<printer>Bartholomaeus Ghotan</printer>
+		<year>1479</year>
+		<firstWork>
+			<title>Almanac 1480 [Low German]</title>
+			<istc>ia00499270</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Toscolano" xCoord="10.6167" yCoord="45.6333">
+		<printer>Gabriele di Pietro</printer>
+		<year>1479</year>
+		<firstWork>
+			<title>Regulae grammaticales. Add: Carmina differentialia. De diphthongis</title>
+			<author>Guarinus Veronensis</author>
+			<istc>ig00535100</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Würzburg" xCoord="9.9333" yCoord="49.7833">
+		<printer>Stephan Dold, Georg Reyser, Johann Beckenhub</printer>
+		<year>1479</year>
+		<firstWork>
+			<title>Breviarium Herbipolense (Würzburg). Commissioned by Rudolphus de Scherenberg, Episcopus Herbipolensis (Würzburg)</title>
+			<istc>ib01162400</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Caen" xCoord="-0.364576" yCoord="49.184195">
+		<printer>Jacques Durandas and Gilles Quijoue</printer>
+		<year>1480</year>
+		<firstWork>
+			<title>Epistolae</title>
+			<author>Horatius Flaccus, Quintus</author>
+			<istc>ih00472400</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Cividale" xCoord="13.4167" yCoord="46.1">
+		<printer>Gerardus de Lisa, de Flandria</printer>
+		<year>1480</year>
+		<firstWork>
+			<title>De honesta voluptate et valetudine</title>
+			<author>Bartholomaeus Platina</author>
+			<istc>ip00763000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Hasselt " xCoord="6.0833" yCoord="52.6">
+		<printer>P[eregrinus] B[armentlo]</printer>
+		<year>1480</year>
+		<firstWork>
+			<title>Epistolae et Evangelia [Dutch]</title>
+			<istc>ie00066300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Reggio nell'Emilia" xCoord="10.6167" yCoord="44.7">
+		<printer>Ugo Rugerius</printer>
+		<year>1478</year>
+		<firstWork>
+			<title>Algorithmus [Italian]</title>
+			<istc>ia00467500</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Printed in an edition of 500 copies. On the contract, which confirms the place of publication, see Elio Monducci and Andrea Canova, in Rhegii Lingobardiae: studi sulla cultura a Reggio Emilia in età umanistica, ed. Andrea Canova (Reggio Emilia, 2004) pp.11-29. GW and IGI assign to Venice</text>
+		</mouseOverData>
+	</location>
+	<location place="St. Albans" xCoord="-0.35" yCoord="51.7667">
+		<printer>[Schoolmaster Printer]</printer>
+		<year>1479</year>
+		<firstWork>
+			<title>Elegantiolae</title>
+			<author>Datus, Augustinus</author>
+			<istc>id00066600</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Salamanca " xCoord="-5.6667" yCoord="40.9667">
+		<printer>[Printer of Nebrissensis, 'Introductiones'] </printer>
+		<year>1480</year>
+		<firstWork>
+			<title>Leyes que en las Cortes de Toledo ordenaron los reyes Fernando V e Isabel I de Castilla, 28 May 1480</title>
+			<author>Ferdinandus et Isabella, reges Hispanienses</author>
+			<istc>if00074300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Nonantola" xCoord="11.05" yCoord="44.6833">
+		<printer>Giorgio and Antonio di Bartolommeo Miscomini</printer>
+		<year>1480</year>
+		<firstWork>
+			<title>Breviarium Romanum (Franciscan usage)</title>
+			<istc>ib01119600</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Zwolle" xCoord="6.124577" yCoord="52.514806">
+		<printer>Johannes de Vollenhoe</printer>
+		<year>1477</year>
+		<firstWork>
+			<title>Prognosticatio pro anno 1478 [Dutch] Prognosticatie voor het jaar 1478</title>
+			<istc>ip01005750</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Rheinstein (Fautsberg)" xCoord="7.867222" yCoord="48.988056">
+		<printer>[n.pr., for Erwin von Stege] </printer>
+		<year>1477</year>
+		<firstWork>
+			<title>Dialogus inter Hugonem, Catonem, et Oliverium super libertate ecclesiastica</title>
+			<istc>id00161000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Louvain" xCoord="4.7" yCoord="50.8833">
+		<printer>Johann Veldener</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Genealogiae deorum. Comprising only Books I-XIII. Additions by Dominicus Silvester</title>
+			<author>Boccaccio, Giovanni</author>
+			<istc>ib00750000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Segovia" xCoord="-4.1167" yCoord="40.95">
+		<printer>Johannes Parix</printer>
+		<year>1472</year>
+		<firstWork>
+			<title>Sinodal de Aguilafuente, 1-10 June 1472</title>
+			<istc>is00753500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Genoa" xCoord="8.892194" yCoord="44.415421">
+		<printer>Antonius Mathiae and Henricus de Antverpia</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Ragione della Pasqua della luna e delle feste [Latin and Italian]</title>
+			<istc>ir00004800</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Bologna" xCoord="11.343191" yCoord="44.475421">
+		<printer>Scipio Malpiglius</printer>
+		<year>1470</year>
+		<firstWork>
+			<title>Torneamento fatto in Bologna il 4 ottobre 1470 per ordine di Giovanni Bentivoglio</title>
+			<author>Cieco da Firenze, Francesco</author>
+			<istc>if00279300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Florence" xCoord="11.258552" yCoord="43.770765">
+		<printer>Bernardus and Dominicus Cenninus</printer>
+		<year>1471</year>
+		<firstWork>
+			<title>Commentarii in Vergilii opera. Ed: Petrus Cenninus</title>
+			<author>Servius Maurus, Honoratus</author>
+			<istc>is00481000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Naples" xCoord="14.269218" yCoord="40.855779">
+		<printer>Printer of Terentius (Pr 6748)</printer>
+		<year>1470</year>
+		<firstWork>
+			<title>Comoediae. Preceded by: Epitaphium Terentii</title>
+			<author>Terentius Afer, Publius</author>
+			<istc>it00064300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Padua" xCoord="11.883" yCoord="45.4167">
+		<printer>Laurentius Canozius de Lendenaria</printer>
+		<year>1471</year>
+		<firstWork>
+			<title>Opera medicinalia. Petrus de Abano: Additiones ad practicam</title>
+			<author>Mesue, Johannes</author>
+			<istc>im00509000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Perugia" xCoord="12.394193" yCoord="43.158965">
+		<printer>Petrus Petri de Colonia and Johannes Nicolai de Bamberga</printer>
+		<year>1472</year>
+		<firstWork>
+			<title>Super VI Codicis</title>
+			<author>Ubaldis, Baldus de</author>
+			<istc>iu00017400</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Treviso" xCoord="12.25" yCoord="45.6667">
+		<printer>Gerardus de Lisa, de Flandria</printer>
+		<year>1471</year>
+		<firstWork>
+			<title>De potestate et sapientia Dei (Tr: Marsilius Ficinus)</title>
+			<author>Hermes Trismegistus</author>
+			<istc>ih00077000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Mantua" xCoord="10.7833" yCoord="45.1667">
+		<printer>Petrus Adam de Michaelibus</printer>
+		<year>1472</year>
+		<firstWork>
+			<title>Tractatus de maleficiis</title>
+			<author>Gambilionibus, Angelus de</author>
+			<istc>ig00058000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Verona" xCoord="11" yCoord="45.4333">
+		<printer>[Verona: Paulus Butzbach and Georgius de Augusta]</printer>
+		<year>1471</year>
+		<firstWork>
+			<title>Oeconomica (Comm &amp; tr: Leonardus Brunus Aretinus)</title>
+			<author>Aristoteles</author>
+			<istc>ia01009000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Bruges" xCoord="3.210809" yCoord="51.164032">
+		<printer>William Caxton</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Le Recueil des histoires de Troyes [English] Recuyell of the historyes of Troye (Tr: William Caxton)</title>
+			<author>Lefèvre, Raoul</author>
+			<istc>il00117000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Buda" xCoord="19.066424" yCoord="47.487415">
+		<printer>Andreas Hess</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Chronica Hungarorum</title>
+			<istc>ic00484900</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Erfurt" xCoord="11.008418" yCoord="50.930032">
+		<printer>[Erfurt?: Printer of the Indulgence, about 1473]</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Indulgentia 1473. In favour of the Cathedral and Severikirche at Erfurt</title>
+			<author>Sixtus IV, Pont. Max. (formerly Franciscus, Cardinalis de Rovere)</author>
+			<istc>is00561300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Esslingen" xCoord="9.3167" yCoord="48.75">
+		<printer>Conrad Fyner</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Exhortatio de celebratione missae</title>
+			<istc>ie00138000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Iesi" xCoord="13.2333" yCoord="43.5167">
+		<printer>Federicus de Comitibus, Veronensis</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Liber constitutionum Sanctae Matris Ecclesiae (with additions to 1466). Ed: Aegidius Albornoz</title>
+			<istc>ic00865000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Merseburg" xCoord="12" yCoord="51.3667">
+		<printer>Lucas Brandis</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Quaestiones Orosii et responsiones Augustini. Add: De vino et pane</title>
+			<author>Augustinus, Aurelius</author>
+			<istc>ia01297900</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Valencia" xCoord="-0.394582" yCoord="39.443422">
+		<printer>Lambert Palmart</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>Ethica ad Nicomachum. Add: Politica; Oeconomica (Tr: Leonardus Brunus Aretinus)</title>
+			<author>Aristoteles</author>
+			<istc>ia00985000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Marienthal" xCoord="7.98" yCoord="50.0133">
+		<printer>Fratres Vitae Communis</printer>
+		<year>1474</year>
+		<firstWork>
+			<title>Breviarium Moguntinum (Mainz)</title>
+			<istc>ib01169000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Sant'Orso" xCoord="11.3833" yCoord="45.7333">
+		<printer>Leonardus Achates de Basilia</printer>
+		<year>1474</year>
+		<firstWork>
+			<title>Vitae sanctorum patrum, sive Vitas patrum [Italian] Vite di sancti padri. Tr: Domenico Cavalca</title>
+			<author>Hieronymus</author>
+			<istc>ih00223000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Savona" xCoord="8.4667" yCoord="44.3">
+		<printer>Johannes Bonus</printer>
+		<year>1474</year>
+		<firstWork>
+			<title>Doctrinale (Partes I-IV), OR De consolatione philosophiae</title>
+			<author>Alexander de Villa Dei, Boethius</author>
+			<istc>ia00419870, ib00769400</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Guadalajara" xCoord="-3.1667" yCoord="40.6167">
+		<printer>Solomon Alkabiz</printer>
+		<year>1480</year>
+		<firstWork>
+			<title>Tur Hoshen ha-Mishpat</title>
+			<author>Jacob ben Asher</author>
+			<istc>ij00000850</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Turin" xCoord="7.657232" yCoord="45.04729">
+		<printer>Johannes Fabri Lingonensis</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>Practica nova judicialis</title>
+			<author>Ferrariis, Johannes Petrus de</author>
+			<istc>if00109500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Albi" xCoord="2.1333" yCoord="43.9333">
+		<printer>[Printer of Pius II, 'Epistola de remedio amoris' (H 183)]</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>De remedio amoris</title>
+			<author>Pius II, Pont. Max. (formerly Aeneas Sylvius Piccolomini)</author>
+			<istc>ip00737800</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Breslau" xCoord="17" yCoord="51.1">
+		<printer>Caspar Elyan</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>Heading: Statuta Vratislavensia (Breslau, WrocBaw)</title>
+			<istc>is00755300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Cagli" xCoord="12.6333" yCoord="43.55">
+		<printer>Robertus de Fano &amp; Bernardinus de Bergamo</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>De morte Astyanactis. Ed: Laurentius Abstemius</title>
+			<author>Maphaeus Vegius</author>
+			<istc>iv00111700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Lübeck" xCoord="10.667" yCoord="53.8667">
+		<printer>Lucas Brandis</printer>
+		<year>1474</year>
+		<firstWork>
+			<title>Seelen-Wurzgarten [Low German]</title>
+			<istc>is00363500 and is00366360</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Modena" xCoord="10.9167" yCoord="44.65">
+		<printer>[Johannes Vurster]</printer>
+		<year>1474</year>
+		<firstWork>
+			<title>Libellus isagogicus. Tr: Johannes Hispalensis</title>
+			<author>Alchabitius</author>
+			<istc>ia00361500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Trent" xCoord="11.129198" yCoord="46.077197">
+		<printer>Albrecht Kunne</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>Historie von Simon zu Trient</title>
+			<author>Simone da Trento</author>
+			<istc>is00528800</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Angers" xCoord="-0.5333" yCoord="47.4833">
+		<printer>Johannes de La Tour (de Turre) and Johannes Morelli</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>Rhetorica ad C. Herennium</title>
+			<author>Cicero, Marcus Tullius</author>
+			<istc>ic00679400</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Rostock" xCoord="12.15" yCoord="54.1">
+		<printer>Fratres Domus Horti Viridis ad S. Michaelem</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>Stimulus amoris, OR Soliloquium Iubilaeum</title>
+			<author>Anselmus, S</author>
+			<istc>ia00764750, ia00764700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Toulouse" xCoord="1.447196" yCoord="43.627577">
+		<printer>Henricus Turner?</printer>
+		<year>1475</year>
+		<firstWork>
+			<title>Historia Griseldis</title>
+			<author>Petrarca, Francesco</author>
+			<istc>ip00402300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Westminster" xCoord="-0.125837" yCoord="51.500977">
+		<printer>William Caxton</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>Indulgentia 1476. For promoting the war against the Turks</title>
+			<author>Sant, Johannes, Abbot of Abingdon, commissary</author>
+			<istc>is00163100</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location>
+		<printer>William Caxton</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>Propositio ad Carolum ducem Burgundiae</title>
+			<author>Russell, John</author>
+			<istc> ir00365300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location>
+		<printer>William Caxton</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>Disticha de moribus [English and Latin] Tr: Benedict Burgh</title>
+			<author>Cato, Dionysius</author>
+			<istc>ic00314000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location>
+		<printer>William Caxton</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>The Churl and the Bird</title>
+			<author>Lydgate, John</author>
+			<istc>il00406000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location>
+		<printer>William Caxton</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>The Horse, the Sheep, and the Goose</title>
+			<author>Lydgate, John</author>
+			<istc>il00407000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location>
+		<printer>William Caxton</printer>
+		<year>1476</year>
+		<firstWork>
+			<title>Stans puer ad mensam</title>
+			<author>Lydgate, John</author>
+			<istc>il00411000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Lucca" xCoord="10.467" yCoord="43.8333">
+		<printer>Bartholomaeus de Civitali</printer>
+		<year>1477</year>
+		<firstWork>
+			<title>Trionfi</title>
+			<author>Petrarca, Francesco</author>
+			<istc>ip00393500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Seville" xCoord="-6.016964" yCoord="37.327036">
+		<printer>Antonio Martinez, Alfonso del Puerto and Bartolomé Segura</printer>
+		<year>1477</year>
+		<firstWork>
+			<title>Sacramental</title>
+			<author>Sanchez de Vercial, Clemente</author>
+			<istc>is00119050</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Colle di Valdelsa" xCoord="11.1333" yCoord="43.4167">
+		<printer>Bonus Gallus</printer>
+		<year>1478</year>
+		<firstWork>
+			<title>Halieutica, sive De piscatu (Tr: Laurentius Lippius). With recipes for cooking added by Lippius, OR De mirabilibus mundi, OR De primo et ultimo instanti ad defensionem communis opinionis adversus Petrum Mantuanum</title>
+			<author>Oppianus, Albertus Magnus, Offredus, Apollinaris</author>
+			<istc>io00065000, ia00284500, io00060000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Vienne" xCoord="4.9" yCoord="45.5333">
+		<printer>Johannes Solidi (Schilling)</printer>
+		<year>1477</year>
+		<firstWork>
+			<title>Epistola de gubernatione rei familiaris [French]. Add: Ballades</title>
+			<author>Bernardus Claravallensis  [The true author is Bernardus Silvestris]</author>
+			<istc>ib00382150</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Nijmegen" xCoord="5.8667" yCoord="51.8333">
+		<printer>[Printer of Cultrificis, 'De simonia vitanda' (Gerardus de Leempt?)]</printer>
+		<year>1479</year>
+		<firstWork>
+			<title>De simonia vitanda</title>
+			<author>Cultrificis, Engelbertus</author>
+			<istc>ic00986000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Poitiers" xCoord="0.367583" yCoord="46.61258">
+		<printer>In domo cuiusdam canonici ecclesiae S. Hilarii [Jean Bouyer]</printer>
+		<year>1479</year>
+		<firstWork>
+			<title>Breviarium historiarum [Extracts]</title>
+			<author>Landulphus de Columna</author>
+			<istc>ic00783000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Zürich" xCoord="8.55" yCoord="47.3833">
+		<printer>[Printer of Albertus de Albo Lapide (Sigismundus Rodt)]</printer>
+		<year>1479</year>
+		<firstWork>
+			<title>Laus et commendatio cantici Salue Regina</title>
+			<author>Albertus de Albo Lapide</author>
+			<istc>ia00338600</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="London (City)" xCoord="-0.0833" yCoord="51.5">
+		<printer>John Lettou, for William Wilcock</printer>
+		<year>1480</year>
+		<firstWork>
+			<title>Quaestiones super XII libros Metaphysicae Aristotelis. Ed: Thomas Penket</title>
+			<author>Andreae, Antonius</author>
+			<istc>ia00581000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Memmingen" xCoord="10.1833" yCoord="47.9833">
+		<printer>Albrecht Kunne</printer>
+		<year>1479</year>
+		<firstWork>
+			<title>Almanac 1479? [German]</title>
+			<istc>ia00498600</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Audenarde" xCoord="3.6167" yCoord="50.8333">
+		<printer>Arend de Keysere</printer>
+		<year>1480</year>
+		<firstWork>
+			<title>Sermones quinquaginta super orationem dominicam</title>
+			<author>Hermannus de Petra</author>
+			<istc>ih00072000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Passau" xCoord="13.4667" yCoord="48.5833">
+		<printer> Benedictus Mayr</printer>
+		<year>1480</year>
+		<firstWork>
+			<title>Appellation des Domkapitels Passau an Papst Sixtus IV gegen die Wahl und Bestätigung Georgs von Hessler zum Bischof von Passau, 27 Nov. 1480 [Latin]</title>
+			<istc>ip00127710</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Pressburg (Bratislava)" xCoord="17.1667" yCoord="48.1667">
+		<printer>[Hungary: Printer of the 'Confessionale']  </printer>
+		<year>1477</year>
+		<firstWork>
+			<title>Confessionale: Defecerunt scrutantes scrutinio. Add: Titulus de restitutionibus</title>
+			<author>Antoninus Florentinus</author>
+			<istc>ia00804500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	
+	<location place="Abbeville" xCoord="1.8333" yCoord="50.1">
+		<printer>Pierre Gérard and Jean Du Pré (printer of Paris)</printer>
+		<year>1486</year>
+		<firstWork>
+			<title>De civitate dei [French] De la cite de dieu. Comm: &amp; Tr: Raoul de Preslles</title>
+			<author>Augustinus, Aurelius</author>
+			<istc>ia01247000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Antwerp" xCoord="4.398422" yCoord="51.216197">
+		<printer>Mathias van der Goes</printer>
+		<year>1481</year>
+		<firstWork>
+			<title>Boexken vander officien ofte dienst der missen</title>
+			<author>Simon van Venlo</author>
+			<istc>is00529100</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Aquila" xCoord="13.456778" yCoord="42.324378">
+		<printer>Adam de Rottweil, for Ludovicus Tortus, Dominicus de Montorio and Ludovicus de Camillis</printer>
+		<year>1482</year>
+		<firstWork>
+			<title>Vitae illustrium virorum [Italian]. Tr: Battista Alessandro Jaconello from the Latin versions of Lapus Florentinus, Leonardus Brunus Aretinus, Donatus Acciaiolus and others. Add: Jaconello: Sonetti, Epistola a Lodovico Torti</title>
+			<author>Plutarchus</author>
+			<istc>ip00836000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Besançon" xCoord="6.027197" yCoord="47.275583">
+		<printer>Petrus Metlinger</printer>
+		<year>1487</year>
+		<firstWork>
+			<title>Arbolayre... [French] Le grant herbier en francois</title>
+			<istc>ia00944000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC dates the Arbolayre "about 1486-1488." An alternate printing within these dates is the Regimen sanitatis Salernitanum, printed by [Petrus Metlinger], 1487, ISTC ir00071500. </text>
+		</mouseOverData>
+	</location>
+	<location place="Bréhan-Loudéac" xCoord="-2.7" yCoord="48.0667">
+		<printer>Robin Fouquet and Jean Crès</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Le Trépassement de Notre Dame</title>
+			<istc>it00427893</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Brünn (Brno)" xCoord="16.588418" yCoord="49.157032">
+		<printer>Conrad Stahel and Mathias Preunlein</printer>
+		<year>1486</year>
+		<firstWork>
+			<title>Agenda Olomucensis</title>
+			<istc>ia00163200</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Burgos" xCoord="-3.6833" yCoord="42.35">
+		<printer>Fadrique de Basilea (Friedrich Biel)</printer>
+		<year>1485</year>
+		<firstWork>
+			<title>Grammatica latina</title>
+			<author>Guterrius, Andreas</author>
+			<istc>ig00732500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Capua" xCoord="14.2167" yCoord="41.1">
+		<printer>Cristannus Preller</printer>
+		<year>1489</year>
+		<firstWork>
+			<title>Breviarium Capuanum (Capua)</title>
+			<istc>ib01150600 </istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Casal di San Vaso" xCoord="8.45" yCoord="45.1333">
+		<printer>Antonius de Corsiono and Guilielmus de Canepa, for Stephanus de Ulmo</printer>
+		<year>1481</year>
+		<firstWork>
+			<title>In Heroidas Ovidii commentum</title>
+			<author>Clericus, Hubertinus Crescentinas</author>
+			<istc>ic00747035</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Casal Maggiore" xCoord="10.4167" yCoord="44.9667">
+		<printer>Sons of Israel Nathan Soncino</printer>
+		<year>1486</year>
+		<firstWork>
+			<title>Mahazor</title>
+			<istc>im00007850</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC note: Printing started in Soncino between 10 Sept. and 9 Oct. 1485 and was completed in Casal Maggiore between 21 and 29 Aug. 1486</text>
+		</mouseOverData>
+	</location>
+	<location place="Castano Primo" xCoord="8.7667" yCoord="45.55">
+		<printer>Johannes Antonius de Cornate</printer>
+		<year>1486</year>
+		<firstWork>
+			<title>Psalterium Romanum cum hymnis et antiphonis</title>
+			<istc>ip01046330</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Chambéry" xCoord="5.9167" yCoord="45.5667">
+		<printer>Printer of the Breviarium Sedunense (Henricus Wirtzburg?)</printer>
+		<year>1482</year>
+		<firstWork>
+			<title>Confessionale: Defecerunt scrutantes scrutinio. Add: Titulus de restitutionibus</title>
+			<author>Florentinus, Antoninus</author>
+			<istc>ia00809400</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Assigned to Neyret by GW, to the Printer of the Breviarium Sedunense by Hillard <br />Extended version of the Confessionale</text>
+		</mouseOverData>
+	</location>
+	<location place="Chartres" xCoord="1.5" yCoord="48.45">
+		<printer>Jean Du Pré (printer of Paris)</printer>
+		<year>1482</year>
+		<firstWork>
+			<title>Missale Carnotense (Chartres)</title>
+			<istc>im00653450</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Chaves" xCoord="-7.4667" yCoord="41.7333">
+		<printer>[n.pr.]</printer>
+		<year>1489</year>
+		<firstWork>
+			<title>Heading: Confessionale [Portuguese], Title: Tratado de confisom</title>
+			<istc>ic00824800</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Chivasso " xCoord="7.8833" yCoord="45.1833">
+		<printer>Jacobinus Suigus</printer>
+		<year>1486</year>
+		<firstWork>
+			<title>Summa angelica de casibus conscientiae</title>
+			<author>Angelus de Clavasio</author>
+			<istc>ia00713000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Copenhagen" xCoord="12.577577" yCoord="55.692418">
+		<printer>Govert van Ghemen</printer>
+		<year>1489</year>
+		<firstWork>
+			<title>Ars minor</title>
+			<author>Donatus, Aelius</author>
+			<istc>id00332900</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC note: [about 1493-95], [about 1489]. On this press, see L. and W. Hellinga, in Fund og Forskning XV (1968) pp.7-38. Cf. HPT I p.84. GW dated about 1489.</text>
+		</mouseOverData>
+	</location>
+	<location place="Coria" xCoord="-6.5333" yCoord="39.9833">
+		<printer>Bartholomaeus de Lila</printer>
+		<year>1489</year>
+		<firstWork>
+			<title>Blasón general</title>
+			<author>Gratia Dei, Petrus</author>
+			<istc>ig00355000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Culemborg" xCoord="5.2167" yCoord="51.95">
+		<printer>Johann Veldener</printer>
+		<year>1483</year>
+		<firstWork>
+			<title>Boek van den Houte</title>
+			<istc>ib00766500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Dillingen" xCoord="10.5" yCoord="48.55">
+		<printer>Johann Sensenschmidt</printer>
+		<year>1489</year>
+		<firstWork>
+			<title>Missale Augustanum (Augsburg)</title>
+			<istc>im00645450</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Dôle" xCoord="5.5" yCoord="47.0833">
+		<printer>Petrus Metlinger</printer>
+		<year>1490</year>
+		<firstWork>
+			<title>Coutumes de Bourgogne</title>
+			<istc>ic00953400</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Eichstätt" xCoord="11.2167" yCoord="48.9">
+		<printer>Michael Reyser</printer>
+		<year>1483</year>
+		<firstWork>
+			<title>Prognosticon, 1484 [German]</title>
+			<author>Geroch, Vitus</author>
+			<istc>ig00183100</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Embrun" xCoord="6.5" yCoord="44.55">
+		<printer>Types of Jacobus Rubeus</printer>
+		<year>1489</year>
+		<firstWork>
+			<title>Breviarium Ebredunense (Embrun). Ed: Spiritus Roverius</title>
+			<istc>ib01158700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Faro" xCoord="-7.90042" yCoord="36.991417">
+		<printer>[n.pr.], for Don Samuel Gacon</printer>
+		<year>1487</year>
+		<firstWork>
+			<title>Biblia Hebraica: Pentateuch [heading], Torah [title]</title>
+			<istc>ib00525580</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Freiburg im Breisgau" xCoord="7.8667" yCoord="48">
+		<printer>Kilianus Piscator (Fischer)</printer>
+		<year>1491</year>
+		<firstWork>
+			<title>Biblia latina</title>
+			<istc>ib00590000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC note: "BMC assigned to Fischer, Proctor and GW to Amerbach." A similarly dated printing is the Rhetorica divina, printed by Kilianus Piscator (Fischer),  [not after 1491], ISTC ig00714000. BMC dates the Bibla latina 1491, and cites Rhetorica as undated.</text>
+		</mouseOverData>
+	</location>
+	<location place="Gaeta" xCoord="13.58" yCoord="41.2167">
+		<printer>Andreas Freitag</printer>
+		<year>1487</year>
+		<firstWork>
+			<title>Formulario di lettere e di orazioni in volgare</title>
+			<author>Landinus, Christophorus</author>
+			<istc>il00038500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Gerona" xCoord="2.8167" yCoord="41.9833">
+		<printer>[n.pr.], for Matheu Vendrell</printer>
+		<year>1483</year>
+		<firstWork>
+			<title>Memorial del pecador remut</title>
+			<author>Malla, Felipe de</author>
+			<istc>im00101800</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Ghent" xCoord="3.7" yCoord="51.0333">
+		<printer>Arend de Keysere</printer>
+		<year>1483</year>
+		<firstWork>
+			<title>Traité d'Arras</title>
+			<istc>it00421800, </istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Grenoble" xCoord="5.7167" yCoord="45.1833">
+		<printer>Stephanus Foreti</printer>
+		<year>1490</year>
+		<firstWork>
+			<title>Decisiones Parlamenti Delphinalis</title>
+			<author>Papa, Guido</author>
+			<istc>ip00077000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Haarlem" xCoord="4.659584" yCoord="52.396196">
+		<printer>Jacob Bellaert</printer>
+		<year>1483</year>
+		<firstWork>
+			<title>Liden ende die passie Ons Heeren Jesu Christi</title>
+			<istc>il00213300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Hagenau" xCoord="7.7833" yCoord="48.8167">
+		<printer>Heinrich Gran</printer>
+		<year>1489</year>
+		<firstWork>
+			<title>Cornutus cum commento</title>
+			<author>Garlandia, Johannes de</author>
+			<istc>ig00082000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Hamburg" xCoord="10.073966" yCoord="53.543416">
+		<printer>Johann and Thomas Borchard</printer>
+		<year>1488</year>
+		<firstWork>
+			<title>Practica auf das Jahr 1488</title>
+			<author>Eck, Paulus</author>
+			<istc>ie00012995</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Approximate date. First certain Hamburg date is 1491: Laudes beatae Mariae virginis printed by Johann and Thomas Borchard, ISTC ij00185000.</text>
+		</mouseOverData>
+	</location>
+	<location place="Heidelberg" xCoord="8.7" yCoord="49.4167">
+		<printer>Heinrich Knoblochtzer</printer>
+		<year>1482</year>
+		<firstWork>
+			<title>Wie man sich halten soll bei einem sterbenden Menschen</title>
+			<author>Geiler von Kaiserberg, Johann</author>
+			<istc>ig00117800</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>A free adaptation in German of Johannes Gerson, De arte moriendi</text>
+		</mouseOverData>
+	</location>
+	<location place="Hijar" xCoord="-0.45" yCoord="41.1667">
+		<printer>Eliezer ben Alantansi</printer>
+		<year>1485</year>
+		<firstWork>
+			<title>Tur Orah Hayyim</title>
+			<author>Jacob ben Asher</author>
+			<istc>ij00000400</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Huete" xCoord="-2.7" yCoord="40.15">
+		<printer>Alvaro de Castro</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Ordenanzas reales</title>
+			<author>Díaz de Montalvo, Alonso</author>
+			<istc>id00168700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Ingolstadt" xCoord="11.45" yCoord="48.7667">
+		<printer>Printer of Lescherius, 'Rhetorica' (Bartholomaeus Golsch?)</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Erlass betreffend den Fastendispens (Butterbrief) zum besten der Kirche U.L.Frau in Ingolstadt. Innsbruck, 1 Mar. 1484</title>
+			<author>Maraschis, Bartholomaeus de</author>
+			<istc>im00227700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Kirchheim " xCoord="7.5" yCoord="48.6167">
+		<printer>Marcus Reinhart</printer>
+		<year>1489</year>
+		<firstWork>
+			<title>Practica auf das Jahr 1490</title>
+			<author>Schrotbanck, Hans</author>
+			<istc>is00330490</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Kuttenberg" xCoord="15.25" yCoord="49.95">
+		<printer>Martin of Tischniowa</printer>
+		<year>1489</year>
+		<firstWork>
+			<title>Biblia [Czech]</title>
+			<istc>ib00621000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Lantenac" xCoord="-2.61" yCoord="48.1603">
+		<printer>Jean Crès</printer>
+		<year>1487</year>
+		<firstWork>
+			<title>Itinerarius [French] De la terre de promission et les diverses et estranges choses</title>
+			<author>Mandeville, Jean de</author>
+			<istc>im00163100</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Leiden" xCoord="4.5" yCoord="52.1667">
+		<printer>Heynricus Heynrici</printer>
+		<year>1483</year>
+		<firstWork>
+			<title>Chronike of Historie van Hollant, Zeelant ende Vrieslant ende van den sticht van Utrecht</title>
+			<istc>ic00484810</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Leipzig" xCoord="12.40727" yCoord="51.303361">
+		<printer>Marcus Brandis</printer>
+		<year>1481</year>
+		<firstWork>
+			<title>De futuris Christianorum triumphis in Saracenos, seu glossa super Apocalypsin</title>
+			<author>Annius, Johannes, Viterbiensis</author>
+			<istc>ia00751000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Lisbon" xCoord="-9.139189" yCoord="38.684029">
+		<printer>Eliezer Toledano</printer>
+		<year>1489</year>
+		<firstWork>
+			<title>Hiddushe ha-Torah</title>
+			<author>Moses ben Nahman</author>
+			<istc>im00866160</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Mallorca" xCoord="2.65" yCoord="39.5833">
+		<printer>Nicolaus Calafat, for Bartholomaeus Caldenten</printer>
+		<year>1485</year>
+		<firstWork>
+			<title>Conclusiones de diversis materiis moralibus, sive De regulis mandatorum</title>
+			<author>Gerson, Johannes</author>
+			<istc>ig00209000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Meissen" xCoord="13.4167" yCoord="51.1667">
+		<printer>Printer of 'Breviarium Misnense' (Simon Koch?)</printer>
+		<year>1483</year>
+		<firstWork>
+			<title>Breviarium Misnense (Meissen)</title>
+			<istc>ib01168000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Metz" xCoord="6.1833" yCoord="49.1167">
+		<printer>Johannes Colini and Gerhardus de Nova Civitate</printer>
+		<year>1482</year>
+		<firstWork>
+			<title>Imitatio Christi, Liber I: Admonitiones ad spiritualem vitam utiles</title>
+			<istc>ii00058000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Moûtiers" xCoord="6.5333" yCoord="45.4833">
+		<printer>Johannes Waltheri</printer>
+		<year>1486</year>
+		<firstWork>
+			<title>Breviarium Tarentasiense (Moûtiers-en-Tarentaise, Savoy). Commissioned by Jean de Compeys, Archbishop of Moûtiers</title>
+			<istc>ib01183200 </istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Munich" xCoord="11.5833" yCoord="48.1333">
+		<printer>Johann Schaur</printer>
+		<year>1482</year>
+		<firstWork>
+			<title>(Mirabilia Romae vel potius) Historia et descriptio urbis Romae. Add: Indulgentiae ecclesiarum principalium urbis Romae [German] In dem puchlin stet geschriben wie Rom gepauet wart</title>
+			<istc>im00607300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Münster in Westfalen" xCoord="7.6333" yCoord="51.9667">
+		<printer>Johann Limburg</printer>
+		<year>1485</year>
+		<firstWork>
+			<title>Comoediae Codri</title>
+			<author>Kerckmester, Johannes</author>
+			<istc>ik00010900</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Murcia " xCoord="-1.124806" yCoord="37.970806">
+		<printer>Alfonso and Bartolomé Fernández de Córdoba</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Breviarium Carthaginense (Cartagena). Commissioned by Martinus de Selva, Dean of Cartagena</title>
+			<istc>ib01150700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Novi" xCoord="8.7833" yCoord="44.7667">
+		<printer>Nicolaus Girardengus, de Novis</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Summa casuum conscientiae. Add: Sixtus IV: Bulla "Etsi dominici gregis" 30 Dec. 1479. Rubricae iuris civilis et canonici</title>
+			<author>Salis, Baptista de (Trovamala)</author>
+			<istc>is00045000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Odense" xCoord="10.364423" yCoord="55.389802">
+		<printer>Johann Snel</printer>
+		<year>1482</year>
+		<firstWork>
+			<title>Obsidionis Rhodiae urbis descriptio</title>
+			<author>Caorsin, Guilelmus</author>
+			<istc>ic00110500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Orleans" xCoord="1.915196" yCoord="47.941583">
+		<printer>Mathieu Vivian</printer>
+		<year>1490</year>
+		<firstWork>
+			<title>Manipulus curatorum [French]</title>
+			<author>Guido de Monte Rochen</author>
+			<istc>ig00600700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Pamplona" xCoord="-1.625422" yCoord="42.767032">
+		<printer>Arnaldo Guillen, de Brocar</printer>
+		<year>1490</year>
+		<firstWork>
+			<title>Manuale Pampilonense (Pamplona)</title>
+			<istc>im00212660 </istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Pescia " xCoord="10.6833" yCoord="43.9">
+		<printer>Franciscus de Cennis</printer>
+		<year>1485</year>
+		<firstWork>
+			<title>Della confessione regole xii</title>
+			<author>Bernardinus Senensis</author>
+			<istc>ib00343900</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Pisa" xCoord="10.4" yCoord="43.7167">
+		<printer>Printer of Accoltis, 'Consilia' </printer>
+		<year>1482</year>
+		<firstWork>
+			<title>Consilia seu Responsa iuris. Prelim: Guido de Octavianis: Repertorium</title>
+			<author>Accoltis, Franciscus de</author>
+			<istc>ia00017500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Portese" xCoord="10.58333" yCoord="45.58333">
+		<printer>Bartholomaeus de Zanis, for Angelo Cozzali</printer>
+		<year>1490</year>
+		<firstWork>
+			<title>Statuta Ripariae Benacensis. Ed: Johannes Stephanus Vosonius</title>
+			<istc>is00722200</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Prague" xCoord="14.492283" yCoord="50.094777">
+		<printer>Printer of the 1487 Psalter (Johannes de Alta Mutha?)</printer>
+		<year>1487</year>
+		<firstWork>
+			<title>Psalterium [Czech] </title>
+			<istc>ip01069500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Promenthoux" xCoord="6.25" yCoord="46.4">
+		<printer>Louis Cruse</printer>
+		<year>1482</year>
+		<firstWork>
+			<title>Doctrinal de sapience</title>
+			<istc>id00301300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Regensburg" xCoord="12.1" yCoord="49.0167">
+		<printer>Johann Sensenschmidt and Johann Beckenhub</printer>
+		<year>1485</year>
+		<firstWork>
+			<title>Missale Ratisponense (Regensburg)</title>
+			<istc>im00686500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Rennes" xCoord="-1.704577" yCoord="48.128198">
+		<printer>Pierre Bellescullée and Josses, for Jean Hus</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Coutumes de Bretagne</title>
+			<istc>ic00953600</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Rouen" xCoord="1.104584" yCoord="49.404415">
+		<printer>Guillaume Le Talleur</printer>
+		<year>1482</year>
+		<firstWork>
+			<title>Traité d' Arras, 24 Dec. 1482</title>
+			<istc>it00421870</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Rougemont" xCoord="7.2167" yCoord="46.5">
+		<printer>Henricus Wirtzburg</printer>
+		<year>1481</year>
+		<firstWork>
+			<title>Fasciculus temporum</title>
+			<author>Rolewinck, Werner</author>
+			<istc>ir00266000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Salins " xCoord="5.8833" yCoord="46.9333">
+		<printer>Jean Du Pré (printer of Lyons)</printer>
+		<year>1483</year>
+		<firstWork>
+			<title>Indulgentia for the Dominicans at Poligny</title>
+			<author>Euvrardi, Claudius</author>
+			<istc>ie00131700</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Broadside</text>
+		</mouseOverData>
+	</location>
+	<location place="Saluzzo" xCoord="7.4833" yCoord="44.65">
+		<printer>Martinus de Lavalle</printer>
+		<year>1481</year>
+		<firstWork>
+			<title>Satyrae. Ed: Johannes Gauterius. Add: Bernardus: Epistola de gubernatione rei familiaris</title>
+			<author>Persius Flaccus, Aulus</author>
+			<istc>ip00349700</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="San Germano" xCoord="8.25" yCoord="45.35">
+		<printer>Jacobinus Suigus</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Breviarium Cisterciense</title>
+			<istc>ib01134500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Schleswig" xCoord="9.55" yCoord="54.5167">
+		<printer>Stephanus Arndes</printer>
+		<year>1486</year>
+		<firstWork>
+			<title>Missale Slesvicense (Schleswig)</title>
+			<istc>im00721800</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="s-Hertogenbosch" xCoord="5.3167" yCoord="51.6833">
+		<printer>Gerardus de Leempt</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Doctrinale (Partes III-IV)</title>
+			<author>Alexander de Villa Dei</author>
+			<istc>ia00452750</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Siena" xCoord="11.3167" yCoord="43.3167">
+		<printer>Henricus de Colonia and partners</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Super sexto libro Codicis</title>
+			<author>Paulus de Castro</author>
+			<istc>ip00164300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Soncino" xCoord="9.8667" yCoord="45.4">
+		<printer>Joshua Solomon Soncino</printer>
+		<year>1483</year>
+		<firstWork>
+			<title>Heading: Talmud Bavli. Title: Berakhot. Comm: Solomon ben Isaac, Maimonides and Mordecai ben Hillel. With Tosafot, Piske Tosafot</title>
+			<istc>it00015080</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Stendal" xCoord="11.85" yCoord="52.6">
+		<printer>Joachim Westphal</printer>
+		<year>1488</year>
+		<firstWork>
+			<title>Donatus moralisatus</title>
+			<author>Gerson, Johannes</author>
+			<istc>ig00223700</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC dates "about 1488." A similarly dated printing is Sachsenspiegel: Landrecht [Low German], printed by Joachim Westphal, [14]88, ISTC ie00025000.</text>
+		</mouseOverData>
+	</location>
+	<location place="Stockholm" xCoord="18.019031" yCoord="59.2852">
+		<printer>Johann Snel</printer>
+		<year>1483</year>
+		<firstWork>
+			<title>Dialogus creaturarum moralisatus</title>
+			<istc>id00159300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Stuttgart " xCoord="9.172805" yCoord="48.780805">
+		<printer>Printer of the 'Erwählung Maximilians'</printer>
+		<year>1486</year>
+		<firstWork>
+			<title>Electio Maximiliani [German] Erwählung Maximilians zu einem römischen König</title>
+			<author>Maximilian I</author>
+			<istc>im00385250</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Tarragona" xCoord="1.25" yCoord="41.1167">
+		<printer>Nicolaus Spindeler</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Manipulus curatorum  </title>
+			<author>Guido de Monte Rochen</author>
+			<istc>ig00587000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Toledo" xCoord="-4.037197" yCoord="39.831421">
+		<printer>Juan Vázquez</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Indulgentia 1484 [Spanish]. For promoting the crusade against the infidels</title>
+			<author>Sixtus IV, Pont. Max. (formerly Franciscus, Cardinalis de Rovere)</author>
+			<istc>is00569800</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Broadside</text>
+		</mouseOverData>
+	</location>
+	<location place="Tréguier" xCoord="-3.2333" yCoord="48.7833">
+		<printer>Ja. P.</printer>
+		<year>1485</year>
+		<firstWork>
+			<title>Coutumes de Bretagne</title>
+			<istc>ic00953700 </istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Trier  " xCoord="6.65" yCoord="49.75">
+		<printer>Printer of Schildiz (Johannes Colini and Gerhardus de Nova Civitate?) </printer>
+		<year>1481</year>
+		<firstWork>
+			<title>Speculum sacerdotum de tribus sacramentis principalibus</title>
+			<author>Schildiz, Hermannus</author>
+			<istc>is00318000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>A similarly dated printing is Expositio symboli Sancti Athanasii, printed by Printer of Schildiz, [1481], ISTC ie00169500. ISTC note: The colophon reads Impressum. ... Circa festum assumptois marie virgis gloriose. On the printers, see S. Corsten, in Refugium animae bibliotheca: Festschrift für Albert Kolb (Wiesbaden, 1968) pp. 139-48.</text>
+		</mouseOverData>
+	</location>
+	<location place="Troyes" xCoord="4.0833" yCoord="48.3">
+		<printer>Jean or Pierre Le Rouge</printer>
+		<year>1483</year>
+		<firstWork>
+			<title>Breviarium Trecense (Troyes)</title>
+			<istc>ib01185600</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Udine " xCoord="13.2333" yCoord="46.0667">
+		<printer>Gerardus de Lisa, de Flandria</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Heading: Statuta Forojulii (Friuli). Title: Constitutiones patriae Fori Julii [Italian] Constitutioni de la patria de friuoli. Tr: Pietro Cavretti</title>
+			<istc>is00713000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Urach" xCoord="9.4" yCoord="48.5">
+		<printer>Conrad Fyner</printer>
+		<year>1479</year>
+		<firstWork>
+			<title>Ausschreiben an Eberhard den Aelteren, Graf von Wuerttemberg, mit der Weisung, eine kriegerische Auseinandersetzung mit Erzherzog Sigmund von Österreich im Streit um den Mägdeberg in der Landgrafschaft Nellenburg zu unterlassen. Wiener Neustadt 26 Jan. 1480</title>
+			<author>Fridericus III</author>
+			<istc>if00318452</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Broadside. ISTC date is approximate [about 26 Jan. 1479].</text>
+		</mouseOverData>
+	</location>
+	<location place="Valladolid" xCoord="-4.71181" yCoord="41.604034">
+		<printer>Nuestra Señora del Prado</printer>
+		<year>1481</year>
+		<firstWork>
+			<title>Indulgence in favour of the Church of S. Salvador in Avila </title>
+			<author>Alfonso de Fonseca, Bishop of Avila</author>
+			<istc>ia00459900</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Broadside</text>
+		</mouseOverData>
+	</location>
+	<location place="Valldemossa ">
+		<printer>Nicolaus Calafat</printer>
+		<year>1485</year>
+		<firstWork>
+			<title>Indulgentia 1485 [Catalan]. For promoting the crusade against the infidels. Formula for the deceased</title>
+			<author>Innocentius VIII, Pont. Max. (Giovanni Battista Cibo)</author>
+			<istc>ii00119300</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Broadside. Imprint lists place as Valldemusa, ISTC date is approximate (about 1485).</text>
+		</mouseOverData>
+	</location>
+	<location place="Vercelli" xCoord="8.4333" yCoord="45.3167">
+		<printer>Jacobinus Suigus</printer>
+		<year>1485</year>
+		<firstWork>
+			<title>Supplementum Summae Pisanellae et Canones poenitentiales fratris Astensis et Consilia Alexandri de Nevo contra Judaeos foenerantes</title>
+			<author>Nicolaus de Ausmo</author>
+			<istc>in00077000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Vienna" xCoord="16.3667" yCoord="48.2167">
+		<printer>Printer of the 1482 'Vocabolista' (Stephan Koblinger?)</printer>
+		<year>1482</year>
+		<firstWork>
+			<title>Vocabularius [Italian and German] Vocabolista italico-tedesco</title>
+			<istc>iv00321400</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC note: A complete copy should have 52 leaves (Sajó-Soltész). The press of the Printer of the 1482 'Vocabolista' (Stephan Koblinger?) (BMC III 809) is called Drucker der Historie von S. Rochus by Langer-Dolch.</text>
+		</mouseOverData>
+	</location>
+	<location place="Viterbo" xCoord="12.1" yCoord="42.4">
+		<printer>Printer of Servius, 'De ultimis syllabis'</printer>
+		<year>1478</year>
+		<firstWork>
+			<title>Libellus de ultimis syllabis et Centimetrum. With additions by Laurentius Abstemius, ed</title>
+			<author>Servius Maurus, Honoratus</author>
+			<istc>is00484000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Imprint reads 12 Jan. 1488, but BMC states there may have been an extra "X" printed on imprint, making actual date 1478. (BMC Vol. VII, p. lxxxvi). ISTC note: 12 Jan. '1488'. [i.e. 1478?]. Proctor and BMC (VII p.lxxxvi) argued from the type and general appearance that the 1488 date must be a misprint. Attilio Carosi, Librai cartai e tipografi in Viterbo ... nei secoli XV e XVI (Viterbo, 1988), pp.23-27, argues for the date as printed.</text>
+		</mouseOverData>
+	</location>
+	<location place="Voghera" xCoord="9.0167" yCoord="44.9833">
+		<printer>Jacobus de Sancto Nazario, de Ripa, for Augustinus Datherus and Andrea Silla</printer>
+		<year>1486</year>
+		<firstWork>
+			<title>Super secunda parte Digesti veteris cum apostillis</title>
+			<author>Tartagnus, Alexander</author>
+			<istc>it00026820</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Winterberg" xCoord="13.7667" yCoord="49.0667">
+		<printer>Johann Alakraw</printer>
+		<year>1484</year>
+		<firstWork>
+			<title>Soliloquia (Text beginning: Agnoscam te ...)</title>
+			<author>Augustinus, Aurelius</author>
+			<istc>ia01326000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Zamora" xCoord="-5.75" yCoord="41.5">
+		<printer>Antonio de Centenera</printer>
+		<year>1482</year>
+		<firstWork>
+			<title>Vita Christi fecho por coplas. Add: Sermon trovado sobre el yugo y coyunda que el rey D. Fernando trae por divisa</title>
+			<author>Mendoza, Fray Iñigo de</author>
+			<istc>im00488300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Angoulême" xCoord="0.160278" yCoord="45.65">
+		<printer>Petrus Alanus &amp; Andreas Calvinus</printer>
+		<year>1491</year>
+		<firstWork>
+			<title>Auctores octo. Con: Cato: Disticha. Theodulus: Ecloga. Facetus. Pseudo-Bernardus: De contemptu mundi. Matthaeus Vindocinensis: Tobias. Alanus de Insulis: Doctrinale altum parabolarum. Aesopus: Fabulae. Pseudo-Bernardus: Floretus. Ed: Foucauld Monnier</title>
+			<istc>ia01181300</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Dijon" xCoord="5.026811" yCoord="47.290423">
+		<printer>Petrus Metlinger</printer>
+		<year>1491</year>
+		<firstWork>
+			<title>Privilegia ordinis Cisterciensis</title>
+			<istc>ip00976000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Goupillières" xCoord="1.7667" yCoord="48.8833">
+		<printer>Michel Andrieu</printer>
+		<year>1491</year>
+		<firstWork>
+			<title>Horae: ad usum Ebroicensem (Évreux) [French and Latin]</title>
+			<istc>ih00344500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Narbonne" xCoord="3" yCoord="43.1833">
+		<printer>In claustro S. Justi [with the material of Jean Du Pré (printer of Lyons)]</printer>
+		<year>1491</year>
+		<firstWork>
+			<title>Breviarium Narbonense (Narbonne). Ed: Radulphus Boiselli</title>
+			<istc>ib01172400</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Nozzano" xCoord="10.41" yCoord="43.8133">
+		<printer>Henricus de Colonia and Henricus de Harlem, for Nicolaus Tegrimus</printer>
+		<year>1491</year>
+		<firstWork>
+			<title>Disputatio de dote; Conclusio de dote confessata</title>
+			<author>Turretinus, Paulus</author>
+			<istc>it00557500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	
+	<location place="Zweibrücken" xCoord="7.3667" yCoord="49.25">
+		<printer>Jörg Gessler</printer>
+		<year>1492</year>
+		<firstWork>
+			<title>Wie Arent Bosman ein Geist erschien</title>
+			<author>Bosman</author>
+			<istc>ib01039650.</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Clair listed Zweibrucken, Missale Tullense, 1487, as first book, but it was not listed in any other sources, so we are citing this as first book in 1492, with a note indicating the date conflict.</text>
+		</mouseOverData>
+	</location>
+	<location place="Cluny" xCoord="4.65" yCoord="46.4333">
+		<printer>Michael Wenssler</printer>
+		<year>1492</year>
+		<firstWork>
+			<title>Brevarium Cluniacense</title>
+			<istc>ib01137600</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Leiria " xCoord="-8.795803" yCoord="39.729802">
+		<printer>Samuel Dortas</printer>
+		<year>1492</year>
+		<firstWork>
+			<title>Mishle. Comm: Menahem Meiri and Levi ben Gershom</title>
+			<istc>ib00525960</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Marienburg" xCoord="19.05" yCoord="54.0333">
+		<printer>Jacob Karweysse</printer>
+		<year>1492</year>
+		<firstWork>
+			<title>Das leben der seligen frawen Dorothee</title>
+			<author>Johannes de Marienwerder (KwidzyD)</author>
+			<istc>ij00377200</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	
+	<location place="Lausanne" xCoord="6.613808" yCoord="46.479028">
+		<printer>Jean Belot</printer>
+		<year>1493</year>
+		<firstWork>
+			<title>Missale Lausannense (Lausanne)</title>
+			<istc>im00667500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Lüneburg" xCoord="10.4" yCoord="53.25">
+		<printer>Johann Luce</printer>
+		<year>1490</year>
+		<firstWork>
+			<title>Prognosticatio de Antichristo</title>
+			<author>Frist, Bartholomaeus</author>
+			<istc>if00321750</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Mâcon" xCoord="4.8333" yCoord="46.3">
+		<printer>Michael Wenssler, for Philibert Tramadi</printer>
+		<year>1493</year>
+		<firstWork>
+			<title>Diurnale Matisconense (Mâcon)</title>
+			<istc>id00285000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Nantes" xCoord="-1.534423" yCoord="47.20981">
+		<printer>Etienne Larcher</printer>
+		<year>1493</year>
+		<firstWork>
+			<title>Les lunettes des princes. Add: Vingt-cinq ballades. Commémoration de la passion</title>
+			<author>Meschinot, Jean</author>
+			<istc>im00505500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Tours" xCoord="0.7" yCoord="47.3833">
+		<printer>Simon Pourcelet</printer>
+		<year>1493</year>
+		<firstWork>
+			<title>Breviarium Turonense (Tours)</title>
+			<istc>ib01186800</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>This book is dated 10 February 1493/94 in ISTC.</text>
+		</mouseOverData>
+	</location>
+	<location place="Urbino" xCoord="12.6333" yCoord="43.7167">
+		<printer>Henricus de Colonia</printer>
+		<year>1493</year>
+		<firstWork>
+			<title>Hypothesia ad Hieronymum filium</title>
+			<author>Guarinus Veronensis</author>
+			<istc>ig00533600</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Uzès" xCoord="4.4167" yCoord="44.0167">
+		<printer>Jean Du Pré (printer of Lyons)</printer>
+		<year>1493</year>
+		<firstWork>
+			<title>Breviarium Uticense (Uzès)</title>
+			<istc>ib01187100</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Braga" xCoord="-8.454577" yCoord="41.499031">
+		<printer>Johann Gherlinc, for Petrus de Barcena</printer>
+		<year>1494</year>
+		<firstWork>
+			<title>Breviarium Bracarense (Braga)</title>
+			<istc>ib01150350</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Monterrey" xCoord="-7.37497" yCoord="41.9167">
+		<printer>Gundisalvus [Roderici] de la Passera and Juan de Porras</printer>
+		<year>1494</year>
+		<firstWork>
+			<title>Missale secundum usum Auriensis ecclesiae</title>
+			<istc>im00646130</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Senj" xCoord="14.9167" yCoord="45">
+		<printer>Blasius Baromi , Sylvester Bedrii  and Gaspar Turi</printer>
+		<year>1494</year>
+		<firstWork>
+			<title>Missale Romanum Glagoliticum</title>
+			<istc>im00709250</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Cesena" xCoord="12.25" yCoord="44.15">
+		<printer>Paulus Guarinus &amp; Johannes Jacobus de Benedictis</printer>
+		<year>1495</year>
+		<firstWork>
+			<title>Prognosticon dialogale 1495-1500 [Italian]</title>
+			<author>Manilio, Antonio</author>
+			<istc>im00198800</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Forli" xCoord="12.0333" yCoord="44.2167">
+		<printer>Paulus Guarinus &amp; Johannes Jacobus de Benedictis</printer>
+		<year>1495</year>
+		<firstWork>
+			<title>De elegantia linguae latinae</title>
+			<author>Ferettus, Nicolaus</author>
+			<istc>if00098000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Freiberg in Sachsen" xCoord="13.35" yCoord="50.9167">
+		<printer>Conrad Kachelofen</printer>
+		<year>1495</year>
+		<firstWork>
+			<title>Missale Misnense (Meissen)</title>
+			<istc>im00673400</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>The missal was commissioned by the Bishop of Meissen and begun in Kachelofen's Leipzig printing house. It was completed at Freiberg, where he had moved due to an an outbreak of the plague.</text>
+		</mouseOverData>
+	</location>
+	<location place="Limoges" xCoord="1.261193" yCoord="45.840191">
+		<printer>Jean Berton</printer>
+		<year>1495</year>
+		<firstWork>
+			<title>Breviarium Lemovicense (Limoges). Ed: Martialis Bolbou. Commissioned by Jean Barton de Montbas, bishop of Limoges</title>
+			<istc>ib01162495</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>This book is dated 21 January 1495/96 in ISTC.</text>
+		</mouseOverData>
+	</location>
+	<location place="Pforzheim" xCoord="8.7" yCoord="48.8833">
+		<printer>Thomas Anshelm</printer>
+		<year>1495</year>
+		<firstWork>
+			<title>Almanac 1496 [German]</title>
+			<istc>ia00520250</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>This book is dated about 1495-96 in ISTC.</text>
+		</mouseOverData>
+	</location>
+	<location place="Scandiano" xCoord="10.6833" yCoord="44.6">
+		<printer>Peregrinus de Pasqualibus, Bononiensis</printer>
+		<year>1495</year>
+		<firstWork>
+			<title>Historia Romana (Pars I) (Tr: Petrus Candidus Decembrius)</title>
+			<author>Appianus</author>
+			<istc>ia00930000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>The colophon reads 'M.CCCCLCXV.IIII. Idu&amp;ubreve; Ianuarii'</text>
+		</mouseOverData>
+	</location>
+	<location place="Schoonhoven" xCoord="4.85" yCoord="51.95">
+		<printer>Canonici Regulares apud S. Michaelem in Den Hem</printer>
+		<year>1495</year>
+		<firstWork>
+			<title>Breviarium Traiectense (Utrecht)</title>
+			<istc>ib01184500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Vadstena" xCoord="14.9167" yCoord="58.4333">
+		<printer>[Monastery of S. Birgitta]</printer>
+		<year>1495</year>
+		<firstWork>
+			<title>Horae: ad usum Lincopense (Linköping) et Scarense (Skara)</title>
+			<istc>ih00345500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Zinna" xCoord="13.1167" yCoord="52.0333">
+		<printer>[with the type of Conrad Kachelofen?] </printer>
+		<year>1496</year>
+		<firstWork>
+			<title>Novum Psalterium Beatae Virginis Mariae</title>
+			<author>Nitzschewitz, Hermannus</author>
+			<istc>in00260000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Zinna is not listed in the ISTC record.<br />On the identity of the printer, see Geldner I p.268 and Hühns. <br />ISTC dates this as "not after 1496." The Bodleian copy has a purchase date of 1496; Polain dates about 1494-96. </text>
+		</mouseOverData>
+	</location>
+	<location place="Barco" xCoord="11.39736" yCoord="44.0602">
+		<printer>Gershom Soncino</printer>
+		<year>1496</year>
+		<firstWork>
+			<title>Almanac 1496-1497 (5257)</title>
+			<istc>ia00520270</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC lists the date as before September 8, 1496. Latitude and longitude is for Il Barco region of Italy.</text>
+		</mouseOverData>
+	</location>
+	<location place="Granada" xCoord="-3.5833" yCoord="37.1667">
+		<printer>Meinardus Ungut and Johann Pegnitzer</printer>
+		<year>1496</year>
+		<firstWork>
+			<title>Crestiá: primer llibre [Spanish] Primer volumen de la vida de Christo (Ed: Fernando de Talavera)</title>
+			<author>Ximenes, Franciscus</author>
+			<istc>ix00007600</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Author also recorded as Francesc Eiximenis.</text>
+		</mouseOverData>
+	</location>
+	<location place="Offenburg" xCoord="7.95" yCoord="48.4833">
+		<printer>[Printer of Caracciolus, 'Quadragesimales' (H 4443*) (Kilianus Piscator)]</printer>
+		<year>1496</year>
+		<firstWork>
+			<title>Sermones quadragesimales de peccatis</title>
+			<author>Caracciolus, Robertus</author>
+			<istc>ic00164000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Provins" xCoord="3.3" yCoord="48.5667">
+		<printer>Guillaume Tavernier for Jaquette Lebée, widow of Jean Hérault</printer>
+		<year>1496</year>
+		<firstWork>
+			<title>Summa confessorum [French] La règle des marchands</title>
+			<author>Johannes Friburgensis</author>
+			<istc>ij00316700</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Translation of Guy de Toulouse's version with the title Regula mercatorum (cf CIBN).</text>
+		</mouseOverData>
+	</location>
+	<location place="Valence" xCoord="4.9" yCoord="44.9333">
+		<printer>Jean Belon?</printer>
+		<year>1496</year>
+		<firstWork>
+			<title>Commentaria et apparatus super statuto Delphinali. Ed: Johannes Albonus</title>
+			<author>Papa, Guido</author>
+			<istc>ip00076000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Claudin gives Valence as the place of printing, but appears no printer is associated with it. <br />The author is also recorded as Guido Gratianopolitanus, Guidon de La Pope.</text>
+		</mouseOverData>
+	</location>
+	<location place="Avignon" xCoord="4.82075" yCoord="43.9689">
+		<printer>[Pierre Rohault] for Nicolaus Tepe</printer>
+		<year>1497</year>
+		<firstWork>
+			<title>De praecedentia Alexandri, Hannibalis et Scipionis [Latin] (Tr: Johannes Aurispa). Prelim: Pseudo- Lucianus: Palinurus. Add: In amorem. Brutus: Epistolae [Latin] (Tr: Rinucius Aretinus). Diogenes Cynicus: Epistolae [Latin] (Tr: Franciscus Griffolinus (Aretinus)). Ed: Gellius Bernardinus Marmita</title>
+			<author>Lucianus Samosatensis</author>
+			<istc>il00327000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Oporto" xCoord="-8.619127" yCoord="41.137812">
+		<printer>Rodrigo Alvares</printer>
+		<year>1497</year>
+		<firstWork>
+			<title>Constituições que fez ho Senhor Dom Diogo de Sousa bispo do Porto</title>
+			<istc>is00750500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Gripsholm" xCoord="11.033333" yCoord="50.983334">
+		<printer>[Carthusian Monastery of Mariefred]</printer>
+		<year>1498</year>
+		<firstWork>
+			<title>Psalterium Virginis Mariae. Add: Apologeticus, sive tractatus responsorius de Psalterio B.M.V. Sermo in III Sententiarum, sive De XV laudibus B.M.V. Sermo super salutatione angelica. Epilogus psalterii. Compendium psalterii Trinitatis. De dignitate sive excellentiis sacerdotum. Scala religionis. Triginta excellentiae et praerogativae religionis</title>
+			<author>Rupe, Alanus de</author>
+			<istc>ir00361000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC indicates for more on the author and texts, cf. Kaeppeli I pp. 21ff.</text>
+		</mouseOverData>
+	</location>
+	<location place="Schiedam" xCoord="4.4" yCoord="51.9167">
+		<printer>[Printer of the 'Vita Lydwinae' (Otgier Nachtegael?)]</printer>
+		<year>1498</year>
+		<firstWork>
+			<title>Vita S. Lidwinae</title>
+			<author>Brugmannus, Johannes</author>
+			<istc>ib01220000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Tubingen" xCoord="9.053328" yCoord="48.520408">
+		<printer>Johann Otmar</printer>
+		<year>1498</year>
+		<firstWork>
+			<title>Lectura in Johannem Duns Scotum super libro primo Sententiarum</title>
+			<author>Paulus Scriptor</author>
+			<istc>ip00206000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	
+	<location place="Danzig" xCoord="14.966666" yCoord="51.383333">
+		<printer>Conrad Baumgarten</printer>
+		<year>1499</year>
+		<firstWork>
+			<title>Ars minor</title>
+			<author>Donatus, Aelius</author>
+			<istc>id00336300</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC dates as before 10 June, 1499. On the date, cf GW.</text>
+		</mouseOverData>
+	</location>
+	<location place="Montserrat" xCoord="1.8378" yCoord="41.5917">
+		<printer>Johann Luschner</printer>
+		<year>1499</year>
+		<firstWork>
+			<title>Meditationes vitae Christi</title>
+			<author>Bonaventura, S</author>
+			<istc>ib00900000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Sometimes attributed to Johannes de Caulibus (cf. BBFN Inc p.119f)<br />Also a Missal dated 1499: im00633100<br />Also, there is an indulgence dated 1499 for the benefit of the Monastery there that isn't sure of being Montserrat: ix00020320, ix00020330, ix00020340, ix00020350, ix00020410</text>
+		</mouseOverData>
+	</location>
+	<location place="Olmutz" xCoord="17.7" yCoord="50.316666">
+		<printer>Mathias Preunlein</printer>
+		<year>1499</year>
+		<firstWork>
+			<title>Planctus ruinae ecclesiae [Latin and German]<br />and Quaestio fabulosa</title>
+			<author>Johannes Fabri and Schram, Johannes</author>
+			<istc>ip00748500</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC states that GW identifies the author as Johannes Fabri. <br />The ISTC number for the Quaestio fabulosa is is00324000.</text>
+		</mouseOverData>
+	</location>
+	<location place="Oppenheim" xCoord="8.2997" yCoord="49.6061">
+		<printer>Jacob Köbel</printer>
+		<year>1497</year>
+		<firstWork>
+			<title>Ausschreiben gegen den Missbrauch des Namens Gottes. Worms, 7 Aug. 1495</title>
+			<author>Maximilian I, Imperator</author>
+			<istc>im00383215</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Another ISTC number for this book is im00383213.<br />ISTC dates this as after February 1, 1497. GW(Einbl) assigned to Bumgart, F. Schanze, in 'Erstdruck' S. 127, assigns to Köbel<br />The edict, dated 7 Aug. 1495 in the text, was not approved until 1 Feb. 1497 at the Reichstag in Lindau (F. Schanze in Gb Jb 1999, pp. 124-25). Assigned to Bumgart in GW (Einbl), Schanze, p. 127 assigns to Köbel.</text>
+		</mouseOverData>
+	</location>
+	<location place="San Cesario" xCoord="5.44795" yCoord="45.048739">
+		<printer>Ugo Rugerius</printer>
+		<year>1499</year>
+		<firstWork>
+			<title>Meditatio passionis Christi [Italian]</title>
+			<author>Bernardus Claravallensis</author>
+			<istc>ib00400800</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Perpignan" xCoord="2.8707" yCoord="42.7404">
+		<printer>Johann Rosembach</printer>
+		<year>1500</year>
+		<firstWork>
+			<title>Breviarium Elnense (Elnes)</title>
+			<istc>ib01158800</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>There is also the De primis erudimentis linguae latinae by Hercules Florus that was also printed by Rosembach in 1500. The ISTC number is if00230600.</text>
+		</mouseOverData>
+	</location>
+	<location place="Sursee" xCoord="8.09" yCoord="47.17">
+		<printer>[Printer of Schradin]</printer>
+		<year>1500</year>
+		<firstWork>
+			<title>Chronik dieses Krieges (Schwabenkrieg)</title>
+			<author>Schradin, Nicolaus</author>
+			<istc>is00323000</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Valenciennes" xCoord="3.34" yCoord="50.2">
+		<printer>Jean de Liège</printer>
+		<year>[1500]</year>
+		<firstWork>
+			<title>Le débat de Cuidier et de Fortune</title>
+			<author>La Marche, Olivier de</author>
+			<istc>il00029036</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>ISTC dates this between 1493 and 1500.</text>
+		</mouseOverData>
+	</location>
+	<location place="Chelmno" xCoord="18.423519" yCoord="53.347382">
+		<printer>Printer of Leo Papa, 'Sermones'</printer>
+		<year>1473</year>
+		<firstWork>
+			<title>De duobus amantibus Guiscardo et Sigismunda</title>
+			<author>Brunus Aretinus, Leonardus</author>
+			<istc>ib01238300</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>On the location of this printing-house in Poland see E. Szandorowska, in Quaerendo 2 (1972), pp.162-72. The press was previously assigned to the Netherlands (GW) and tentatively to Cologne (V. Scholderer, in BSA 54 (1960) pp.111-13; reprinted in Fifty Essays (Amsterdam, 1966) pp.279-80) A translation by Leonardus Brunus Aretinus of Boccaccio, Decameron IV.1</text>
+		</mouseOverData>
+	</location>
+	<location place="Fivizzano" xCoord="10.12753" yCoord="44.23814">
+		<printer>Jacobus de Fivizzano</printer>
+		<year>1472</year>
+		<firstWork>
+			<title>De officiis. Add: Paradoxa Stoicorum; Laelius, sive de amicitia; Cato maior, sive de senectute</title>
+			<author>Cicero, Marcus Tullius</author>
+			<istc>ic00579600</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Pinerolo" xCoord="7.33169" yCoord="44.884819">
+		<printer>Jacobus Rubeus</printer>
+		<year>1479</year>
+		<firstWork>
+			<title>De consolatione philosophiae</title>
+			<author>Boethius</author>
+			<istc>ib00770000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>The colophon date is perhaps copied from that of the Pinerolo edition of Juvenalis (Goff J643), or vice versa. Format is f°, not 4°, as GW (Sheppard, CIBN) </text>
+		</mouseOverData>
+	</location>
+	<location place="Freising" xCoord="11.74376" yCoord="48.400791">
+		<printer>Johann Sensenschmidt [and Heinrich Petzensteiner]</printer>
+		<year>1487</year>
+		<firstWork>
+			<title>Missale Frisingense (Freising)</title>
+			<istc>im00660000</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>Woodcuts. On the place of printing, see F. Geldner in Gb Jb 1944/49 p.101</text>
+		</mouseOverData>
+	</location>
+	<location place="Cetinje" xCoord="18.922501" yCoord="42.391178">
+		<printer>Macarius, for Georg Crnojević</printer>
+		<year>1494</year>
+		<firstWork>
+			<title>Octoechos I [Church Slavonic] Osmoglasnik I</title>
+			<istc>io00022300</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>London, British Library (IB.56904, Imperfect, wanting the last 5 leaves, which are supplied by photographs. Ff.1-17 are misbound)</text>
+		</mouseOverData>
+	</location>
+	<location place="Orense" xCoord="-7.86626" yCoord="42.338989">
+		<printer>Johann Gherlinc</printer>
+		<year>1495</year>
+		<firstWork>
+			<title>Indulgentia 1488 [Latin]. For the benefit of the Cathedral at Orense</title>
+			<author>Innocentius VIII, Pont. Max.</author>
+			<istc>ii00124500</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>On the place of printing and the date, cf. Norton(1966) pp.31-32. Haebler dated about 1490</text>
+		</mouseOverData>
+	</location>
+	<location place="Périgueux" xCoord="0.72322" yCoord="45.184071">
+		<printer>Jean Carant</printer>
+		<year>1498</year>
+		<firstWork>
+			<title>Diurnale Cartusianum</title>
+			<istc>id00280500</istc>
+		</firstWork>
+		<mouseOverData/>
+	</location>
+	<location place="Cagliari" xCoord="9.11049" yCoord="39.21452">
+		<printer>Printer of the 'Carta de logu'</printer>
+		<year>1480</year>
+		<firstWork>
+			<title>Carta de logu</title>
+			<author>D'Arborea, Eleonora</author>
+			<istc>ie00037700</istc>
+		</firstWork>
+		<mouseOverData>
+			<text>On the printer, see P. Veneziani, in La Bibliofilia 80 (1978) pp.62-67 &amp; fig.2. GW assigned to de Bolonya, and IGI to Valencia. A local law code written in 'lingua sardisca' (L. Balsamo, La stampa in Sardegna (1968) p.15) </text>
+		</mouseOverData>
+	</location>
+	<location place="Constantinople" xCoord="28.986183" yCoord="41.040855">
+		<printer>David and Samuel ibn Nahmias</printer>
+		<year>1493</year>
+		<firstWork>
+			<title>Arba'ah Turim</title>
+			<author>Jacob ben Asher</author>
+			<istc>ij00000300</istc>
+		</firstWork>
+		<mouseOverData>
+		<text>On the date, often previously recorded as 1503, see A.K. Offenberg, in A choice of corals (Nieuwkoop, 1992) pp. 102-32</text>
+		</mouseOverData>
+	</location>
+</data>

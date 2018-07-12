@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<seg>
+	<point segment="0" xCoord="-.012" yCoord="51.50" name="London"/>
+	<point segment="0" xCoord="1.087" yCoord="51.275" name="Canterbury"/>
+	<point segment="0" xCoord="1.85" yCoord="50.95" name="Calais"/>
+	<point segment="0" xCoord="2.5486" yCoord="50.4819" name="Bruay La Buissiere"/>
+	<point segment="0" xCoord="2.7808" yCoord="50.2897" name="Arras"/>
+	<point segment="0" xCoord="4.0347" yCoord="49.2628" name="Reims"/>
+	<point segment="0" xCoord="4.3650" yCoord="48.9575" name="Chalones-en-Champagne"/>
+	<point segment="0" xCoord="4.7200" yCoord="48.2700" name="Bar-sur-Aube"/>
+	<point segment="0" xCoord="6.0219" yCoord="47.2431" name="Besancon"/>
+	<point segment="0" xCoord="6.3556" yCoord="46.9067" name="Pontarlier"/>
+	<point segment="0" xCoord="6.6335" yCoord="46.5198" name="Lausanne"/>
+	<point segment="0" xCoord="6.7694" yCoord="45.6175" name="Bourg-Saint Maurice"/>
+	<point segment="0" xCoord="7.2000" yCoord="45.9500" name="Bourg-Saint Pierre"/>
+	<point segment="0" xCoord="7.3167" yCoord="45.7333" name="Aosta"/>
+	<point segment="0" xCoord="7.8833" yCoord="45.4667" name="Ivrea"/>
+	<point segment="0" xCoord="9.1500" yCoord="45.1833" name="Pavia"/>
+	<point segment="0" xCoord="9.7000" yCoord="45.0500" name="Piacenza"/>
+	<point segment="0" xCoord="9.9833" yCoord="44.5167" name="Berceto"/>
+	<point segment="0" xCoord="9.8833" yCoord="44.3833" name="Pontremoli"/>
+	<point segment="0" xCoord="10.5167" yCoord="43.8500" name="Lucca"/>
+	<point segment="0" xCoord="11.0420" yCoord="43.4680" name="San Gimignano"/>
+	<point segment="0" xCoord="11.3333" yCoord="43.3333" name="Siena"/>
+	<point segment="0" xCoord="13.0167" yCoord="43.4500" name="Serra San Quirico"/>
+	<point segment="0" xCoord="11.9333" yCoord="42.6000" name="Bolsena"/>
+	<point segment="0" xCoord="12.1000" yCoord="42.4167" name="Viterbo"/>
+	<point segment="0" xCoord="12.2833" yCoord="42.2333" name="Sutri"/>
+	<point segment="0" xCoord="12.5000" yCoord="41.9000" name="Rome"/>
+</seg>
+<seg>
+	<point segment="1" xCoord="4.6278" yCoord="43.6767" name="Arles"/>
+	<point segment="1" xCoord="3.5506" yCoord="43.7347" name="Sain-Guilhem"/>
+	<point segment="1" xCoord="1.4440" yCoord="43.6045" name="Toulouse"/>
+	<point segment="1" xCoord="0.6056" yCoord="43.1947" name="Oloron"/>
+	<point segment="1" xCoord="-0.5500" yCoord="42.5500" name="Jaca"/>
+	<point segment="1" xCoord="-1.8150" yCoord="42.6721" name="Puente la Reina"/>
+	<point segment="1" xCoord="-2.4456" yCoord="42.4650" name="Logrono"/>
+	<point segment="1" xCoord="-3.7067" yCoord="42.3500" name="Burgos"/>
+	<point segment="1" xCoord="-5.5700" yCoord="42.6056" name="Leon"/>
+	<point segment="1" xCoord="-6.0500" yCoord="42.4500" name="Astorga"/>
+	<point segment="1" xCoord="-6.5833" yCoord="42.5500" name="Ponferrada"/>
+	<point segment="1" xCoord="-8.5463" yCoord="42.8804" name="Santiago De Compostela"/>
+</seg>
+<seg>
+	<point segment="2" xCoord="2.3508" yCoord="48.8567" name="Paris"/>
+	<point segment="2" xCoord="1.9090" yCoord="47.9025" name="Orleans"/>
+	<point segment="2" xCoord="0.6892" yCoord="47.3936" name="Tours"/>
+	<point segment="2" xCoord="0.3361" yCoord="46.5819" name="Poitiers"/>
+	<point segment="2" xCoord="-0.6333" yCoord="45.7464" name="Saintes"/>
+	<point segment="2" xCoord="-0.5783" yCoord="44.8386" name="Bordeaux"/>
+	<point segment="2" xCoord="-1.0697" yCoord="43.2567" name="Ostabat"/>
+	<point segment="2" xCoord="-1.2356" yCoord="43.1650" name="St-Jean-Pied-De-Port"/>
+	<point segment="2" xCoord="-1.3167" yCoord="43.0000" name="Roncesvalles"/>
+	<point segment="2" xCoord="-1.6442" yCoord="42.8183" name="Pamplona"/>
+	<point segment="2" xCoord="-1.8150" yCoord="42.6721" name="Puente la Reina"/>
+	<point segment="2" xCoord="-2.4456" yCoord="42.4650" name="Logrono"/>
+	<point segment="2" xCoord="-3.7067" yCoord="42.3500" name="Burgos"/>
+	<point segment="2" xCoord="-5.5700" yCoord="42.6056" name="Leon"/>
+	<point segment="2" xCoord="-6.0500" yCoord="42.4500" name="Astorga"/>
+	<point segment="2" xCoord="-6.5833" yCoord="42.5500" name="Ponferrada"/>
+	<point segment="2" xCoord="-8.5463" yCoord="42.8804" name="Santiago De Compostela"/>
+</seg>
+<seg>
+	<point segment="3" xCoord="3.7467" yCoord="47.4667" name="Vezelay"/>
+	<point segment="3" xCoord="2.3964" yCoord="47.0844" name="Bourges  OR Sauvigny"/>
+	<point segment="3" xCoord="1.4914" yCoord="45.8383" name="Noblat"/>
+	<point segment="3" xCoord="1.2625" yCoord="45.8353" name="Limoges"/>
+	<point segment="3" xCoord="0.7217" yCoord="45.1929" name="Perigueux"/>
+	<point segment="3" xCoord="-1.0697" yCoord="43.2567" name="Ostabat"/>
+	<point segment="3" xCoord="-1.2356" yCoord="43.1650" name="St-Jean-Pied-De-Port"/>
+	<point segment="3" xCoord="-1.3167" yCoord="43.0000" name="Roncesvalles"/>
+	<point segment="3" xCoord="-1.6442" yCoord="42.8183" name="Pamplona"/>
+	<point segment="3" xCoord="-1.8150" yCoord="42.6721" name="Puente la Reina"/>
+	<point segment="3" xCoord="-2.4456" yCoord="42.4650" name="Logrono"/>
+	<point segment="3" xCoord="-3.7067" yCoord="42.3500" name="Burgos"/>
+	<point segment="3" xCoord="-5.5700" yCoord="42.6056" name="Leon"/>
+	<point segment="3" xCoord="-6.0500" yCoord="42.4500" name="Astorga"/>
+	<point segment="3" xCoord="-6.5833" yCoord="42.5500" name="Ponferrada"/>
+	<point segment="3" xCoord="-8.5463" yCoord="42.8804" name="Santiago De Compostela"/>
+</seg>
+<seg>
+	<point segment="4" xCoord="3.8858" yCoord="45.0442" name="Le Puy"/>
+	<point segment="4" xCoord="2.3972" yCoord="44.6003" name="Conques"/>
+	<point segment="4" xCoord="1.0861" yCoord="44.1056" name="Moissac"/>
+	<point segment="4" xCoord="-1.0697" yCoord="43.2567" name="Ostabat"/>
+	<point segment="4" xCoord="-1.2356" yCoord="43.1650" name="St-Jean-Pied-De-Port"/>
+	<point segment="4" xCoord="-1.3167" yCoord="43.0000" name="Roncesvalles"/>
+	<point segment="4" xCoord="-1.6442" yCoord="42.8183" name="Pamplona"/>
+	<point segment="4" xCoord="-1.8150" yCoord="42.6721" name="Puente la Reina"/>
+	<point segment="4" xCoord="-2.4456" yCoord="42.4650" name="Logrono"/>
+	<point segment="4" xCoord="-3.7067" yCoord="42.3500" name="Burgos"/>
+	<point segment="4" xCoord="-5.5700" yCoord="42.6056" name="Leon"/>
+	<point segment="4" xCoord="-6.0500" yCoord="42.4500" name="Astorga"/>
+	<point segment="4" xCoord="-6.5833" yCoord="42.5500" name="Ponferrada"/>
+	<point segment="4" xCoord="-8.5463" yCoord="42.8804" name="Santiago De Compostela"/>
+</seg>
+</data>
